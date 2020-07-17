@@ -1,0 +1,388 @@
+Bank,Br Code,CQM,MTBF Machine (Y/N),Location,Date,"Call 
+Time",Arrival Time,Complete Time,Waiting Time,Call Type (SC/request),Machine Down?,Resp Time,Down Time,MTBF Failure (Y/N),Problem Code,Fault Found  by vendor,Remarks,Gross Down Time,Vendor's Remarks,Multiple same day failure,,JR No.#
+HASE,393,4C00,Y,MTR Shek Mun ABC,43985,0.354166667,0.510416667,0.534722222,,Request,N,Request,Request,N,Request,Pm check,"Pretentive Maintenance, ESU activation",,,,,C58224
+HASE,379,4C01,Y,Telford House,43983,0.666666667,0.71875,0.729166667,,SC,Y,0.052083333,0.0625,N,NUB,Reject cheque,clean roller as  insert cheque difficult in feeder,,,,,C58400
+HASE,379,4C01,Y,Telford House,43986,0.565972222,0.715277778,0.729166667,,SC,Y,0.149305556,0.163194444,N,NUD,jam cheque at scanner.,cleaning and adjust scanner roller,,,,,C58233
+HASE,379,4C01,Y,Telford House,43991,0.354166667,0.479166667,0.489583333,,SC,Y,0.125,0.135416667,N,NUD,Jam cheque,"Remove cheque at aligner, adjust thickness gap & feeder pad, clear black line",,,,,C58332
+HASE,379,4C01,Y,Telford House,43994,0.600694444,0.670138889,0.677083333,,SC,N,0.069444444,0.076388889,N,NIC,Black line,Clean scanner. Adjust ink roller.,,,,,C57083
+HASE,379,4C01,Y,Telford House,44000,0.354166667,0.416666667,0.430555556,,SC,Y,0.0625,0.076388889,N,NUD,jam cheque at scanner.,follow up for scanner replacement due to scanner roller,,,,,C59327
+HASE,379,4C01,Y,Telford House,44000,0.434027778,0.701388889,0.736111111,,Request,N,Request,Request,N,Request,Follow up,Replaced scanner unit,,,,,C59133
+HASE,379,4C01,Y,Telford House,44012,0.354166667,0.416666667,0.4375,,SC,Y,0.0625,0.083333333,N,NUD,Jam cheque at scanner.,replaced ribbon and pressure roller.,,,,,C59982
+HASE,294,4C02,Y,San Po Kong,44011,0.621527778,0.708333333,0.71875,,SC,Y,0.086805556,0.097222222,Y,NGC,Auto reset,"retain card in card holder,collect card and replaced ribbon cartiage",,,,,C59870
+HASE,393,4C03,Y,Wan Chai,43998,0.354166667,0.541666667,0.555555556,,SC,Y,0.1875,0.201388889,N,NOA,out of service,Turn on computer,,,,,C59578
+HASE,393,4C03,Y,Wan Chai,43999,0.638888889,0.71875,0.75,,SC,Y,0.079861111,0.111111111,N,NGC,Out of service,Restarted machine. Rebuid array. Cleaned sensors. Serviced machine. Test OK.,,,,,C59378
+HASE,393,4C03,Y,Wan Chai,44001,0.65625,0.71875,0.739583333,,SC,Y,0.0625,0.083333333,N,NGC,CQM slow,reboot CQM. Service machine,,,,,C59634
+HASE,393,4C03,Y,Wan Chai,44003,0.354166667,0.461805556,0.604166667,,Request,N,Request,Request,N,Request,Reload Program,Reload Program,,,,,C59490
+HASE,393,4C04,Y,MTR Wan Chai,43992,0.354166667,0.416666667,0.430555556,,SC,N,0.0625,0.076388889,N,NZA,CAS out,printer advice empty. Replace a new roller advice,,,,,C59167
+HASE,393,4C04,Y,MTR Wan Chai,43998,0.364583333,0.4375,0.444444444,,SC,Y,0.072916667,0.079861111,N,NUD,Fold cheque on aligner,Remove fold cheque from aligner. Normal service machine. Test ok,,,,,C59505
+HASE,393,4C07,Y,Causeway Bay,43986,0.354166667,0.416666667,0.4375,,Request,N,Request,Request,N,Request,Pm check,"Pretentive Maintenance, ESU activation",,,,,C49298
+HASE,393,4C08,Y,Causeway Bay,43985,0.684027778,0.722222222,0.729166667,,SC,N,0.038194444,0.045138889,N,NIC,small image,TSP and clean scanner,,,,,C58080
+HASE,393,4C08,Y,Causeway Bay,43986,0.354166667,0.4375,0.458333333,,Request,N,Request,Request,N,Request,Pm check,"Pretentive Maintenance, ESU activation",,,,,C49299
+HASE,393,4C08,Y,Causeway Bay,43990,0.684027778,0.736111111,0.743055556,,SC,N,0.052083333,0.059027778,N,NZA,CAS problem,No problem found. Cleaned CAS printer roller. Serviced machine. Test OK.,,,,,C59029
+HASE,293,4C0A,N,Kowloon Main,44012,0.354166667,0.579861111,0.59375,,SC,Y,Request,Request,N,Request,Health check - no endorsement,Replace ribbon.,,,,,C59014
+HASE,293,4C0B,N,Kowloon Main,43983,0.572916667,0.631944444,0.645833333,,SC,N,0.059027778,0.072916667,N,NIA,Crossing blur,Replace stamp,,,,,C58693
+HASE,293,4C0B,N,Kowloon Main,43986,0.541666667,0.583333333,0.604166667,0.006944444,SC,N,0.041666667,0.055555556,N,NIC,Image small,Perform TSP. Adjust scanner gap.,,,,,C58615
+HASE,293,4C0B,N,Kowloon Main,44006,0.659722222,0.6875,0.694444444,,SC,Y,0.027777778,0.034722222,N,NUD,Jam cheque,Remove jammed cheque at bin 2. Rescrew bar lock.,,,,,C58176
+HASE,393,4C0C,Y,MTR Tsing Yi,43985,0.354166667,0.465277778,0.479166667,,SC,N,0.111111111,0.125,N,NIC,Black line,The front scanner is dirty. Action: Clean scanner and recalibrate scanner. Test ok.,,,,,C58091
+HASE,393,4C0C,Y,MTR Tsing Yi,43995,0.368055556,0.475694444,0.486111111,,SC,Y,0.107638889,0.118055556,N,NOA,Out of service,Cutoff wrong and ribbon is broken. Reset cutoff and replace ribbon. Test ok.,,,,,C59464
+HASE,393,4C0C,Y,MTR Tsing Yi,43997,0.8125,0.84375,0.861111111,,SC,N,0.03125,0.048611111,N,NIC,small image,clean scanner and roller. Perform TSP. tested ok.,,,,,C58117
+HASE,393,4C0C,Y,MTR Tsing Yi,43998,0.503472222,0.583333333,0.600694444,,SC,Y,0.079861111,0.097222222,N,NGB,Out of service,"Image not arrival. Cleaned sensor (F6), cleaned DPM LAM plug, tested ok",,,,,C59560
+HASE,393,4C0C,Y,MTR Tsing Yi,44000,0.354166667,0.423611111,0.4375,,SC,Y,0.069444444,0.083333333,Y,HTP,Out of service,Remove jammed cheque at feeder. Clean roller and sensor. Replace o-ring (collection path).,,,,,C57085
+HASE,393,4C0C,Y,MTR Tsing Yi,44007,0.354166667,0.479166667,0.513888889,,Request,N,Request,Request,N,Request,Health checked,clean CAS printer. Adjust the yellow belt.,,,,,C58149
+HASE,393,4C0E,Y,HKU MTR,44011,0.354166667,0.649305556,0.673611111,,Request,N,Request,Request,N,Request,PM Check,PM CHECK with reference to RI/PM/202001. Activation ESU,,,,,C49415
+HASE,393,4C0F,Y,MTR Wong Chuk Hang,44008,0.354166667,0.447916667,0.465277778,,SC,Y,0.09375,0.111111111,N,NGC,Auto reset,"reboot machine, clean scanner",,,,,C60966
+HASE,393,4C10,Y,Kowloon Bay (Sheung Yut Rd),44012,0.586805556,0.708333333,0.71875,,SC,Y,0.121527778,0.131944444,Y,HTP,Jam cheque at collection,"Bin 2 solenoid engaged, replaced",,,,,C59879
+HASE,393,4C11,Y,Park Central,43984,0.354166667,0.548611111,0.576388889,,Request,N,Request,Request,N,Request,Preventive Maintenance,"Pretentive Maintenance, ESU activation",,,,,C58193
+HASE,393,4C11,Y,Park Central,43998,0.354166667,0.479166667,0.489583333,,SC,N,0.125,0.135416667,N,NIC,Endorsement,No rear image. Replug scanner cable. Serviced machine. Test Ok.,,,,,C59375
+HASE,393,4C12,Y,Po Lam MTR ABC,43984,0.409722222,0.53125,0.541666667,,SC,Y,0.121527778,0.131944444,N,NGB,Out of service,"Sensor (F9) engage. Adjust flat belt (bend), tested ok",,,,,C58192
+HASE,393,4C12,Y,Po Lam MTR ABC,43988,0.503472222,0.604166667,0.618055556,,SC,Y,0.100694444,0.114583333,N,NUD,jam cheque,"jam at bin 1, clean solenoid at bin 1",,,,,C58045
+HASE,393,4C12,Y,Po Lam MTR ABC,43989,0.354166667,0.625,0.642361111,,SC,Y,0.270833333,0.288194444,N,NUD,Jammed cheque,"Adjust solenoid (bin 1), tested ok",,,,,C59045
+HASE,393,4C12,Y,Po Lam MTR ABC,43990,0.354166667,0.458333333,0.472222222,,SC,Y,0.104166667,0.118055556,N,NUD,Cheque jam,The bin 1 solenoid is down. Fix bin 1 solenoid and remove cheque. Test ok.,,,,,C58441
+HASE,393,4C13,Y,MOSTown ABC,44008,0.677083333,0.715277778,0.725694444,,SC,N,0.038194444,0.048611111,N,NIA,Crossing problem,"Replace ink roller and reinstalled ribbon, clean scanner. Test OK.",,,,,C59947
+HASE,365,4C14,Y,Fortune Kingswood,43987,0.434027778,0.479166667,0.496527778,,SC,N,0.045138889,0.0625,N,NIA,No crossing,replaced the stamp.,,,,,C57825
+HASE,242,4C15,Y,Waterloo Road,43984,0.354166667,0.590277778,0.604166667,,SC,Y,0.236111111,0.25,N,NUD,Cheque jam,The bend belt is shift. Rescrew bend belt and clean scanner. Test ok.,,,,,C58423
+HASE,242,4C15,Y,Waterloo Road,43985,0.354166667,0.520833333,0.534722222,,SC,Y,0.166666667,0.180555556,N,NGB,Out of service,"clean F5, F29, F1 sensor. Tested ok.",,,,,C57823
+HASE,242,4C15,Y,Waterloo Road,43986,0.354166667,0.479166667,0.493055556,,SC,Y,0.125,0.138888889,N,NGB,Out of service,Clean F5 sensor. Tested ok.,,,,,C57057
+HASE,242,4C15,Y,Waterloo Road,43986,0.524305556,0.708333333,0.736111111,,SC,Y,0.184027778,0.211805556,Y,HTP,Out of service,Replaced the F5 sensor. Tested ok.,,,,,C57061
+HASE,242,4C15,Y,Waterloo Road,43998,0.677083333,0.770833333,0.788194444,,SC,Y,0.09375,0.111111111,N,NUA,Jammed card,"Remove card, clean card reader, scanner and roller. Test OK.",,,,,C59072
+HASE,393,4C16,Y,Empire Centre,43984,0.357638889,0.5625,0.576388889,,SC,N,0.204861111,0.21875,N,NIB,Back endorsement blur,Rescrew the printer head gap and replace ribbon. Test ok.,,,,,C58425
+HASE,393,4C16,Y,Empire Centre,43984,0.631944444,0.729166667,0.743055556,,SC,N,0.097222222,0.111111111,N,NUA,Card reader,"cleaning card reader,Test ok",,,,,C58219
+HASE,393,4C16,Y,Empire Centre,43987,0.354166667,0.53125,0.548611111,,SC,N,0.177083333,0.194444444,Y,HCR,Card reader problem,Replace card reader(repaired) and test ok.,,,,,C58438
+HASE,286,4C17,Y,Tsim Sha Tsui,43985,0.440972222,0.559027778,0.576388889,,SC,N,0.118055556,0.135416667,N,NIC,Black line,perform TSP. Clean scanner. Tested ok.,,,,,C57051
+HASE,286,4C17,Y,Tsim Sha Tsui,44006,0.354166667,0.46875,0.486111111,,SC,N,0.114583333,0.131944444,N,NGB,Jam cheque,No jammed found. Clean F6 sensor. Replace ribbon.,,,,,C58170
+HASE,393,4C18,Y,MTR Fortress Hill ABC,43988,0.503472222,0.625,0.635416667,,SC,N,0.121527778,0.131944444,N,NZA,No advise,"Remove advise, tested ok",,,,,C59042
+HASE,393,4C18,Y,MTR Fortress Hill ABC,43992,0.628472222,0.677083333,0.690972222,,SC,N,0.048611111,0.0625,N,NZA,CAS problem,"Remove jam cas. Clean printer roller, print head. Replace new stamp.",,,,,C59273
+HASE,393,4C18,Y,MTR Fortress Hill ABC,43998,0.354166667,0.458333333,0.465277778,,SC,N,0.104166667,0.111111111,N,NGZ,Controller close.,Clean scanner. Normal service machine. Test ok,,,,,C59506
+HASE,393,4C18,Y,MTR Fortress Hill ABC,44005,0.618055556,0.663194444,0.670138889,,SC,Y,0.045138889,0.052083333,N,NBZ,Missing 24 V,Normal service machine. Clean scanner. Replace ink roller.,,,,,C59529
+HASE,393,4C18,Y,MTR Fortress Hill ABC,44009,0.354166667,0.458333333,0.472222222,,Request,N,Request,Request,N,Request,HEALTH CHECK-CAS,Clean printer. Replaced o-ring collection.,,,,,C59959
+HASE,393,4C18,Y,MTR Fortress Hill ABC,44011,0.354166667,0.416666667,0.427083333,,SC,N,0.0625,0.072916667,N,NGB,Jammed cheque,"No jammed found. Cleaned sensors, Serviced machine. Test OK.",,,,,C60935
+HASE,766,4C19,Y,East Point City,43989,0.354166667,0.652777778,0.670138889,,SC,Y,0.298611111,0.315972222,Y,HCA,"Jammed cheque, no CAS","Replaced ejection roller, removed cheque at aligner, tested ok",,,,,C59046
+HASE,766,4C19,Y,East Point City,43992,0.354166667,0.458333333,0.486111111,,Request,N,Request,Request,N,Request,Health Check CAS,No CAS at 11:23am on 6/6 and guard force arrived to resume printer at 11:37am. Check record and upload logs. Test ok.,,,,,C57092
+HASE,766,4C19,Y,East Point City,43994,0.461805556,0.739583333,0.75,,SC,N,0.277777778,0.288194444,N,NOZ,No problem found,"No jam cheque found. Clean prefeed roller, scanner and drum belt.",,,,,C58492
+HASE,259,4C1A,Y,Shatin,43987,0.354166667,0.444444444,0.454861111,,SC,Y,0.090277778,0.100694444,Y,HTP,Jammed cheque,"Replace flat belt (145, L6), tested ok",,,,,C59036
+HASE,259,4C1A,Y,Shatin,43998,0.517361111,0.579861111,0.590277778,,SC,N,0.0625,0.072916667,N,NZA,No cas,cleaning printer and renew cas,,,,,C59123
+HASE,393,4C1B,Y,Causeway Bay MTR,44001,0.354166667,0.482638889,0.5,,SC,Y,0.128472222,0.145833333,N,NBA,Collection box problem,"Fixed the collection box, replace wiring, clean roller. Test OK. *offered 9:00",,,,,C59173
+HASE,232,4C1D,Y,Prince Edward Rd,44006,0.354166667,0.489583333,0.510416667,,Request,N,Request,Request,N,Request,Pm check,Pm check with reference to document RI/PM/202006.Esu activative,,,,,C49433
+HASE,393,4C1D,Y,141 Prince Edward,44012,0.614583333,0.645833333,0.659722222,,SC,Y,0.03125,0.045138889,N,NUD,Jam cheque at aligner,"Remove cheque, adjust thickness gap, clean paper path",,,,,C59820
+HASE,393,4C1F,Y,APM,43985,0.354166667,0.40625,0.416666667,,SC,N,0.052083333,0.0625,N,HCA,Advise blur,Replace cas printer. Test ok,,,,,C58197
+HASE,393,4C1F,Y,APM,43991,0.451388889,0.541666667,0.548611111,,SC,N,0.090277778,0.097222222,N,NZA,CAS blur,Clean printer. Adjust ink roller.,,,,,C58593
+HASE,393,4C1F,Y,APM,44008,0.631944444,0.684027778,0.690972222,,SC,N,0.052083333,0.059027778,N,NZA,CAS can't cut,Clear paper bits,,,,,C60926
+HASE,393,4C1F,Y,APM,44012,0.354166667,0.423611111,0.440972222,0.003472222,SC,N,0.069444444,0.083333333,Y,HCA,Advise blur,"Replace CAS print head, tested ok",,,,,C60883
+HASE,393,4C20,Y,Sheung Shui MTR,43984,0.354166667,0.513888889,0.527777778,,SC,N,0.159722222,0.173611111,N,NUB,High reject,clean and adjust feeder. Clean scanner and ribbon.,,,,,C58263
+HASE,393,4C20,Y,Sheung Shui MTR,43985,0.4375,0.496527778,0.506944444,,SC,Y,0.059027778,0.069444444,N,NUD,Jammed cheque,"Adjust red belt, clean sensor and roller. Test oK.",,,,,C58532
+HASE,393,4C20,Y,Sheung Shui MTR,43993,0.354166667,0.472222222,0.482638889,,SC,Y,0.118055556,0.128472222,N,NUD,Jammed cheque,"Remove cheuqe near in alinger, clean sensor and roller. Test OK.",,,,,C58019
+HASE,393,4C20,Y,Sheung Shui MTR,43994,0.354166667,0.458333333,0.46875,,SC,Y,0.104166667,0.114583333,N,NUD,Jammed cheque,"Remove cheuqe near in alinger, clean roller, sensor and alinger. Test OK.",,,,,C58025
+HASE,393,4C20,Y,Sheung Shui MTR,44012,0.354166667,0.552083333,0.5625,,SC,N,0.197916667,0.208333333,Y,HTP,can't insert cheque,"Replace o-ring (fat, feeder)",,,,,C60753
+HASE,393,4C21,Y,Un Chau Street ABC,43985,0.753472222,0.885416667,0.892361111,,SC,Y,0.131944444,0.138888889,N,NGB,Printer lift error,"Clean sensor, clear black line",,,,,C58311
+HASE,393,4C21,Y,Un Chau Street ABC,43992,0.354166667,0.423611111,0.4375,,SC,Y,0.069444444,0.086805556,Y,HTP,Out of service,replaced the scanner belt. Tested ok.,,,,,C57844
+HASE,393,4C21,Y,Un Chau Street ABC,43993,0.631944444,0.6875,0.697916667,,SC,Y,0.055555556,0.065972222,N,NGC,Out of service,show host messge in DPM display. Clean DPM board. Tested ok.,,,,,C58896
+HASE,393,4C21,Y,Un Chau Street ABC,43997,0.690972222,0.78125,0.802083333,,SC,Y,0.090277778,0.111111111,Y,HPC,out of service,replace mdm board. Adjust stamp gap.,,,,,C59369
+HASE,286,4C22,Y,Tsim Sha Tsui ,44006,0.493055556,0.513888889,0.527777778,,SC,N,0.020833333,0.034722222,N,NOZ,Jam cheque,No jammed found. Clean sensors. Replace ribbon.,,,,,C58172
+HASE,393,4C23,Y,Ching Long Shopping Centre ABC,43994,0.354166667,0.465277778,0.482638889,,Request,N,Request,Request,N,Request,Box wire shift,Replace box wire,,,,,C58350
+HASE,393,4C23,Y,Ching Long Shopping Centre ABC,44000,0.354166667,0.541666667,0.569444444,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C59131
+HASE,393,4C24,N,MTR Nam Cheong Station,43984,0.354166667,0.583333333,0.59375,,Request,N,Request,Request,N,Request,Health checked,clean CAS printer. Tested ok.,,,,,C57803
+HASE,393,4C24,N,MTR Nam Cheong Station,43986,0.354166667,0.4375,0.447916667,,Request,N,Request,Request,N,Request,Health check - advise,"Adjust printer gap, clean roller and sensor. Test OK.",,,,,C58538
+HASE,393,4C24,N,MTR Nam Cheong Station,43990,0.614583333,0.642361111,0.652777778,,SC,N,0.027777778,0.038194444,N,NZA,CAS roblem,"Adjust printer gap, clean sensor and roller. Test OK.",,,,,C58051
+HASE,393,4C24,N,MTR Nam Cheong Station,43991,0.354166667,0.416666667,0.427083333,,Request,N,Request,Request,N,Request,Health check - advise,"removed jam advice. Clean cutter, printer head and roller. Tested ok.",,,,,C57066
+HASE,393,4C24,N,MTR Nam Cheong Station,43997,0.354166667,0.423611111,0.4375,,SC,N,0.069444444,0.083333333,N,NZA,Jammed advise,"Cleaned CAS printer, tested ok",,,,,C59552
+HASE,393,4C24,N,MTR Nam Cheong Station,43998,0.354166667,0.4375,0.451388889,,SC,Y,0.083333333,0.097222222,N,NZA,Jam CAS,Removed jammed advice.,,,,,C59321
+HASE,393,4C24,N,MTR Nam Cheong Station,44000,0.618055556,0.645833333,0.65625,,SC,N,0.027777778,0.038194444,N,NZA,CAS,Remove jammed advice. Clean printer and scanner.,,,,,C58153
+HASE,393,4C24,N,MTR Nam Cheong Station,44001,0.434027778,0.458333333,0.475694444,,SC,N,0.024305556,0.041666667,N,NZA,jam advice,removed jam advice. Adjust the rejection roller. Tested ok.,,,,,C581366
+HASE,393,4C24,N,MTR Nam Cheong Station,44002,0.354166667,0.472222222,0.489583333,,SC,Y,0.118055556,0.135416667,Y,NZA,No advise,"Replace CAS printer, tested ok",,,,,C59663
+HASE,393,4C24,N,MTR Nam Cheong Station,44008,0.354166667,0.447916667,0.461805556,,SC,N,0.09375,0.107638889,N,NZA,CAS jam,CAS drop down. Adjust the printer's arm and adjust the metal film. Clean scanner and test ok.,,,,,C59408
+HASE,393,4C26,Y,Shek Tong Tsui ABC,43987,0.472222222,0.548611111,0.559027778,,SC,N,0.076388889,0.086805556,N,NUB,Feeder gate cannot open,"Adjust feeder gate solenoid, fix endorsement blur",,,,,C58318
+HASE,393,4C26,Y,Shek Tong Tsui ABC,43997,0.618055556,0.708333333,0.71875,,SC,N,0.090277778,0.100694444,N,NIB,Endorsement image blur,Cleaned scanner & rollers. Perform TSP. Serviced machine. Test OK.,,,,,C59373
+HASE,393,4C26,Y,Shek Tong Tsui ABC,44011,0.354166667,0.416666667,0.447916667,,Request,N,Request,Request,N,Request,PM Check,PM CHECK with reference to RI/PM/202001. Activation ESU,,,,,C49412
+HASE,393,4C26,Y,Shek Tong Tsui ABC,44011,0.354166667,0.416666667,0.447916667,,SC,Y,0.0625,0.09375,N,NUD,jam cheque,install c-ring in bin 1,,,,,C59659
+HASE,393,4C27,Y,Plaza Hollywood,43996,0.354166667,0.625,0.635416667,,SC,Y,0.270833333,0.28125,N,NUD,Cheque on aligner,Remove jam cheque. Replace ink roller. Test ok,,,,,C58495
+HASE,393,4C27,Y,Plaza Hollywood,43997,0.354166667,0.541666667,0.555555556,,SC,Y,0.1875,0.201388889,N,NUD,jam cheque,"jam at aligner, install c-ring in solenoid as it lose",,,,,C59387
+HASE,393,4C28,Y,Mongkok P & P,43993,0.392361111,0.427083333,0.4375,,SC,Y,0.034722222,0.045138889,N,NGB,Jammed cheque,"No jammed found. Cleaned sensors, Serviced machine. Test OK.",,,,,C59282
+HASE,393,4C28,Y,Mongkok P & P,43998,0.354166667,0.444444444,0.454861111,,Request,N,Request,Request,N,Request,Health check - blue screen,normal on arrival. Service machine,,,,,C59223
+HASE,393,4C28,Y,Mongkok P & P,43998,0.822916667,0.861111111,0.871527778,,SC,N,0.038194444,0.048611111,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK.",,,,,C59073
+HASE,393,4C28,Y,Mongkok P & P,44010,0.354166667,0.520833333,0.53125,,SC,Y,0.166666667,0.177083333,N,NGC,Out of service,Check lan. Adjusted thick detect.,,,,,C59343
+HASE,393,4C29,Y,Double Cove Shopping Centre ABC,43990,0.354166667,0.527777778,0.5625,,Request,N,Request,Request,N,Request,Pm check,"Pm CHECK with reference to RI/PM/202001,ESU activation,replaced collection o-ring*2",,,,,C58243
+HASE,393,4C29,Y,Double Cove Shopping Centre ABC,43990,0.555555556,0.5625,0.604166667,,SC,N,0.006944444,0.048611111,N,NUA,Card reader,"card reader com card error,will be follow",,,,,C58243
+HASE,393,4C29,Y,Double Cove Shopping Centre ABC,43990,0.611111111,0.677083333,0.694444444,,SC,N,0.065972222,0.083333333,Y,HPC,Mos chip card issue,Replace with moxa card and cable. Test ok,,,,,C58480
+HASE,393,4C29,Y,Double Cove Shopping Centre ABC,43992,0.354166667,0.621527778,0.631944444,,SC,Y,0.267361111,0.277777778,N,NGB,Out of service,"Clean the F9 sensor, scanner and roller. Test OK.",,,,,C58066
+HASE,393,4C2B,Y,Hang Hau MTR ABC,43984,0.354166667,0.513888889,0.524305556,,SC,Y,0.159722222,0.170138889,N,NUD,Jammed cheque,"Adjust solenoid (bin 1), tested ok",,,,,C58191
+HASE,393,4C2B,Y,Hang Hau MTR ABC,43986,0.354166667,0.5,0.510416667,,SC,Y,0.145833333,0.15625,N,NGB,Out of service,"Cleaned sensor (F15), tested ok",,,,,C58200
+HASE,393,4C2B,Y,Hang Hau MTR ABC,43993,0.354166667,0.5,0.513888889,,SC,Y,0.145833333,0.159722222,N,NGB,Jammed chqeue,"Adjust solenoid (Aligner), tested ok",,,,,C59260
+HASE,393,4C2C,N,Yaumati,43984,0.354166667,0.53125,0.552083333,,SC,Y,0.177083333,0.197916667,N,NZA,Out of service,No CAS. Fix the printer's arm sensor and clean printer roller. Adjust the metal film and clean scanner. Test ok.,,,,,C58424
+HASE,393,4C2C,Y,MTR Olympic ,43985,0.354166667,0.479166667,0.496527778,,SC,N,0.125,0.142361111,N,NZA,Jam advice.,reset the  cas printer. Tested ok.,,,,,C57824
+HASE,393,4C2C,Y,MTR Olympic ,43986,0.354166667,0.4375,0.458333333,,SC,N,0.083333333,0.104166667,N,NZA,Jam advice.,adjust the open gate. Tested ok.,,,,,C57056
+HASE,393,4C2C,Y,MTR Olympic ,43986,0.503472222,0.652777778,0.673611111,,SC,Y,0.149305556,0.170138889,Y,HCA,Out of service,Jam advice. Replaced the CAS printer. Tested ok.,,,,,C57060
+HASE,393,4C2C,Y,MTR Olympic ,43987,0.354166667,0.5,0.513888889,,Request,N,Request,Request,N,Request,Health Check ,Health Check - Clean printer,,,,,C58436
+HASE,393,4C2C,Y,MTR Olympic ,43987,0.354166667,0.5,0.513888889,,SC,N,0.145833333,0.159722222,N,NZA,CAS jam,CAS jammed at cutter. Clean CAS cutter and adjust the metal film. Test ok,,,,,C58437
+HASE,393,4C2C,Y,MTR Olympic ,43987,0.625,0.725694444,0.736111111,,SC,N,0.100694444,0.111111111,Y,HCA,CAS problem,"Replace printer, clean scanner and roller. Test OK.",,,,,C58544
+HASE,393,4C2C,Y,MTR Olympic ,43990,0.392361111,0.427083333,0.458333333,,SC,N,0.034722222,0.065972222,N,NZA,Out of service.,Adjust the CAS printer. Tested ok.,,,,,C57832
+HASE,393,4C2C,Y,MTR Olympic ,43998,0.354166667,0.583333333,0.611111111,,Request,N,Request,Request,N,Request,Pm check,PM CHECK with reference to RI/PM/202001.,,,,,C49149
+HASE,393,4C2C,Y,MTR Olympic ,44002,0.354166667,0.479166667,0.489583333,,Request,N,Request,Request,N,Request,Health check for CAS drop,Adjust ejection roller of CAS printer,,,,,C59247
+HASE,393,4C2C,Y,MTR Olympic ,44011,0.354166667,0.458333333,0.46875,,SC,Y,0.104166667,0.114583333,N,NZA,CAS,Clean printer and scanner.,,,,,C59002
+HASE,393,4C2C,Y,MTR Olympic ,44012,0.354166667,0.416666667,0.430555556,,SC,N,0.0625,0.076388889,N,NZA,jam advice,"Clean the cutter, roller and Print head. Tested ok.",,,,,C59730
+HASE,393,4C2C,Y,MTR Olympic ,44012,0.611111111,0.6875,0.701388889,,SC,N,0.076388889,0.090277778,N,NZA,jam advice,"Clean the cutter, roller and Print head. Tested ok.",,,,,C59734
+HASE,393,4C2D,Y,113 Argyle Street ABC,43998,0.354166667,0.416666667,0.434027778,,Request,N,Request,Request,N,Request,CAS drop,"Adjust ejection roller of CAS printer, replace DC gear due to endorsement incomplete",,,,,C59222
+HASE,393,4C2D,Y,113 Argyle Street ABC,44007,0.354166667,0.614583333,0.625,,SC,N,0.260416667,0.270833333,N,NIA,crossing blur,replaced the ink roller. Tested ok.,,,,,C59707
+HASE,393,4C2F,Y,Kwun Tong Plaza,43990,0.565972222,0.638888889,0.645833333,,SC,N,0.072916667,0.079861111,N,NOZ,CAS jam,"Printer is normal, no jam. Check printer and clean scanner. Test ok.",,,,,C58444
+HASE,393,4C2F,Y,Kwun Tong Plaza,44012,0.354166667,0.409722222,0.420138889,,SC,Y,0.055555556,0.065972222,N,NGC,Auto reset,"Cleaned card reader, tested ok",,,,,C60882
+HASE,393,4C30,Y,MTR Kwai Fong ABC,43991,0.354166667,0.583333333,0.600694444,,SC,Y,0.229166667,0.246527778,N,NUD,Jam cheque at aligner. ,removed the jam cheque. Tested ok.,,,,,C57838
+HASE,393,4C30,Y,MTR Kwai Fong ABC,43996,0.354166667,0.5,0.513888889,,SC,Y,0.145833333,0.159722222,N,NGB,No jam cheque found,Clean scanner and sensor. Test ok,,,,,C58494
+HASE,393,4C30,Y,MTR Kwai Fong ABC,43997,0.361111111,0.4375,0.465277778,,SC,Y,0.076388889,0.104166667,N,NGB,Out of service,Adjust the red belt. Clean scanner belt. Tested ok.,,,,,C58110
+HASE,393,4C34,Y,Shatin City One,43985,0.354166667,0.416666667,0.440972222,,Request,N,Request,Request,N,Request,Pm check,"Pretentive Maintenance, ESU activation",,,,,C58221
+HASE,393,4C35,Y,We Go Mall ABC,43985,0.475694444,0.614583333,0.625,,SC,N,0.138888889,0.149305556,N,NIA,Crossing problem,"Replace ink roller, clean sensor. Test OK.",,,,,C58534
+HASE,393,4C36,Y,North Point MTR,43987,0.552083333,0.6875,0.697916667,,SC,N,0.135416667,0.145833333,N,NIC,black line,"clean scanner, test ok",,,,,C59052
+HASE,393,4C36,Y,North Point MTR,44011,0.666666667,0.708333333,0.71875,,SC,N,0.041666667,0.052083333,N,NZA,CAS,"Remove advise, tested ok",,,,,C60970
+HASE,393,4C37,Y,University MTR ABC,44012,0.680555556,0.819444444,0.829861111,,SC,Y,0.138888889,0.149305556,N,NGB,Out of service,"Clean the F10 sensor, scanner and roller. Test OK.",,,,,C59690
+HASE,393,4C38,Y,Mei Foo (Nassau Street) ABC,43983,0.354166667,0.395833333,0.409722222,,SC,Y,0.041666667,0.055555556,N,NGB,Out of service,Clean F6 sensor. Replug sensor cable.,,,,,C57944
+HASE,393,4C38,Y,Mei Foo (Nassau Street) ABC,44002,0.354166667,0.458333333,0.618055556,,Request,N,Request,Request,N,Request,Reload Program,Reload Program as requested by HASE,,,,,C59487
+HASE,393,4C39,Y,Tuen Mun Heung Sze Wui Road,43991,0.354166667,0.5625,0.576388889,,SC,Y,0.208333333,0.222222222,N,NUD,Cheque jam,The bin 1 solenoid is down. Fix bin 1 solenoid and remove cheque. Test ok.,,,,,C58448
+HASE,393,4C39,Y,Tuen Mun Heung Sze Wui Road,43995,0.534722222,0.875,0.881944444,,SC,Y,0.340277778,0.347222222,N,NGB,F29 sensor engaged,Clean sensor,,,,,C59210
+HASE,393,4C39,Y,Tuen Mun Heung Sze Wui Road,44001,0.354166667,0.555555556,0.576388889,,Request,N,Request,Request,N,Request,Find lose cheque,no lose cheque find. Upload log,,,,,C58137
+HASE,393,4C3A,Y,Kwun Tong Plaza,43984,0.354166667,0.4375,0.447916667,,Request,N,Request,Request,N,Request,Health check,Cleaned CAS printer head & rollers.,,,,,C49288
+HASE,393,4C3A,Y,Kwun Tong Plaza,43990,0.548611111,0.625,0.638888889,,SC,N,0.076388889,0.090277778,N,NZA,CAS jam,Clean CAS printer and adjust the metal film. Test ok.,,,,,C58443
+HASE,393,4C3A,Y,Kwun Tong Plaza,43991,0.354166667,0.447916667,0.458333333,,SC,Y,0.09375,0.104166667,Y,HTP,Jam cheque,"Remove cheque at scanner, replace scanner belt & CAS printer",,,,,C58331
+HASE,393,4C3A,Y,Kwun Tong Plaza,43991,0.541666667,0.555555556,0.565972222,,SC,Y,0.013888889,0.024305556,N,NUD,Jam cheque,Remove jammed cheque at escrow. Clean and adjust escrow roller.,,,,,C58594
+HASE,393,4C3A,Y,Kwun Tong Plaza,44011,0.621527778,0.71875,0.729166667,,SC,Y,0.097222222,0.107638889,N,NUD,Solenoid (bin 1) missing c-ring,"Remove cheque at sorter, install new c-ring",,,,,C59817
+HASE,393,4C3A,Y,Kwun Tong Plaza,44012,0.354166667,0.395833333,0.409722222,,SC,Y,0.041666667,0.055555556,N,NUD,Jammed cheque / advise,"Installed the c-ring (bin 1, solenoid), cleaned roller, tested ok",,,,,C60881
+HASE,274,4C3B,N,Sheung Kwai Chung,43993,0.4375,0.604166667,0.611111111,,SC,N,0.166666667,0.173611111,N,NOZ,CAS printing incomplete,The printing is clear. Check printer and clean printer. Clean scanner and test ok.,,,,,C57098
+HASE,274,4C3B,N,Sheung Kwai Chung,44009,0.493055556,0.53125,0.545138889,,SC,Y,0.038194444,0.052083333,N,NUD,Cheque jam,Remove cheque and rescrew red belt. Clean scanner and test ok.,,,,,C59416
+HASE,393,4C3C,Y,MTR Kennedy Town ABC,43991,0.354166667,0.604166667,0.611111111,,SC,N,0.25,0.256944444,N,NOZ,touch problem,no find problem,,,,,C59164
+HASE,393,4C3C,Y,MTR Kennedy Town ABC,43993,0.354166667,0.458333333,0.475694444,,SC,Y,0.104166667,0.121527778,N,NUD,jam cheque,"jam at bend, replace fold cheque",,,,,C59279
+HASE,276,4C3D,Y,Tai Ho Road,43997,0.354166667,0.40625,0.427083333,,SC,Y,0.052083333,0.072916667,N,NUD,jam cheque at scanner.,removed the jam cheque. Replaced the scanner belt. Tested ok.,,,,,C58109
+HASE,276,4C3D,Y,Tai Ho Road,43998,0.354166667,0.423611111,0.4375,,SC,Y,0.069444444,0.083333333,N,NGB,OUt of service,replug and adjust the scanner. Tested ok.,,,,,C58122
+HASE,249,4C3E,Y,Tai Wai,43991,0.524305556,0.5625,0.579861111,,SC,N,0.038194444,0.055555556,N,NZA,CAS problem,"Check printer and setting, clean roller. ",,,,,C58060
+HASE,249,4C3E,Y,Tai Wai,43991,0.635416667,0.6875,0.697916667,,SC,N,0.052083333,0.0625,Y,HCA,CAS problem,"Replace printer, clean scanner, sensor and roller. Test OK.",,,,,C58062
+HASE,393,4C3E,Y,Tai Wai,43992,0.354166667,0.552083333,0.5625,,SC,N,0.197916667,0.208333333,N,NZA,CAS problem,"Adjsut printer gate, clean sensor and roller. Test OK.",,,,,C58064
+HASE,249,4C3E,Y,Tai Wai,43994,0.354166667,0.458333333,0.486111111,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C49329
+HASE,249,4C3E,Y,Tai Wai,43994,0.354166667,0.458333333,0.486111111,,Request,N,Request,Request,N,Request,Health check,"cas drop-cleaning and adjust roller,renew a new cas",,,,,C49329
+HASE,393,4C3E,Y,Tai Wai,43999,0.354166667,0.395833333,0.413194444,,Request,N,Request,Request,N,Request,Health check CAS,"Check printer and setting, adjust printer gap. Test OK.",,,,,C33359
+HASE,249,4C3E,Y,Tai Wai,44001,0.426388889,0.479166667,0.489583333,,SC,Y,0.052777778,0.063194444,N,NOA,Out of service,Cutoff wrong. Reset cutoff. Test ok.,,,,,C59270
+HASE,249,4C3E,Y,Tai Wai,44002,0.388888889,0.444444444,0.454861111,,SC,N,0.055555556,0.065972222,N,NZA,CAS problem,"Check printer, clean sensor and roller. Test OK.",,,,,C59179
+HASE,393,4C3E,Y,Tai Wai,44004,0.354166667,0.40625,0.416666667,,SC,N,0.052083333,0.0625,N,NZA,CAS problem,"Check printer setting, clean sensor and roller. Test OK.",,,,,C59584
+HASE,249,4C3E,Y,Tai Wai,44006,0.354166667,0.447916667,0.454861111,,SC,N,0.09375,0.100694444,N,NZA,CAS drop,Adjust ejection roller of CAS printer,,,,,C59810
+HASE,249,4C3E,Y,Tai Wai,44012,0.399305556,0.663194444,0.690972222,,SC,N,0.263888889,0.291666667,N,NZA,CAS,remvoe jam advice. ESU Activation,,,,,C60758
+HASE,393,4C40,Y,MTR Shatin,43997,0.635416667,0.697916667,0.708333333,,SC,N,0.0625,0.072916667,N,NIC,Black line,Clean scanner and roller. Test OK.,,,,,C59070
+HASE,393,4C41,Y,Prince Edward MTR Station,43985,0.628472222,0.729166667,0.739583333,,SC,N,0.100694444,0.111111111,N,NZA,No CAS,Removed jam advice. Clean printer.,,,,,C58260
+HASE,393,4C41,Y,Prince Edward MTR Station,43991,0.354166667,0.420138889,0.430555556,,SC,Y,0.065972222,0.076388889,N,NUD,Jammed cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK.",,,,,C58057
+HASE,393,4C41,Y,Prince Edward MTR Station,44006,0.354166667,0.513888889,0.534722222,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202001,Esu activative",,,,,C49434
+HASE,393,4C42,Y,Cheerful Garden ABC,43984,0.354166667,0.645833333,0.65625,,Request,N,Request,Request,N,Request,Health check,clean printer,,,,,C58072
+HASE,393,4C42,Y,Cheerful Garden ABC,44011,0.354166667,0.416666667,0.427083333,,SC,Y,0.0625,0.072916667,Y,HSD,No stamp,need follow up drum replacement,,,,,C59344
+HASE,393,4C42,Y,Cheerful Garden ABC,44011,0.461805556,0.541666667,0.565972222,,SC,N,0.079861111,0.104166667,N,NIA,No stamp,Replace stamp and clean scanner. Test ok.,,,,,C59417
+HASE,393,4C43,Y,Kennedy Town ABC,43998,0.354166667,0.6875,0.697916667,,Request,N,Request,Request,N,Request,Health check CAS,Clean printer and front blackline and stamp.,,,,,C59603
+HASE,329,4C44,N,Pei Ho Street,44005,0.354166667,0.447916667,0.479166667,,Request,N,Request,Request,N,Request,PM check,PM CHECK with reference to RI/PM/202006. Acticate ESU key.,,,,,C49261
+HASE,393,4C45,Y,Diamond Hill MTR Station,43983,0.680555556,0.760416667,0.770833333,,SC,Y,0.079861111,0.090277778,N,NUD,jam cheque,remove fold cheque from red belt,,,,,C58071
+HASE,393,4C45,Y,Diamond Hill MTR Station,43984,0.354166667,0.694444444,0.708333333,,Request,N,Request,Request,N,Request,Find cheque,Found cheque in bin. Test OK.,,,,,C58085
+HASE,393,4C46,Y,Yuen Long ABC,43984,0.354166667,0.46875,0.479166667,,SC,N,0.114583333,0.125,N,NIC,blackline,"Clean printer sensor, roller, scanner. Test ok ",,,,,C58464
+HASE,393,4C46,Y,Yuen Long ABC,43989,0.375,0.75,0.760416667,,SC,Y,0.375,0.385416667,N,NGB,Out of service.,clean DD sensor. Tested ok.,,,,,C57074
+HASE,393,4C47,Y,Yuen Long ABC,43983,0.413194444,0.458333333,0.472222222,,SC,Y,0.045138889,0.059027778,N,NUD,jam cheque at scanner.,removed the jam cheque. Adjust the yellow belt. Tested ok.,,,,,C57801
+HASE,393,4C47,Y,Yuen Long ABC,43984,0.354166667,0.458333333,0.46875,,SC,N,0.104166667,0.114583333,N,HCA,CAS feed,Replace cas printer. Test ok,,,,,C58465
+HASE,393,4C47,Y,Yuen Long ABC,43985,0.572916667,0.670138889,0.684027778,,SC,Y,0.097222222,0.111111111,N,NUD,Cheque jam,The bin 1 solenoid is shift. Fix the bin 1 solenoid and clean scanner. Test ok.,,,,,C58094
+HASE,393,4C47,Y,Yuen Long ABC,43986,0.354166667,0.479166667,0.493055556,,SC,N,0.125,0.138888889,N,NZA,CAS jam,Rescrew the printer screw and clean scanner. Test ok.,,,,,C58098
+HASE,393,4C48,Y,Fo Tan ABC,43996,0.354166667,0.885416667,0.895833333,,SC,Y,0.53125,0.541666667,N,NGB,F6 sensor engaged,"Clean sensor, fix endorsement blur",,,,,C59215
+HASE,393,4C48,Y,Fo Tan ABC,44012,0.354166667,0.642361111,0.65625,,Request,N,Request,Request,N,Request,Search cheque,downlog no find cheque,,,,,C60755
+HASE,393,4C49,Y,Fo Tan ABC,43996,0.354166667,0.881944444,0.885416667,,SC,Y,0.527777778,0.53125,Y,HTP,Parts loose (Knob of bend),Reinstall knob,,,,,C59216
+HASE,393,4C49,Y,Fo Tan ABC,44004,0.385416667,0.4375,0.451388889,,SC,Y,0.052083333,0.065972222,Y,HTP,Jammed cheuqe,"Remove cheque near in red belt, replace 351 belt, clean sensor and roller. Test OK.",,,,,C59585
+HASE,393,4C49,Y,Fo Tan ABC,44012,0.354166667,0.642361111,0.65625,,Request,N,Request,Request,N,Request,Search cheque,"downlog, one cheque in retain slot",,,,,C60756
+HASE,393,4C4A,Y,MTR Yaumati,43990,0.354166667,0.458333333,0.475694444,,SC,N,0.104166667,0.121527778,N,NZA,CAS,Replace ribbon. Adjust printer switch.,,,,,C57075
+HASE,237,4C4B,N,Fanling Branch,43991,0.354166667,0.697916667,0.722222222,,Request,N,Request,Request,N,Request,Pm check,PM CHECK with reference to RI/PM/202001. replaced o-ring collection.,,,,,C49135
+HASE,393,4C4B,N,Fanling Branch,43993,0.503472222,0.586805556,0.597222222,,SC,Y,0.083333333,0.09375,N,NUD,Jammed cheque,"Clean alinger, sensor and roller. Test OK.",,,,,C58020
+HASE,237,4C4B,N,Fanling Branch,44012,0.538194444,0.576388889,0.586805556,,SC,Y,0.038194444,0.048611111,N,NUD,jam cheque,"jam aligner, clean rollers",,,,,C60754
+HASE,393,4C4C,Y,MTR Mongkok Station,43986,0.767361111,0.784722222,0.791666667,,SC,N,0.017361111,0.024305556,N,NBZ,Upper cover lock,Replace upper cover lock.,,,,,C58619
+HASE,393,4C4D,Y,Wah Sham Shopping Centre ABC,43985,0.555555556,0.666666667,0.677083333,,SC,N,0.111111111,0.121527778,N,NIA,Crossing problem,"Replace ink roller and o-ring, clean scanner. Test OK.",,,,,C58535
+HASE,393,4C4D,Y,Wah Sham Shopping Centre ABC,43994,0.354166667,0.631944444,0.652777778,,Request,N,Request,Request,N,Request,Esu activation,Esu activation,,,,,C59111
+HASE,393,4C4E,Y,Regentville Shopping Mall ABC,43984,0.354166667,0.6875,0.708333333,,Request,N,Request,Request,N,Request,Health check,Replaced upper door lock and o-ring collection.,,,,,C58266
+HASE,393,4C4E,Y,Regentville Shopping Mall ABC,43991,0.354166667,0.736111111,0.756944444,,Request,N,Request,Request,N,Request,Pm check,PM CHECK with reference to RI/PM/202001.,,,,,C49136
+HASE,393,4C4F,Y,Kowloon City,43993,0.354166667,0.506944444,0.534722222,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C49324
+HASE,393,4C4F,Y,Kowloon City,43997,0.583333333,0.71875,0.760416667,,SC,Y,0.135416667,0.177083333,N,NUD,jam cheque and search cheque,"remove cheque from bin, no cheque found and reported to MR. Au",,,,,C59572
+HASE,393,4C50,Y,MTR Ho Man Tin,43987,0.354166667,0.416666667,0.427083333,,SC,Y,0.0625,0.072916667,Y,HTP,Jam cheque,Remove jammed cheque at bin 1. Replace o-ring (collection path). Fix bin 1 roller.,,,,,C58624
+HASE,393,4C51,Y,Metroplaza,43997,0.576388889,0.638888889,0.652777778,,SC,N,0.0625,0.076388889,N,NBZ,Upper door can't open.,need follow upper door lock.,,,,,C58112
+HASE,393,4C51,Y,Metroplaza,43997,0.652777778,0.871527778,0.885416667,,Request,N,Request,Request,N,Request,Follow up,replaced the upper door lock. Report to atm(ms go),,,,,C58118
+HASE,393,4C53,Y,MTR LOHAS Park,44001,0.5625,0.71875,0.732638889,,SC,N,0.15625,0.170138889,N,NIC,No endorsement,"No rear image ,Replug scanner cable ,test ok",,,,,C59141
+HASE,393,4C54,Y,Metroplaza,43988,0.354166667,0.416666667,0.430555556,,SC,Y,0.0625,0.076388889,N,NUD,Cheque jam,Cheque jammed at escrow. Remove cheque and clean sensor F8. Test ok.,,,,,C58629
+HASE,393,4C55,Y,Yau Tong MTR,44008,0.53125,0.604166667,0.618055556,0.003472222,SC,Y,0.072916667,0.083333333,N,NUD,Jammed cheque,"Adjust and cleaned roller (escow), tested ok",,,,,C59909
+HASE,393,4C57,Y,Hennessy Road,43993,0.569444444,0.746527778,0.777777778,,SC,Y,0.177083333,0.208333333,N,NGB,jam cheque,"F29 and F1 dirty. Clean sensors, replaced stamp",,,,,C59355
+HASE,393,4C57,Y,Hennessy Road ABC,43994,0.354166667,0.447916667,0.458333333,,SC,Y,0.09375,0.104166667,N,NGB,CAS no image,Image not arrived. Replug scanner cable. Serviced machine. Test OK.,,,,,C59291
+HASE,393,4C57,Y,Hennessy Road,43998,0.354166667,0.586805556,0.597222222,,Request,N,Request,Request,N,Request,health check box wire.  Jam cheque,"replace wire in box, test ok",,,,,C59579
+HASE,393,4C57,Y,Hennessy Road ABC,44001,0.354166667,0.416666667,0.427083333,,SC,Y,0.0625,0.072916667,N,NUD,Jammed cheque,"Remove jammed cheque, rearrange cheque in box. Adjusted sorter roller. Serviced machine. Test OK.",,,,,C59644
+HASE,393,4C58,Y,Lam Tin MTR ,43984,0.354166667,0.458333333,0.46875,,SC,Y,0.104166667,0.114583333,N,NUD,Jammed cheque,Remove jammed cheque at sorter. Rearrange cheque in bin. Serviced machine. Test Ok.,,,,,C58081
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,43983,0.600694444,0.638888889,0.649305556,,SC,N,0.038194444,0.048611111,N,NZA,CAS jammed,"Check printer and setting, clean sensor and roller. Test OK.",,,,,C58648
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,43985,0.6875,0.71875,0.729166667,,SC,N,0.03125,0.041666667,N,NZA,No cas,"Missing 24v,adjust micro switch,test ok",,,,,C58227
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,43987,0.354166667,0.430555556,0.440972222,,Request,N,Request,Request,N,Request,Health check - advise,"Cleaned roller, setting printer, tested ok",,,,,C59035
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,43990,0.444444444,0.458333333,0.46875,,SC,N,0.013888889,0.024305556,N,NZA,Advise blur,"Adjust gate, tested ok",,,,,C59081
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,43994,0.354166667,0.489583333,0.5,,SC,N,0.135416667,0.145833333,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK.",,,,,C58026
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,43998,0.354166667,0.59375,0.618055556,,Request,N,Request,Request,N,Request,Pm check + CAS feed inside,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C49336
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,44002,0.354166667,0.420138889,0.430555556,,Request,N,Request,Request,N,Request,Health Check,"Check printer, clean sensor and adjust printer roller. Test OK.",,,,,C59178
+HASE,393,4C5A,Y,Shatin Sales & Services Centre,44009,0.354166667,0.454861111,0.496527778,,Request,N,Request,Request,N,Request,Health Check - Advise,"Cleaned roller, tested ok",,,,,C60993
+HASE,393,4C5B,Y,Taikoo Shing,43990,0.642361111,0.75,0.756944444,,SC,N,0.107638889,0.114583333,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK.",,,,,C58053
+HASE,229,4C5B,Y,Taikoo Shing,43991,0.354166667,0.447916667,0.454861111,,SC,N,0.09375,0.100694444,N,NOZ,CAS JAM,machine is ok when on arrival. Clean cas printer,,,,,C59060
+HASE,229,4C5B,Y,Taikoo Shing,43992,0.475694444,0.583333333,0.600694444,,SC,N,0.107638889,0.125,N,NOZ,Out of service,"machine arrived normal,check log jam cas at last night,cleaning cas printer roller and renew cas",,,,,C59106
+HASE,393,4C5C,Y,Sai Ying Pun MTR,43988,0.354166667,0.4375,0.447916667,,SC,N,0.083333333,0.09375,N,NZA,No CAS,Removed jam small paper.,,,,,C58276
+HASE,393,4C5C,Y,Sai Ying Pun MTR,43990,0.354166667,0.416666667,0.430555556,,SC,N,0.0625,0.076388889,Y,HCA,No CAS,"Replace printer, clean scanner and roller. Test OK.",,,,,C58046
+HASE,393,4C5C,Y,Sai Ying Pun MTR,43994,0.354166667,0.625,0.635416667,,Request,N,Request,Request,N,Request,Health check,Health check. Remove jammed CAS. Cleaned print head and roller. ,,,,,C49401
+HASE,393,4C5C,Y,Sai Ying Pun MTR,43994,0.354166667,0.625,0.635416667,,SC,N,0.270833333,0.28125,N,NZA,No CAS,Remove jammed CAS. Cleaned print head and roller. Serviced machine. Test OK.,,,,,C59294
+HASE,393,4C5C,Y,Sai Ying Pun MTR,43999,0.354166667,0.666666667,0.6875,,Request,N,Request,Request,N,Request,Healthcheck printer,remove jam advice from cutter,,,,,C49420
+HASE,393,4C5C,Y,Sai Ying Pun MTR,44011,0.354166667,0.604166667,0.638888889,,Request,N,Request,Request,N,Request,PM Check,PM CHECK with reference to RI/PM/202001. Activation ESU,,,,,C49414
+HASE,393,4C5D,Y,Shatin Citylink Plaza ABC,43999,0.354166667,0.427083333,0.458333333,,Request,N,Request,Request,N,Request,PM Check,"Clean sensor, roller, scanner and ESU. Test OK.",,,,,C33358
+HASE,393,4C5D,Y,Shatin Citylink Plaza ABC,44000,0.659722222,0.715277778,0.725694444,,SC,Y,0.055555556,0.065972222,N,NUD,Jam cheque at scanner.,removed jam cheque at scanner. Removed jammed cheque. Adjust gap.,,,,,C59333
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43986,0.354166667,0.416666667,0.427083333,,Request,N,Request,Request,N,Request,Health check - advise,"Check printer and setting, clean roller. Test Ok.",,,,,C58539
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43987,0.354166667,0.4375,0.454861111,,Request,N,Request,Request,N,Request,Health Check ,Health Check - Clean printer,,,,,C58431
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43987,0.354166667,0.4375,0.454861111,,SC,N,0.083333333,0.100694444,N,NZA,CAS jam,The CAS plastic roller is loosen. Fix the roller and clean printer. Test ok.,,,,,C58100
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43989,0.375,0.666666667,0.677083333,,SC,N,0.291666667,0.302083333,N,NZA,Jam advice,reinstall the advice. Tested ok.,,,,,C57073
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43993,0.430555556,0.447916667,0.458333333,,SC,N,0.017361111,0.027777778,N,NZA,No CAS,Remove jammed CAS. Serviced machine. Test OK.,,,,,C59283
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43994,0.440972222,0.5625,0.569444444,,SC,N,0.121527778,0.128472222,N,NZA,Jam CAS,Remove CAS & paper bits,,,,,C59202
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,43995,0.368055556,0.489583333,0.503472222,,SC,Y,0.121527778,0.135416667,N,NGB,Out of service,Clean F29.,,,,,C58286
+HASE,393,4C5F,Y,Cheung Sha Wan MTR,44000,0.354166667,0.447916667,0.475694444,,Request,N,Request,Request,N,Request,Health Check - Advise,"Replace CAS printer, reinstalled the driver, tested ok",,,,,C59568
+HASE,393,4C60,Y,Sham Shui Po EBC,43987,0.791666667,0.902777778,0.913194444,,SC,N,0.111111111,0.121527778,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK.",,,,,C58547
+HASE,393,4C60,Y,Sham Shui Po EBC,43991,0.625,0.652777778,0.635416667,,SC,Y,0.027777778,0.010416667,N,NGB,Out of service.,Clean F6 sensor. Tested ok.,,,,,C57840
+HASE,393,4C61,Y,Tung Chung MTR,43992,0.354166667,0.395833333,0.447916667,,Request,N,Request,Request,N,Request,Pm check,PM CHECK with reference to RI/PM/202006. Replace ink roller and ribbon plate roller. Activate ESU key.,,,,,C49225
+HASE,393,4C61,Y,Tung Chung MTR,43998,0.354166667,0.458333333,0.472222222,,SC,N,0.104166667,0.118055556,N,NIB,No endorsement,replaced ribbon. Clean scanner and roller perform TSP. tested ok.,,,,,C58123
+HASE,393,4C63,Y,Kowloon Tong MTR,43985,0.354166667,0.444444444,0.458333333,,SC,Y,0.090277778,0.104166667,N,NUD,jam cheque at scanner.,removed culved cheque. Adjusted scanner gap.,,,,,C58253
+HASE,393,4C63,Y,Kowloon Tong MTR,43992,0.354166667,0.5,0.510416667,,SC,Y,0.145833333,0.15625,N,NUD,Jammed at scanner last night,Clean scanner belt & paper path,,,,,C58341
+HASE,393,4C64,Y,Tsz Wan Shan Shopping Centre,43994,0.354166667,0.496527778,0.506944444,,Request,N,Request,Request,N,Request,Bar lock loose,"Adjust bar lock, clear black line",,,,,C59201
+HASE,393,4C64,Y,Tsz Wan Shan Shopping Centre,44001,0.354166667,0.479166667,0.506944444,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C59137
+HASE,393,4C64,Y,Tsz Wan Shan Shopping Centre,44011,0.565972222,0.788194444,0.798611111,,SC,N,0.222222222,0.232638889,N,NOZ,Jam cheque,"machine arrived normal,cleaning and adjust 380(L8) belt",,,,,C59871
+HASE,393,4C68,Y,Tsuen Wan KOLOUR ABC,43984,0.395833333,0.447916667,0.458333333,,SC,Y,0.052083333,0.0625,N,NGB,Out of service,Clean F1 sensor. Adjust input block.,,,,,C58602
+HASE,393,4C68,Y,Tsuen Wan KOLOUR ABC,43988,0.708333333,0.760416667,0.777777778,,SC,N,0.052083333,0.069444444,N,NGB,Out of service.,Machine normal. Check log. FFFFFFD problem. Clean the F29 and F1 senosr. Adjust the open gate. Tested ok.,,,,,C57830
+HASE,393,4C68,Y,Tsuen Wan KOLOUR ABC,43998,0.354166667,0.402777778,0.416666667,,SC,N,0.048611111,0.0625,N,NIC,Image small,clean scanner and roller. Perform TSP. tested ok.,,,,,C58898
+HASE,393,4C69,Y,Tai Wai MTR,43989,0.375,0.534722222,0.548611111,,SC,N,0.159722222,0.173611111,N,NGB,Jam cheque ,machine Normal. Clean the F29 F1 sensor. Tested ok.,,,,,C57065
+HASE,393,4C69,Y,Tai Wai,43992,0.583333333,0.597222222,0.607638889,,SC,Y,0.013888889,0.024305556,N,NUD,Jammed cheque,"Check the collection box, fixed the bin 1 solenoid. Test OK.",,,,,C58067
+HASE,393,4C69,Y,Tai Wai MTR,43993,0.625,0.75,0.760416667,,SC,N,0.125,0.135416667,N,NIC,Image small,clean scanner smj.,,,,,C58281
+HASE,393,4C69,Y,Tai Wai MTR,43994,0.354166667,0.489583333,0.513888889,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C49330
+HASE,393,4C69,Y,Tai Wai MTR,43997,0.388888889,0.46875,0.482638889,,SC,Y,0.079861111,0.09375,N,NUD,Jammed cheuqe,"Remove cheque near in bin 2, adjust bin 2 solenoid, clean sensor and roller. Test OK.",,,,,C59065
+HASE,393,4C69,Y,Tai Wai MTR,43997,0.690972222,0.715277778,0.729166667,,SC,N,0.024305556,0.038194444,N,NZA,CAS problem,"Check printer, clean sensor and roller. Test OK.",,,,,C59581
+HASE,393,4C6A,Y,San Hong Street,44005,0.559027778,0.600694444,0.618055556,,SC,Y,0.041666667,0.059027778,N,NUD,Jammed cheque,"Cleaned sensor (F6, F29), tested ok",,,,,C59669
+HASE,393,4C6B,Y,Ivy Street,43997,0.354166667,0.5625,0.576388889,,SC,Y,0.208333333,0.222222222,Y,HTP,Jammed cheque,"Replace o-ring (fat, feeder) and stamp, tested ok",,,,,C59100
+HASE,273,4C6C,N,Des Voeux Raod West,44011,0.40625,0.5,0.517361111,,SC,Y,0.09375,0.111111111,N,NGC,Windows crashed,must follow to reload,,,,,C59384
+HASE,393,4C6C,N,Des Voeux Raod West,44012,0.354166667,0.395833333,0.520833333,,Request,Y,Request,Request,N,Request,Windows crashed,Reload Program,,,,,C59818
+HASE,393,4C6F,Y,MTR Tsuen Wan ABC,43998,0.420138889,0.493055556,0.510416667,0.006944444,SC,Y,0.072916667,0.083333333,N,NGB,OUt of service,clean scanner and roller. Perform TSP. tested ok.,,,,,C58124
+HASE,393,4C6F,Y,MTR Tsuen Wan ABC,43998,0.854166667,0.90625,0.920138889,,SC,Y,0.052083333,0.065972222,N,NUD,Jammed cheque,"Adjust yellow belt, clean sensor and roller. Test oK.",,,,,C59074
+HASE,393,4C70,Y,Jordon MTR,43987,0.576388889,0.677083333,0.6875,,SC,N,0.100694444,0.111111111,N,NUB,Rejected cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK.",,,,,C58543
+HASE,393,4C70,Y,Jordon MTR,44008,0.354166667,0.625,0.670138889,,Request,N,Request,Request,N,Request,PM CHECK,PM CHECK with reference to RI/PM/202001. Replaced stamp.,,,,,C49376
+HASE,280,4C71,N,Main Branch (83 Des Voeux Rd Central),44011,0.635416667,0.6875,0.708333333,,SC,Y,0.052083333,0.072916667,N,NGB,Idle,"Cleaned sensor F10, F11. Replaced stamp. Serviced machine. Test OK.",,,,,C60935
+HASE,393,4C72,Y,Kwun Tong MTR,43983,0.472222222,0.625,0.635416667,,SC,N,0.152777778,0.163194444,N,HCA,No advise,Replace cas printer. Test ok,,,,,C58183
+HASE,393,4C72,Y,Kwun Tong MTR,44008,0.618055556,0.666666667,0.680555556,,SC,Y,0.048611111,0.0625,N,NUD,Solenoid (aligner) missing c-ring,"Remove cheque at aligner, install new c-ring, clear white line image",,,,,C60925
+HASE,393,4C73,Y,Kwai Hing MTR,43989,0.375,0.645833333,0.65625,,SC,N,0.270833333,0.28125,N,NZA,Jam advice,Clean the cutter. Tested ok.,,,,,C57072
+HASE,393,4C73,Y,Kwai Hing MTR,43991,0.354166667,0.604166667,0.614583333,,Request,N,Request,Request,N,Request,Health check - advise,machine normal. Clean cutter. Printer and roller. Tested ok.,,,,,C57839
+HASE,393,4C73,Y,Kwai Hing MTR,43992,0.354166667,0.583333333,0.597222222,,Request,N,Request,Request,N,Request,Health Check CAS,CAS can't cut. Clean cas cutter and clean scanner. Test ok.,,,,,C57094
+HASE,393,4C73,Y,Kwai Hing MTR,43992,0.527777778,0.583333333,0.597222222,,SC,N,0.055555556,0.069444444,N,NZA,CAS,Clean printer,,,,,C57093
+HASE,393,4C73,Y,Kwai Hing MTR,44005,0.555555556,0.625,0.635416667,,SC,N,0.069444444,0.079861111,N,NZA,CAS can't cut,"Clear paper bits, clean scanner & stamp",,,,,C59805
+HASE,393,4C73,Y,Kwai Hing MTR,44007,0.354166667,0.513888889,0.53125,,Request,N,Request,Request,N,Request,Health checked,replaced the CAS printer. Tested ok.,,,,,C58150
+HASE,393,4C73,Y,Kwai Hing MTR,44008,0.513888889,0.5625,0.576388889,,SC,N,0.048611111,0.0625,N,NZA,Jam advice,clean roller and print head. ,,,,,C59715
+HASE,393,4C73,Y,Kwai Hing MTR,44009,0.354166667,0.409722222,0.420138889,,Request,N,Request,Request,N,Request,Health check CAS,CAS jammed at cutter. Adjust the printer's arm and adjust the metal film. Clean scanner and test ok.,,,,,C59414
+HASE,393,4C73,Y,Kwai Hing MTR,44011,0.802083333,0.881944444,0.895833333,,SC,Y,0.079861111,0.09375,N,NGA,Out of service,need follow replaced csd main power supply,,,,,C59874
+HASE,393,4C73,Y,Kwai Hing MTR,44012,0.354166667,0.4375,0.493055556,,SC,Y,Request,Request,N,Request,Follow up,Replace main power supply and fuse.,,,,,C59009
+HASE,393,4C73,Y,Kwai Hing MTR,44012,0.354166667,0.493055556,0.506944444,,Request,N,Request,Request,N,Request,Health check,Replace box wire.,,,,,C59011
+HASE,393,4C74,Y,Yuen Long KOLOUR ABC,44008,0.618055556,0.666666667,0.680555556,,SC,Y,0.048611111,0.0625,N,NUD,Jam cheque at bin 1,adjust the solenoid of bin 1. tested ok.,,,,,C59716
+HASE,393,4C74,Y,Yuen Long KOLOUR ABC,44011,0.354166667,0.479166667,0.493055556,,SC,Y,0.125,0.138888889,N,NUD,Jam cheque at bin 1,replaced the solenoid of bin 1. tested ok.,,,,,C59726
+HASE,224,4C76,N,Tai Po Branch,43987,0.354166667,0.395833333,0.4375,,Request,N,Request,Request,N,Request,Pm check,PM CHECK with reference to RI/PM/202001.,,,,,C49357
+HASE,224,4C76,N,Tai Po Branch,43987,0.392361111,0.395833333,0.416666667,,SC,N,0.003472222,0.024305556,Y,HCR,Card reader,cardreader problem. Need follow up.,,,,,C58272
+HASE,224,4C76,N,Tai Po Branch,43987,0.423611111,0.513888889,0.53125,,Request,N,Request,Request,N,Request,Follow up,replaced cardreader.,,,,,C58273
+HASE,393,4C76,N,Tai Po Branch,43995,0.458333333,0.479166667,0.5,,SC,Y,0.020833333,0.041666667,N,NGA,No power,"Check machine power and cable, reinstalled power cable, ESU. Test OK.",,,,,C59063
+HASE,393,4C76,N,Tai Po Branch,43995,0.458333333,0.479166667,0.5,,Request,N,Request,Request,N,Request,Health Check,Esu activation,,,,,C59063
+HASE,393,4C77,Y,MTR Central (WWH) ABC,44009,0.354166667,0.4375,0.454861111,,SC,Y,0.083333333,0.100694444,Y,HTP,Jammed cheque,"Adjust the thickness adjuster, replace o-ring. Test OK.",,,,,C59948
+HASE,393,4C78,Y,Fo Tan ABC,43984,0.791666667,0.8125,0.833333333,,Request,N,Request,Request,N,Request,Health checked ,adjust the CAS printer. Tested ok.,,,,,C57817
+HASE,393,4C78,Y,Fo Tan ABC,44012,0.354166667,0.642361111,0.65625,,Request,N,Request,Request,N,Request,Search cheque,downlog no find cheque,,,,,C60757
+HASE,393,4C79,Y,Wong Tai Sin Plza,44000,0.354166667,0.506944444,0.534722222,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C49340
+HASE,393,4C79,Y,Wong Tai Sin Plza,44006,0.354166667,0.375,0.388888889,,SC,Y,0.020833333,0.034722222,Y,HTP,Tooth belt worn out,"Replace tooth belt behind scanner, adjust bend belt",,,,,C59809
+HASE,393,4C7A,Y,Hysan Avenue,43986,0.354166667,0.444444444,0.465277778,,Request,N,Request,Request,N,Request,Pm check,"Pretentive Maintenance, ESU activation",,,,,C49297
+HASE,393,4C7A,Y,Hysan Avenue,43994,0.354166667,0.427083333,0.4375,,SC,Y,0.072916667,0.083333333,N,NGB,Jammed cheque,Lift operating error. No jammed found. Restarted machine. Test OK.,,,,,C59290
+HASE,393,4C7A,Y,Hysan Avenue,44002,0.354166667,0.416666667,0.427083333,,SC,N,0.0625,0.072916667,N,NZA,CAS,Restarted CAS printer. Serviced machine. Test OK.,,,,,C59650
+HASE,393,4C7A,Y,Hysan Avenue,44003,0.354166667,0.4375,0.447916667,,SC,Y,0.083333333,0.09375,N,NZA,Out of service,The printer is disable. Reset the printing setting and clean scanner. Test ok.,,,,,C59489
+HASE,393,4C7A,Y,Hysan Avenue,44004,0.628472222,0.71875,0.729166667,,SC,N,0.090277778,0.100694444,N,NZA,CAS alignment,No problem found. Serviced machine. Test OK.,,,,,C59675
+HASE,393,4C7B,Y,Central MTR ,44011,0.354166667,0.4375,0.486111111,,SC,Y,0.083333333,0.131944444,N,NGC,Manually closed,PC is slow. Running single hardisk. Restarted PC. Need follow up.,,,,,C60931
+HASE,393,4C7B,Y,Central (Jackson Road) MTR ABC,44011,0.5625,0.604166667,0.739583333,,SC,N,Request,Request,N,Request,Reload Program,Reload Program and test ok.,,,,,C59418
+HASE,3,4C7C,N,Sun Kwai Hing Plaza,44005,0.354166667,0.416666667,0.541666667,,Request,N,Request,Request,N,Request,Reload,Reload program,,,,,C59804
+HASE,393,4C7E,Y,Tsuen Wan Building ABC,43997,0.506944444,0.583333333,0.597222222,0.006944444,SC,N,0.076388889,0.083333333,N,NZA,advice blur,clean the print head. Tested ok.,,,,,C58111
+HASE,393,4C7E,Y,Tsuen Wan Building ABC,44001,0.625,0.680555556,0.694444444,,SC,Y,0.055555556,0.069444444,N,NGB,Out of service,Clean sensor F8 and clean scanner. Test ok.,,,,,C59484
+HASE,393,4C7F,Y,Tsuen Wan Building ABC,43991,0.354166667,0.416666667,0.447916667,,SC,Y,0.0625,0.09375,N,NGB,Out of service,Sensor F6 is dirty. Action: Clean sensor F6 and clean scanner. Test ok.,,,,,C58446
+HASE,239,4C80,Y,Sheung Wan,43983,0.576388889,0.6875,0.697916667,,SC,Y,0.111111111,0.121527778,N,NGZ,Auto reset,ATMP timeout. Open controller. Serviced machine. Test OK.,,,,,C58388
+HASE,393,4C80,Y,Sheung Wan,43985,0.59375,0.71875,0.729166667,,SC,N,0.125,0.135416667,N,NOZ,jam cheque,machine is ok when on arrival. Clean DD1 sensor,,,,,C58004
+HASE,393,4C80,Y,Sheung Wan,43986,0.388888889,0.5,0.513888889,,SC,Y,0.111111111,0.125,N,NGB,Out of service,Clean F15.,,,,,C58289
+HASE,393,4C80,Y,Sheung Wan,43987,0.354166667,0.427083333,0.447916667,,SC,Y,0.072916667,0.09375,N,NUD,jam cheque at scanner.,"ribbon metal film broken,replaced",,,,,C58234
+HASE,393,4C80,Y,Sheung Wan,43988,0.440972222,0.46875,0.479166667,,SC,Y,0.027777778,0.038194444,N,NGB,Out of service,clean and stablized F28.,,,,,C58277
+HASE,393,4C80,Y,Sheung Wan,43997,0.486111111,0.541666667,0.552083333,,SC,N,0.055555556,0.065972222,N,NIC,Advice no image,Image small. Cleaned scanner and rollers. Perform TSP. Test Ok.,,,,,C59299
+HASE,280,4C81,N,Main Branch (83 Des Voeux Rd Central),43983,0.413194444,0.506944444,0.513888889,,SC,Y,0.09375,0.100694444,N,NGB,Out of service,Cleaned sensors. Serviced machine. Test OK.,,,,,C58360
+HASE,280,4C81,N,Main Branch (83 Des Voeux Rd Central),44002,0.354166667,0.458333333,0.46875,,Request,N,Request,Request,N,Request,Health check,Cleaned CAS printer and roller.,,,,,C49347
+HASE,393,4C82,Y,Tsuen Kam Centre,43985,0.354166667,0.40625,0.416666667,,SC,N,0.052083333,0.0625,N,NZA,Out of service,CAS jammed at cutter. Clean CAS cutter and clean scanner. Test ok.,,,,,C58428
+HASE,393,4C82,Y,Tsuen Kam Centre,43990,0.649305556,0.697916667,0.715277778,,SC,N,0.048611111,0.065972222,N,NZA,no advice,adjust the rejection roller. Tested ok.,,,,,C57837
+HASE,393,4C82,Y,Tsuen Kam Centre,43991,0.354166667,0.461805556,0.479166667,,Request,N,Request,Request,N,Request,Health Check CAS,Replace CAS printer(repaired) and test ok.,,,,,C58447
+HASE,393,4C82,Y,Tsuen Kam Centre,44002,0.638888889,0.673611111,0.6875,,SC,Y,0.034722222,0.048611111,Y,HTP,Cheque jam,Remove cheque and replace bend belt. Test ok.,,,,,C59488
+HASE,393,4C83,Y,Tiu Keng Leng MTR ABC,43984,0.354166667,0.583333333,0.604166667,,Request,N,Request,Request,N,Request,Preventive Maintenance,"Pretentive Maintenance, ESU activation",,,,,C58194
+HASE,393,4C83,Y,Tiu Keng Leng MTR ABC,43994,0.600694444,0.725694444,0.732638889,,SC,N,0.125,0.131944444,N,NIC,Black line,Clean front scanner and pressure roller.,,,,,C58491
+HASE,767,4C84,Y,Chai Wan Branch,44007,0.708333333,0.75,0.756944444,,SC,N,0.041666667,0.048611111,N,NOZ,Black screen,Machine normal. Serviced machine. Test OK.,,,,,C60971
+HASE,393,4C85,Y,MTR Tseung Kwan O ABC,43985,0.4375,0.541666667,0.555555556,,SC,N,0.104166667,0.118055556,N,NIA,Front crossing and endorsement,replaced ribbon and adjusted it.,,,,,C58256
+HASE,393,4C85,Y,MTR Tseung Kwan O ABC,43993,0.354166667,0.75,0.756944444,,SC,N,0.395833333,0.402777778,N,NOZ,machine normal,"Machine normal when arrival, clean feeder.",,,,,C59192
+HASE,393,4C85,Y,MTR Tseung Kwan O ABC,43997,0.635416667,0.913194444,0.927083333,,SC,N,0.277777778,0.291666667,N,NOA,jam cheque,"full box, normal machine in arrive",,,,,C59575
+HASE,393,4C85,Y,MTR Tseung Kwan O ABC,44009,0.354166667,0.4375,0.451388889,,SC,N,0.083333333,0.097222222,N,NOZ,Jam cheque,"machine arrived normal,check loj cannot back-flush,replaced feeder o ring",,,,,C59866
+HASE,393,4C87,Y,Tsim Sha Tsui MTR ABC,44006,0.427083333,0.489583333,0.510416667,,SC,Y,0.0625,0.083333333,N,NOA,Out of service,Replace CMOS battery. Perform cutoff handling.,,,,,C57171
+HASE,393,4C87,Y,Tsim Sha Tsui MTR ABC,44010,0.354166667,0.493055556,0.506944444,,SC,Y,0.138888889,0.152777778,N,NGC,Out of service,Check lan. Make ramp smooth due to previous jam.,,,,,C59342
+HASE,393,4C88,Y,North Point,44001,0.354166667,0.440972222,0.454861111,,SC,Y,0.086805556,0.100694444,N,NBA,Collection box problem,"Fixed the collection box, replace wiring. Follow up to replace bar. *offered 9:00",,,,,C59172
+HASE,393,4C88,Y,North Point ,44001,0.458333333,0.583333333,0.59375,,Request,N,Request,Request,N,Request,Bar broken,Replaced bar. Test OK.,,,,,C59647
+HASE,393,4C89,Y,MTR Whampoa ABC,43999,0.354166667,0.451388889,0.458333333,,Request,N,Request,Request,N,Request,Health check CAS,Replace CAS printer,,,,,C59231
+HASE,393,4C89,Y,MTR Whampoa ABC,44012,0.354166667,0.552083333,0.565972222,,SC,Y,0.197916667,0.211805556,N,NGB,Out of service,Adjust 24V and stamp,,,,,C59984
+HASE,208,4C8A,Y,Lok Fu Shopping Centre,44001,0.354166667,0.427083333,0.451388889,,Request,N,Request,Request,N,Request,Pm check ,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C59136
+HASE,208,4C8A,Y,Lok Fu Shopping Centre,44007,0.354166667,0.625,0.645833333,,Request,N,Request,Request,N,Request,Health checked,adjust the upper door bar. Tested ok.,,,,,C59708
+HASE,208,4C8A,Y,Lok Fu Shopping Centre,44007,0.583333333,0.625,0.645833333,,SC,N,0.041666667,0.0625,N,NOZ,No advice,no problem find. Clean the sensor or CAS printer. Tested ok.,,,,,C59709
+HASE,393,4C8B,Y,Central (WWH) MTR ABC,43992,0.354166667,0.434027778,0.454861111,,SC,N,0.079861111,0.100694444,N,NIA,crossing and black line,replace ink-roller and scanner perform,,,,,C59168
+HASE,393,4C8D,Y,MTR Kowloon Bay ABC,43987,0.552083333,0.690972222,0.704861111,,SC,N,0.138888889,0.152777778,N,NIA,No rossing,Perform TSP. Adjust scanner gap.,,,,,C58582
+HASE,230,4C8E,Y,Tam Kung Road,43992,0.628472222,0.701388889,0.711805556,,SC,N,0.072916667,0.083333333,N,NIA,No crossing,Clean stamp & adjust stamp gap,,,,,C58345
+HASE,230,4C8E,Y,Tam Kung Road,43999,0.354166667,0.5,0.538194444,,SC,Y,0.145833333,0.184027778,Y,HTP,Jam cheque at ramp/scanner,adjust scanner gap. Clean both blackline. Adjust endorsement and replaced ribbon. Replaced red belt and o-ring collection.,,,,,C59322
+HASE,279,4C8F,N,Ngau Tau Kok,43983,0.375,0.423611111,0.4375,0.006944444,SC,N,Request,Request,N,Request,ESU,ESU ,,,,,C58849
+HASE,279,4C8F,N,Ngau Tau Kok,43986,0.388888889,0.565972222,0.607638889,,SC,Y,0.177083333,0.21875,Y,HTP,Jammed cheque,"Replace flat belt (bend), flat belt (yellow), Flat belt (351 , L6), tested ok",,,,,C59032
+HASE,279,4C8F,N,Ngau Tau Kok,43997,0.354166667,0.5,0.513888889,,SC,Y,0.145833333,0.159722222,Y,HTP,out of service,"replace fat o-ring and ink-roller, 12 june 14:00 after nobody insert cheque.",,,,,C59386
+HASE,279,4C8F,N,Ngau Tau Kok,43998,0.576388889,0.666666667,0.684027778,,SC,Y,0.090277778,0.107638889,N,NGZ,Netowrk not stable,need follow up check network,,,,,C59230
+HASE,279,4C8F,N,Ngau Tau Kok,43999,0.458333333,0.46875,0.489583333,,Request,N,Request,Request,N,Request,Network follow up,check lan cable,,,,,C59126
+HASE,279,4C8F,N,Ngau Tau Kok,43999,0.628472222,0.743055556,0.767361111,,Request,N,Request,Request,N,Request,Network follow up,check lan cable,,,,,C59130
+HASE,279,4C8F,N,Ngau Tau Kok,44000,0.354166667,0.75,0.802083333,,Request,N,Request,Request,N,Request,Netowrk follow up,removed CQM to change lan cable by ATM,,,,,C59134
+HASE,279,4C8F,N,Ngau Tau Kok,44002,0.354166667,0.482638889,0.493055556,,Request,N,Request,Request,N,Request,Health check,cheque box gate cannot full open-replaced cheque box wiring,,,,,C59142
+HASE,279,4C8F,N,Ngau Tau Kok,44004,0.510416667,0.614583333,0.631944444,,SC,Y,0.104166667,0.121527778,N,NUD,Jam cheque,"""FFFD"",adjust feeder gate ,curl cheque jam into escrow,remove jam cheque",,,,,C59149
+HASE,393,4C91,Y,Tuen Mun Town Plaza Phase 2,43984,0.559027778,0.579861111,0.59375,,SC,Y,0.020833333,0.034722222,N,NUD,Jam cheque,Remove jammed cheque at sorter. Clean and adjust bin2 solenoid. Clean scanner.,,,,,C58605
+HASE,393,4C91,Y,Tuen Mun Town Plaza Phase 2,43992,0.354166667,0.552083333,0.572916667,,SC,Y,0.197916667,0.21875,N,NUD,Jam cheque at aligner.,removed the Jam cheque. Tested ok.,,,,,C57846
+HASE,393,4C91,Y,Tuen Mun Town Plaza Phase 2,44004,0.444444444,0.458333333,0.46875,,SC,Y,0.013888889,0.024305556,N,NUD,Jam cheque at bin 2,removed the jam cheque. Tested ok.,,,,,C58143
+HASE,393,4C91,Y,Tuen Mun Town Plaza Phase 2,44011,0.354166667,0.4375,0.451388889,,SC,N,0.083333333,0.097222222,N,NOZ,Out of service,Machine normal. Clean F1 sensor. Tested ok.,,,,,C59725
+HASE,393,4C94,Y,Johnston Road,43991,0.354166667,0.416666667,0.444444444,,SC,N,0.0625,0.090277778,N,NIB,endorsement,"replace ribbon, clean printer",,,,,C59170
+HASE,280,4C95,N,Main Branch (83 Des Voeux Rd Central),43983,0.402777778,0.5,0.506944444,,SC,Y,0.097222222,0.104166667,N,NUD,Out of service,Remove jammed cheque at scanner. Cleaend rollers. Serviced machine. Test OK.,,,,,C58359
+HASE,280,4C95,N,Main Branch (83 Des Voeux Rd Central),43991,0.354166667,0.510416667,0.527777778,,SC,N,0.15625,0.173611111,N,NZA,CAS problem,replace CAS PCB,,,,,C59163
+HASE,393,4C96,Y,Chai Wan MTR,43984,0.354166667,0.524305556,0.534722222,,Request,N,Request,Request,N,Request,Health check,cleaning cas printer roller,,,,,C58218
+HASE,393,4C96,Y,Chai Wan MTR,43990,0.548611111,0.625,0.635416667,,SC,Y,0.076388889,0.086805556,N,NUD,Jammed cheque,Remove jammed cheque. Rearrange cheque in bin 1. Serviced machine. Test OK.,,,,,C59027
+HASE,286,4C98,N,Tsim Sha Tsui ,43999,0.607638889,0.652777778,0.659722222,,SC,N,0.045138889,0.052083333,N,NZA,missing printer 24V,Adjust 24V,,,,,C59233
+HASE,286,4C98,N,Tsim Sha Tsui ,44012,0.572916667,0.663194444,0.673611111,,SC,Y,0.090277778,0.100694444,N,NGB,Out of service,"Lift up failture,cleaning MDN board",,,,,C59878
+HASE,286,4C99,N,Tsim Sha Tsui ,43984,0.631944444,0.690972222,0.701388889,,SC,N,0.059027778,0.069444444,N,NZA,Jam CAS,"Remove jammed CAS, adjust ejection roller",,,,,C58305
+HASE,368,4C9A,N,Cheung Sha Wan Plaza,43985,0.503472222,0.53125,0.541666667,,SC,N,0.027777778,0.038194444,N,NZA,CAS printing shift,The printer is normal. Checck printing and clean scanner. Test ok.,,,,,C58092
+HASE,368,4C9A,N,Cheung Sha Wan Plaza,44005,0.392361111,0.4375,0.458333333,,SC,N,0.045138889,0.065972222,N,NZA,Jam advice,Clean the cutter and roller. Tested ok.,,,,,C57086
+HASE,368,4C9A,N,Cheung Sha Wan Plaza,44008,0.354166667,0.416666667,0.430555556,,SC,N,0.0625,0.076388889,N,NOZ,No CAS,"Printer is normal, no cas jam. Check record and check printer. Clean printer and adjust metal film. Test ok.",,,,,C59407
+HASE,393,4C9B,Y,Tai Po On Chee Road ABC,43997,0.354166667,0.472222222,0.5,,Request,N,Request,Request,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation",,,,,C49334
+HASE,393,4C9B,Y,Tai Po On Chee Road ABC,44001,0.645833333,0.65625,0.670138889,,SC,N,0.010416667,0.024305556,N,NZA,CAS problem,"Check printer and setting, clean sensor and scanner. Test OK.",,,,,C59176
+HASE,393,4C9D,Y,Tsim Sha Tsui MTR ABC,43984,0.354166667,0.479166667,0.489583333,,Request,N,Request,Request,N,Request,CAS drop,Remove jammed CAS at cutter,,,,,C58700
+HASE,393,4C9D,Y,Tsim Sha Tsui MTR ABC,44006,0.631944444,0.663194444,0.673611111,,SC,N,0.03125,0.041666667,N,NZA,Cas jam,renew cas,,,,,C59859
+HASE,368,4C9E,N,Cheung Sha Wan Plaza,44005,0.392361111,0.4375,0.458333333,,SC,N,0.045138889,0.065972222,N,NZA,Jam advice,clean roller and print head.,,,,,C57087
+HASE,393,4C9F,Y,Fitford ABC,44006,0.354166667,0.385416667,0.399305556,,SC,Y,0.03125,0.045138889,N,NUD,Jammed cheuqe,"Cleaned flat belt (scanner), tested ok",,,,,C59902
+HASE,393,4C9F,Y,Fitford ABC,44008,0.354166667,0.40625,0.416666667,,SC,Y,0.052083333,0.0625,N,NUD,Jam cheque,removed jam cheque at scanner. Adjust scanner belt.,,,,,C60972
+HASE,393,4DA2,Y,MTR Kai Tak ABC,44011,0.711805556,0.756944444,0.767361111,,SC,Y,0.045138889,0.055555556,Y,NOA,Black screen,"monitor off,Turn on ,Test ok",,,,,C59872
+HASE,393,4DA7,Y,Temple Mail North,43984,0.354166667,0.666666667,0.677083333,,Request,N,Request,Request,N,Request,Health check,Cleaned CAS printer head & rollers.,,,,,C49290
+HASE,393,4DAA,Y,MTR Taikoo,44008,0.392361111,0.427083333,0.4375,,SC,N,0.034722222,0.045138889,N,NZA,CAS,Clean print head and scanner. Test ok.,,,,,C59536
+HASE,393,4DAB,Y,MTR Quarry Bay,43984,0.354166667,0.5,0.513888889,,Request,N,Request,Request,N,Request,Health check - advise,cleaning cas printer roller,,,,,C58217
+HASE,393,4DAB,Y,MTR Quarry Bay,43984,0.583333333,0.708333333,0.729166667,,SC,N,0.125,0.145833333,N,NIC,Image,"Clean scanner, perform TSP. Remove jam cas, clean printer sensor and roller.",,,,,C58468
+HASE,393,4DAB,Y,MTR Quarry Bay,43985,0.538194444,0.708333333,0.71875,,SC,N,0.170138889,0.180555556,N,NIB,No image,"Replace ribbon. Clean scanner, smj board.",,,,,C58472
+HASE,393,4DAB,Y,MTR Quarry Bay,43986,0.409722222,0.5,0.510416667,,SC,Y,0.090277778,0.100694444,N,NZA,Out of service,take away jam cas paper. Service machine,,,,,C58007
+HASE,393,4DAB,Y,MTR Quarry Bay,43987,0.5625,0.704861111,0.715277778,,SC,N,0.142361111,0.152777778,Y,HCA,Out of service,Replace cas printer. Test ok,,,,,C59053
+HASE,393,4DAB,Y,MTR Quarry Bay,43991,0.354166667,0.583333333,0.597222222,,Request,N,Request,Request,N,Request,Jammed advsie,"Cleaned CAS printer, tested ok",,,,,C59084
+HASE,393,4DAB,Y,MTR Quarry Bay,43991,0.354166667,0.583333333,0.597222222,,SC,N,0.229166667,0.243055556,N,NZA,Out of service,"Advise jammed, cleaned CAS printer, tesed ok",,,,,C59049
+HASE,393,4DAB,Y,MTR Quarry Bay,43993,0.354166667,0.631944444,0.638888889,,Request,N,Request,Request,N,Request,Health check CAS,Clear paper bits,,,,,C58347
+HASE,393,4DAB,Y,MTR Quarry Bay,43994,0.555555556,0.645833333,0.663194444,,SC,N,0.090277778,0.107638889,N,NIC,No image both side,follow up for scanner replacement.,,,,,C59306
+HASE,393,4DAB,Y,Quarry Bay MTR,43995,0.368055556,0.479166667,0.5,,SC,Y,0.111111111,0.131944444,Y,HPC,No image,Reinstall scanner cable. Replaced SMJ. Serviced machine. Test OK.,,,,,C59296
+HASE,393,4DAB,Y,MTR Quarry Bay,43998,0.635416667,0.65625,0.663194444,,SC,Y,0.020833333,0.027777778,Y,HCA,jam advise,Replace cas printer. Test ok,,,,,C59395
+HASE,393,4DAB,Y,MTR Quarry Bay,44008,0.430555556,0.444444444,0.451388889,,SC,N,0.013888889,0.020833333,N,NZA,Jam CAS,"Remove jam cas. Clean printer roller, print head. Test ok.",,,,,C59537
+HASE,393,4DAC,Y,MTR Lok Fu,43983,0.354166667,0.625,0.638888889,,SC,Y,0.270833333,0.284722222,N,NZA,Out of service,"CAS jam, remove jam advice",,,,,C58398
+HASE,393,4DAC,Y,Lok Fu station ,43991,0.354166667,0.4375,0.444444444,,SC,Y,0.083333333,0.090277778,N,NUD,Jammed cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK.",,,,,C58058
+HASE,393,4DAC,Y,MTR Lok Fu,43992,0.354166667,0.513888889,0.520833333,,SC,Y,0.159722222,0.166666667,N,NGB,F6 sensor engaged,Clean sensor,,,,,C58342
+HASE,393,4DAC,Y,MTR Lok Fu,43998,0.354166667,0.625,0.635416667,,Request,N,Request,Request,N,Request,CAS drop,Replace CAS printer,,,,,C59229
+HASE,393,4DAC,Y,MTR Lok Fu,43998,0.5,0.625,0.635416667,,SC,Y,0.125,0.135416667,Y,HCA,Out of service due to Jammed CAS,Replace CAS printer,,,,,C59229
+HASE,393,4DAC,Y,MTR Lok Fu,44005,0.354166667,0.458333333,0.472222222,,SC,Y,0.104166667,0.118055556,N,NGB,Out of service,Clean sensor F6 and clean scanner. Test ok.,,,,,C59497
+HASE,393,4DAC,Y,Lok Fu MTR,44005,0.489583333,0.583333333,0.59375,,SC,Y,0.09375,0.104166667,N,NGB,Sensor problem,"Clean the F6 sensor, scanner and roller. Test OK.",,,,,C59590
+HASE,393,4DAD,Y,MTR Kowloon ABC,43999,0.354166667,0.479166667,0.489583333,,Request,N,Request,Request,N,Request,Health Check - Advise,clean roller and print head.,,,,,C59604
+HASE,393,4DAD,Y,MTR Kowloon ABC,44001,0.472222222,0.5625,0.583333333,,SC,Y,0.090277778,0.111111111,N,NZA,Out of service,CAS jam at cutter. Remove CAS and clean cutter. Adjust metal film and test ok.,,,,,C59482
+HASE,393,4DAD,Y,MTR Kowloon ABC,44005,0.354166667,0.65625,0.670138889,,Request,N,Request,Request,N,Request,PM check,PM CHECK with reference to RI/PM/202006.,,,,,C49261
+HASE,393,4DAD,Y,MTR Kowloon ABC,44012,0.354166667,0.4375,0.451388889,,Request,N,Request,Request,N,Request,Health checked,"jam advice. Clean the cutter, roller and Print head. Tested ok.",,,,,C59731
+HASE,393,4DAE,Y,Yau Tong Domain ABC,43998,0.440972222,0.506944444,0.517361111,,SC,Y,0.065972222,0.076388889,N,NGB,F9 sensor engaged,Clean sensor,,,,,C59226
+HASE,393,4DAF,Y,The Quayside ABC,43991,0.378472222,0.496527778,0.503472222,,SC,N,0.118055556,0.125,N,NZA,Always show paper end,Clean CAS roll detector,,,,,C58333
+HASE,393,4DAF,Y,The Quayside ABC,43994,0.614583333,0.694444444,0.701388889,0.003472222,SC,N,0.079861111,0.083333333,N,NZA,CAS,Replace advice paper.,,,,,C57084
