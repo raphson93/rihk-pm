@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CSV to HTML Table</title>
+    <title>Rototype Call Log System</title>
     <meta name="author" content="Derek Eder">
     <meta content="Display any CSV file as a searchable, filterable, pretty HTML table" />
 
@@ -23,13 +23,12 @@
   <body>
     <div class="container-fluid">
 
-      <h2>Rototype International</h2>
+      <!--<h2>Rototype International</h2>-->
 
       <!--<p>Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript. <a href='https://github.com/derekeder/csv-to-html-table'>Code on GitHub</a>.</p>
 
       <p>Here's a table of Health Clinics from the <a href='https://data.cityofchicago.org/browse?q=health%20clinic&sortBy=relevance&utf8=%E2%9C%93'>City of Chicago Data Portal</a>.</p>-->
-	<p>RIHK CALL LOG SYSTEM
-	</p>
+	<!--<p>RIHK CALL LOG SYSTEM</p>-->
       
       <div id='table-container'></div>
 
@@ -54,14 +53,49 @@
 
 
     <script type="text/javascript">
-      function format_link(link){
+	var ipList = [];
+	//ipList = ['0','11.11.11.11','175.45.56.250'];
+	ipList = ['1','2','3'];
+	function myIP() {
+    if (window.XMLHttpRequest) xmlhttp = new XMLHttpRequest();
+    else xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+
+    xmlhttp.open("GET","https://api.hostip.info/get_html.php",false);
+    //xmlhttp.open("GET","https://api.ipify.org?format=json",false);
+    xmlhttp.send();
+
+    hostipInfo = xmlhttp.responseText.split("\n");
+    //hostipInfo = xmlhttp.responseText;
+    for (i=0; hostipInfo.length >= i; i++) {
+        ipAddress = hostipInfo[i].split(":");
+        if ( ipAddress[0] == "IP" )
+	return ipAddress[1];
+        
+    }
+    
+    return false;
+	}
+      
+	  function format_link(link){
         if (link)
           return "<a href='" + link + "' target='_blank'>" + link + "</a>";
         else
           return "";
       }
-
-      CsvToHtmlTable.init({
+      //ip = 175.45.56.250
+	  //const ipList = [{ip: '11.11.11.11'}, {ip: '175.45.56.250'}];
+	  //const ipList = [{ip: "2.2.2.2"}];
+     
+	  
+      //var test = "175.45.56.250";
+      //alert(clientIP);
+      //alert(ipList);
+	  //vendors.some(e => e.Name === 'Magenic')
+      //if (ipList.some(e => e.Name == clientIP)) {
+	  /*for (var i=0; i < ipList.length; i++) {
+	  if (ipList[i].ip = clientIP)
+	  {
+		CsvToHtmlTable.init({
         csv_path: 'data/pmlist.csv',
         element: 'table-container', 
         allow_download: false,
@@ -69,6 +103,25 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
+      }
+	else{
+		alert("You are not part of the list....");
+	}
+	}*/
+	for (var i=0; i < ipList.length; i++) {
+		//alert(ipList[i]);
+		var clientIP = myIP().toString();
+		if(ipList[i] = clientIP)
+		{
+			alert("found");
+		}
+		else
+		{
+			alert("fuk");
+		}
+		
+	}
+	ipList = [];
     </script>
   </body>
 </html>
