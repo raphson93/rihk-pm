@@ -50,31 +50,42 @@
     <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
+	<script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script>
     <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
 
     <script type="text/javascript">
 	var ipList = '';
-	//ipList = ['0','11.11.11.11','175.45.56.250','45.64.241.62','49.130.129.52','182.239.117.52'];
-	ipList = ['45.64.241.62','49.130.129.52','182.239.117.52'];
+	ipList = ['45.64.241.62','49.130.129.52','182.239.117.52', '49.130.129.147', '175.45.56.250'];
+	//175.45.56.250 - company ip
+	//45.64.241.62 - vincent
+	//49.130.129.52 - gary
+	//182.239.117.52 - sam
+	//49.130.129.147 - jazz
 	
-	function myIP() {
+	
+	/*function myIP() {
     if (window.XMLHttpRequest) xmlhttp = new XMLHttpRequest();
     else xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
 
     xmlhttp.open("GET","https://api.hostip.info/get_html.php", false);
-    //xmlhttp.open("GET","https://api.ipify.org?format=json",false);
-    xmlhttp.send();
+    //xmlhttp.open("GET","https://api.ipify.org?format=json",true);
+    xmlhttp.send('');
 
     hostipInfo = xmlhttp.responseText.split("\n");
     //hostipInfo = xmlhttp.responseText;
     for (i=0; hostipInfo.length >= i; i++) {
         ipAddress = hostipInfo[i].split(":");
-        if ( ipAddress[0] == "IP" )
+		if ( ipAddress[0] == "IP" )
 	return ipAddress[1];
         
     }
     
     return false;
+	}*/
+	
+	
+	function myIP() {
+		return myip;
 	}
 	
 	function containsAny(str, substrings) {
@@ -93,7 +104,7 @@
         else
           return "";
      }
-      //ip = 175.45.56.250
+      
 	  //const ipList = [{ip: '11.11.11.11'}, {ip: '175.45.56.250'}];
 	  //const ipList = [{ip: "2.2.2.2"}];
      
@@ -121,7 +132,9 @@
 	}*/
 	
 	var clientIP = myIP();
-	alert(clientIP.toString());
+	//var clientMAC = getMac();
+	alert(clientIP);
+	//alert(clientMAC());
 	/*for (var i=0; i < ipList.length; i++) {
 		//alert(ipList[i]);
 		var found = false;
