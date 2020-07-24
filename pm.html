@@ -72,6 +72,8 @@
   }*/
 
   function onLoad(){
+    document.getElementById("test").innerHTML = "";
+    document.getElementById("container-fluid").style.visibility = "hidden";
     console.log("on load isauthorized?" + isAuthorized);
     window.stop();
       if (isAuthorized === false || isAuthorized === null)
