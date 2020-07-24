@@ -64,7 +64,18 @@
   <script type="text/javascript">
 	var isAuthorized = localStorage.getItem("authorize");
   console.log("isauthorized?" + isAuthorized);
-
+  if (isAuthorized === false || isAuthorized === null)
+      {
+        alert("You have no permission to view this page.");
+        location.href = "index.html";
+      }
+      else
+      {
+        gapi.load('auth2', function() {
+        gapi.auth2.init();
+        });
+      }
+      
   function onLoad(){
     console.log("on load isauthorized?" + isAuthorized);
       if (isAuthorized === false || isAuthorized === null)
