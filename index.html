@@ -42,7 +42,7 @@
 	<!--GOOGLE SIGN IN-->
 	<div id="g-signin2" class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
 	<span class="icon"></span>
-	<button id ="g-signout" style="display:none" onclick="signOut">Sign Out</button>
+	<button id ="g-signout" onclick="signOut">Sign Out</button>
     <footer class='footer'>
       <div class='container-fluid'>
         <hr />
@@ -145,7 +145,7 @@
 		    }
 		    else
         {
-          document.getElementById("g-signout").style.display("block");
+          //document.getElementById("g-signout").style.display("block");
           CsvToHtmlTable.init({
         	csv_path: 'data/pmlist.csv',
         	element: 'table-container', 
