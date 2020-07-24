@@ -91,8 +91,13 @@
           return "<a href='" + link + "' target='_blank'>" + link + "</a>";
         else
           return "";
-    }
-
+  }
+      if (isAuthorized === false)
+      {
+        alert("You have no permission to view this page.")
+      }
+      else
+      {
       var loginName = localStorage.getItem("username");
       document.getElementById("test").innerHTML=" Hi " + loginName;
 
@@ -104,9 +109,9 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    
-      alert("You do not have permission to access this page");
-      location.href="index.html";
+      }
+      //alert("You do not have permission to access this page");
+      //location.href="index.html";
     
     </script>
   </body>
