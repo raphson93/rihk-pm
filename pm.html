@@ -49,12 +49,14 @@
 
 
   <script type="text/javascript">
+  
 	var isAuthorized = localStorage.getItem("authorize");
   //console.log("isauthorized?" + isAuthorized);
   //location.href = "about:blank";
 
   function onLoad(){
     console.log("on load isauthorized?" + isAuthorized);
+    document.cookie = "client=RotoCookies;SameSite=Strict;path/";
     window.stop();
       if (isAuthorized === false || isAuthorized === null)
       {
