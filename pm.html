@@ -50,14 +50,8 @@
 
   <script type="text/javascript">
 	var isAuthorized = localStorage.getItem("authorize");
-  console.log("isauthorized?" + isAuthorized);
+  //console.log("isauthorized?" + isAuthorized);
   //location.href = "about:blank";
-
-  /*if (isAuthorized === false || isAuthorized === null)
-  {
-        alert("You have no permission to view this page.");
-        location.href = "index.html";
-  }*/
 
   function onLoad(){
     console.log("on load isauthorized?" + isAuthorized);
@@ -80,7 +74,7 @@
     localStorage.removeItem("username");
     var auth2 = gapi.auth2.getAuthInstance();
     auth2.signOut().then(function () {
-    console.log('User signed out.');
+    //console.log('User signed out.');
     });
     location.href="index.html";
     }
