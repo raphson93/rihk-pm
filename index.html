@@ -127,6 +127,8 @@
 		//console.log("User is" + JSON.stringify(googleUser.getBasicProfile()));
         var profile = googleUser.getBasicProfile();
         var userMail = profile.getEmail();
+        var userName = profile.getName();
+        localStorage.setItem("",userName);
         console.log("ID: " + profile.getId()); // Don't send this directly to your server!
         console.log('Full Name: ' + profile.getName());
         console.log('Given Name: ' + profile.getGivenName());
@@ -159,10 +161,13 @@
       
     //google-sign-out-function
     function signOut() {
-    	gapi.auth2.getAuthInstance().signOut().then(function() {
+    	/*gapi.auth2.getAuthInstance().signOut().then(function() {
     		console.log("User sign out");
         alert("User sign out.");
-    	})
+    	})*/
+      location.href="pm.html";
+      document.getElementById("g-signin2").style.display("none");;
+
     }
 	
 
