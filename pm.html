@@ -61,12 +61,11 @@
 
   function onLoad(){
     console.log("on load isauthorized?" + isAuthorized);
-    location.href = "about:blank";
     window.stop();
       if (isAuthorized === false || isAuthorized === null)
       {
         alert("You have no permission to view this page.");
-        location.href = "index.html";
+        location.href = "about:blank";
       }
       else
       {
