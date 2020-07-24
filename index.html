@@ -125,6 +125,7 @@
 	function onSignIn(googleUser) {
         // Useful data for your client-side scripts:
 		//console.log("User is" + JSON.stringify(googleUser.getBasicProfile()));
+        var authenticated = false;
         var profile = googleUser.getBasicProfile();
         var userMail = profile.getEmail();
         var userName = profile.getName();
@@ -149,6 +150,8 @@
 		    else
         {
           //document.getElementById("g-signout").style.display("block");
+            authenticated = true;
+            localStorage.setItem("authorize",authenticated);
             location.href="pm.html";
             document.getElementById("g-signin2").style.display("none");
       	}

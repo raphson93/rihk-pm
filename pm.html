@@ -62,11 +62,21 @@
     <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
 
   <script type="text/javascript">
-	
+	var isAuthorized = localStorage.getItem("authorize");
+
   function onLoad(){
-    gapi.load('auth2', function() {
-        gapi.auth2.init();
+    
+    if (isAuthorized)
+    {
+      gapi.load('auth2', function() {
+      gapi.auth2.init();
       });
+      }
+    else
+    {
+      alert("You do not have permission to access this page");
+      location.href="index.html";
+    }
   }
 
   function signOut() {
@@ -94,8 +104,16 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    var loginName = localStorage.getItem("username");
-    document.getElementById("test").innerHTML=" Hi " + loginName;
+    if (isAuthorized)
+    {
+      var loginName = localStorage.getItem("username");
+      document.getElementById("test").innerHTML=" Hi " + loginName;
+    }
+    else
+    {
+      alert("You do not have permission to access this page");
+      location.href="index.html";
+    }
     </script>
   </body>
 </html>
