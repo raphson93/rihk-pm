@@ -99,7 +99,13 @@
     }
 
 
-    CsvToHtmlTable.init({
+    
+    if (isAuthorized)
+    {
+      var loginName = localStorage.getItem("username");
+      document.getElementById("test").innerHTML=" Hi " + loginName;
+
+      CsvToHtmlTable.init({
         csv_path: 'data/pmlist.csv',
         element: 'table-container', 
         allow_download: false,
@@ -107,10 +113,6 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    if (isAuthorized)
-    {
-      var loginName = localStorage.getItem("username");
-      document.getElementById("test").innerHTML=" Hi " + loginName;
     }
     else
     {
