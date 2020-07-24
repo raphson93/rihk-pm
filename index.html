@@ -161,6 +161,7 @@
     function signOut() {
     	gapi.auth2.getAuthResponse().signOut().then(function() {
     		console.log("User sign out");
+        alert("User sign out.");
     	})
     }
 	
