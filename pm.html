@@ -64,7 +64,7 @@
   <script type="text/javascript">
 	var isAuthorized = localStorage.getItem("authorize");
   console.log("isauthorized?" + isAuthorized);
-  
+
   function onLoad(){
     
     if (isAuthorized)
@@ -100,8 +100,8 @@
     }
 
 
-    
-    if (isAuthorized)
+    isAuthorized = localStorage.getItem(isAuthorized);
+    if (isAuthorized == true)
     {
       var loginName = localStorage.getItem("username");
       document.getElementById("test").innerHTML=" Hi " + loginName;
