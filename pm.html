@@ -57,13 +57,18 @@
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
 	<script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script>
 	<!--GOOGLE SIGN IN-->
-	<script src="https://apis.google.com/js/platform.js" async defer></script>
-
+	<!--<script src="https://apis.google.com/js/platform.js" async defer></script>-->
+  <script src="https://apis.google.com/js/platform.js?onload=onLoad" async defer></script>
     <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
 
   <script type="text/javascript">
 	
-
+  function onLoad(){
+    gapi.load('auth2', function() {
+        gapi.auth2.init();
+      });
+  }
+  
   function signOut() {
       var auth2 = gapi.auth2.getAuthInstance();
       auth2.signOut().then(function () {
