@@ -15,28 +15,14 @@
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.css" rel="stylesheet">
-	 <link href="css/google.css" rel="stylesheet">
+    <link href="css/google.css" rel="stylesheet">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
-
   <body>
 	
     <div class="container-fluid">
-
       <h2 id="h2">Rototype International Call Log System</h2>
-
-      <!--<p>Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript. <a href='https://github.com/derekeder/csv-to-html-table'>Code on GitHub</a>.</p>
-
-      <p>Here's a table of Health Clinics from the <a href='https://data.cityofchicago.org/browse?q=health%20clinic&sortBy=relevance&utf8=%E2%9C%93'>City of Chicago Data Portal</a>.</p>-->
-	<!--<p>RIHK CALL LOG SYSTEM</p>-->
-      
       <div id='table-container'></div>
-	
     </div><!-- /.container -->
 	
 	<!--GOOGLE SIGN IN-->
@@ -46,7 +32,6 @@
     <footer class='footer'>
       <div class='container-fluid'>
         <hr />
-        <!--<p class='pull-right'><a href='https://raphson93.github.io/rihk-pm/'>ROTO CALL LOG</a></p>-->
       </div>
     </footer>
 
@@ -59,51 +44,15 @@
     <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
-	<script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script>
-	<!--GOOGLE SIGN IN-->
-	<script src="https://apis.google.com/js/platform.js" async defer></script>
-
-    <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
-
+    <!--GOOGLE SIGN IN-->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
     <script type="text/javascript">
-	var ipList = '';
-	ipList = ['45.64.241.62','49.130.129.52','182.239.117.52', '49.130.129.147', '175.45.56.250'];
-	//175.45.56.250 - company ip
-	//45.64.241.62 - vincent
-	//49.130.129.52 - gary
-	//182.239.117.52 - sam
-	//49.130.129.147 - jazz
 	
 	//mailing list
 	var mailList = '';
 	mailList = ['cheehong93@gmail.com'];
-	
-	/*function myIP() {
-    if (window.XMLHttpRequest) xmlhttp = new XMLHttpRequest();
-    else xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-
-    xmlhttp.open("GET","https://api.hostip.info/get_html.php", false);
-    //xmlhttp.open("GET","https://api.ipify.org?format=json",true);
-    xmlhttp.send('');
-
-    hostipInfo = xmlhttp.responseText.split("\n");
-    //hostipInfo = xmlhttp.responseText;
-    for (i=0; hostipInfo.length >= i; i++) {
-        ipAddress = hostipInfo[i].split(":");
-		if ( ipAddress[0] == "IP" )
-	return ipAddress[1];
-        
-    }
-    
-    return false;
-	}*/
-	
-	
-	function myIP() {
-		return myip;
-	}
-	
-	//search whitelist ip within the range
+		
+	//search functionality within the range
 	function containsAny(str, substrings) {
     for (var i = 0; i != substrings.length; i++) {
        var substring = substrings[i];
@@ -123,19 +72,17 @@
 	
 	//google-sign-in function
 	function onSignIn(googleUser) {
-        // Useful data for your client-side scripts:
-		//console.log("User is" + JSON.stringify(googleUser.getBasicProfile()));
         var authenticated = false;
         var profile = googleUser.getBasicProfile();
         var userMail = profile.getEmail();
         var userName = profile.getName();
         localStorage.setItem("username",userName);
-        console.log("ID: " + profile.getId()); // Don't send this directly to your server!
-        console.log('Full Name: ' + profile.getName());
-        console.log('Given Name: ' + profile.getGivenName());
-        console.log('Family Name: ' + profile.getFamilyName());
-        console.log("Image URL: " + profile.getImageUrl());
-        console.log("Email: " + profile.getEmail());
+        //console.log("ID: " + profile.getId()); // Don't send this directly to your server!
+        //console.log('Full Name: ' + profile.getName());
+        //console.log('Given Name: ' + profile.getGivenName());
+        //console.log('Family Name: ' + profile.getFamilyName());
+        //console.log("Image URL: " + profile.getImageUrl());
+        //console.log("Email: " + profile.getEmail());
 
         // The ID token you need to pass to your backend:
         var id_token = googleUser.getAuthResponse().id_token;
@@ -149,11 +96,10 @@
 		    }
 		    else
         {
-          //document.getElementById("g-signout").style.display("block");
-            authenticated = true;
-            localStorage.setItem("authorize",authenticated);
-            location.href="pm.html";
-            document.getElementById("g-signin2").style.display("none");
+          authenticated = true;
+          localStorage.setItem("authorize",authenticated);
+          location.href="pm.html";
+          document.getElementById("g-signin2").style.display("none");
       	}
 		
     }
@@ -168,56 +114,6 @@
       
 
     }
-	
-
-    
-
-	/*function getMac(){
-      var locator = new ActiveXObject ("WbemScripting.SWbemLocator");
-      var service = locator.ConnectServer(".");
-      var properties = service.ExecQuery("Select * from Win32_NetworkAdapterConfiguration Where IPEnabled =True");
-      var e = new Enumerator (properties);
-      {
-            var p = e.item();
-            var mac = p.MACAddress;
-            return mac
-      }
-	}*/
-	//var network = new ActiveXObject('WScript.Network');
-	//alert(network.computerName);
-	var clientIP = myIP();
-	//var clientMAC = getMac();
-	//alert(clientIP);
-	//alert(clientMAC);
-	/*for (var i=0; i < ipList.length; i++) {
-		//alert(ipList[i]);
-		var found = false;
-		if(ipList[i] = clientIP)
-		{
-			alert("found");
-			found = true;
-			break;
-		}
-	}*/
-	
-	/*var result = containsAny(clientIP, ipList);
-	if (result == null)
-	{
-		alert("You do not have permission to view this page.");
-	}
-	else
-	{
-		CsvToHtmlTable.init({
-        csv_path: 'data/pmlist.csv',
-        element: 'table-container', 
-        allow_download: false,
-        csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false},
-        custom_formatting: [[4, format_link]]
-      });
-	}*/
-	
-	
     </script>
   </body>
 </html>
