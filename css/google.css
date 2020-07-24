@@ -17,7 +17,10 @@
 }
 
 #g-signout{
-	display: inline-block;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
     background: white;
     color: #444;
     width: 190px;
