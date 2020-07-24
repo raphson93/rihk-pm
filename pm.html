@@ -55,8 +55,7 @@
   //location.href = "about:blank";
 
   function onLoad(){
-    console.log("on load isauthorized?" + isAuthorized);
-    document.cookie = "client=RotoCookies;SameSite=Strict;path/";
+    //console.log("on load isauthorized?" + isAuthorized);
     window.stop();
       if (isAuthorized === false || isAuthorized === null)
       {
@@ -96,6 +95,7 @@
       }
       else
       {
+      document.cookie = "client=RotoCookies;SameSite=Strict;path/";
       var loginName = localStorage.getItem("username");
       document.getElementById("header").innerHTML=" Hi " + loginName;
 
