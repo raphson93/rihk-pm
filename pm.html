@@ -65,10 +65,10 @@
 	
 
   function signOut() {
-      gapi.auth2.getAuthInstance().signOut().then(function() {
-        console.log("User sign out");
-        alert("User sign out.");
-      })
+      var auth2 = gapi.auth2.getAuthInstance();
+      auth2.signOut().then(function () {
+      console.log('User signed out.');
+    });
       location.href="index.html";
 
     }
