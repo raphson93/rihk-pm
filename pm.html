@@ -67,18 +67,12 @@
 
   function onLoad(){
     
-    if (isAuthorized)
-    {
       gapi.load('auth2', function() {
       gapi.auth2.init();
       });
-      }
-    else
-    {
-      alert("You do not have permission to access this page");
-      location.href="index.html";
-    }
   }
+    
+
 
   function signOut() {
     isAuthorized = false;
