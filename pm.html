@@ -68,7 +68,7 @@
         gapi.auth2.init();
       });
   }
-  
+
   function signOut() {
       var auth2 = gapi.auth2.getAuthInstance();
       auth2.signOut().then(function () {
@@ -94,7 +94,7 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    var loginName = localstorage.getitem("username");
+    var loginName = localStorage.getitem("username");
     document.getElementById("test").innerHTML="Hi " + loginName;
     </script>
   </body>
