@@ -64,8 +64,8 @@
     window.stop();
       if (isAuthorized === false || isAuthorized === null)
       {
-        
-        alert("onload You have no permission to view this page.");
+        location.href = "about:blank";
+        alert("You have no permission to view this page.");
         location.href = "index.html";
       }
       else
@@ -96,7 +96,7 @@
 
       if (isAuthorized === false)
       {
-        alert("format link You have no permission to view this page.")
+        alert("You have no permission to view this page.")
         location.href = "index.html";
       }
       else
