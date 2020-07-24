@@ -99,10 +99,6 @@
           return "";
     }
 
-
-    isAuthorized = localStorage.getItem(isAuthorized);
-    if (isAuthorized == true)
-    {
       var loginName = localStorage.getItem("username");
       document.getElementById("test").innerHTML=" Hi " + loginName;
 
@@ -114,12 +110,10 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    }
-    else
-    {
+    
       alert("You do not have permission to access this page");
       location.href="index.html";
-    }
+    
     </script>
   </body>
 </html>
