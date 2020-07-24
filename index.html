@@ -6,12 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Rototype Call Log System</title>
-    <meta name="author" content="Derek Eder">
-    <meta content="Display any CSV file as a searchable, filterable, pretty HTML table" />
-
+    <meta name="author" content="Rototype International">
+	
+	<!--GOOGLE SIGN IN-->
+    <meta content="Display any CSV pm file as a searchable, filterable, pretty HTML table" />
+	<meta name="google-signin-scope" content="profile email">
+    <meta name="google-signin-client_id" content="190808226729-pi58hao8mfkn1t16djodthroro25tj3p.apps.googleusercontent.com">
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+	<link href="css/google.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -21,9 +25,10 @@
   </head>
 
   <body>
+	
     <div class="container-fluid">
 
-      <!--<h2>Rototype International</h2>-->
+      <h2 id="h2">Rototype International Call Log System</h2>
 
       <!--<p>Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript. <a href='https://github.com/derekeder/csv-to-html-table'>Code on GitHub</a>.</p>
 
@@ -31,9 +36,11 @@
 	<!--<p>RIHK CALL LOG SYSTEM</p>-->
       
       <div id='table-container'></div>
-
+	
     </div><!-- /.container -->
-
+	
+	<!--GOOGLE SIGN IN-->
+	<div id="g-signin2" class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
     <footer class='footer'>
       <div class='container-fluid'>
         <hr />
@@ -51,6 +58,8 @@
     <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
 	<script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script>
+	<!--GOOGLE SIGN IN-->
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
     <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
 
     <script type="text/javascript">
@@ -62,6 +71,9 @@
 	//182.239.117.52 - sam
 	//49.130.129.147 - jazz
 	
+	//mailing list
+	var mailList = '';
+	mailList = ['cheehong93@gmail.com'];
 	
 	/*function myIP() {
     if (window.XMLHttpRequest) xmlhttp = new XMLHttpRequest();
@@ -88,6 +100,7 @@
 		return myip;
 	}
 	
+	//search whitelist ip within the range
 	function containsAny(str, substrings) {
     for (var i = 0; i != substrings.length; i++) {
        var substring = substrings[i];
@@ -103,10 +116,23 @@
           return "<a href='" + link + "' target='_blank'>" + link + "</a>";
         else
           return "";
+    }
+	
+	function onSignIn(googleUser) {
+        // Useful data for your client-side scripts:
+        var profile = googleUser.getBasicProfile();
+        console.log("ID: " + profile.getId()); // Don't send this directly to your server!
+        console.log('Full Name: ' + profile.getName());
+        console.log('Given Name: ' + profile.getGivenName());
+        console.log('Family Name: ' + profile.getFamilyName());
+        console.log("Image URL: " + profile.getImageUrl());
+        console.log("Email: " + profile.getEmail());
+
+        // The ID token you need to pass to your backend:
+        var id_token = googleUser.getAuthResponse().id_token;
+        console.log("ID Token: " + id_token);
      }
       
-	  //const ipList = [{ip: '11.11.11.11'}, {ip: '175.45.56.250'}];
-	  //const ipList = [{ip: "2.2.2.2"}];
      
 	  
       //var test = "175.45.56.250";
@@ -131,10 +157,23 @@
 	}
 	}*/
 	
+	/*function getMac(){
+      var locator = new ActiveXObject ("WbemScripting.SWbemLocator");
+      var service = locator.ConnectServer(".");
+      var properties = service.ExecQuery("Select * from Win32_NetworkAdapterConfiguration Where IPEnabled =True");
+      var e = new Enumerator (properties);
+      {
+            var p = e.item();
+            var mac = p.MACAddress;
+            return mac
+      }
+	}*/
+	//var network = new ActiveXObject('WScript.Network');
+	//alert(network.computerName);
 	var clientIP = myIP();
 	//var clientMAC = getMac();
-	alert(clientIP);
-	//alert(clientMAC());
+	//alert(clientIP);
+	//alert(clientMAC);
 	/*for (var i=0; i < ipList.length; i++) {
 		//alert(ipList[i]);
 		var found = false;
@@ -145,10 +184,11 @@
 			break;
 		}
 	}*/
-	var result = containsAny(clientIP, ipList);
+	
+	/*var result = containsAny(clientIP, ipList);
 	if (result == null)
 	{
-		alert("You do not have permission to view this page");
+		alert("You do not have permission to view this page.");
 	}
 	else
 	{
@@ -160,7 +200,9 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-	}
+	}*/
+	
+	
     </script>
   </body>
 </html>
