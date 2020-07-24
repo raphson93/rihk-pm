@@ -73,9 +73,10 @@
 
   function onLoad(){
     console.log("on load isauthorized?" + isAuthorized);
+    window.stop();
       if (isAuthorized === false || isAuthorized === null)
       {
-        window.stop();
+        
         alert("onload You have no permission to view this page.");
         location.href = "index.html";
       }
