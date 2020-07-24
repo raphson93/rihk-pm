@@ -156,12 +156,11 @@
       
     //google-sign-out-function
     function signOut() {
-    	/*gapi.auth2.getAuthInstance().signOut().then(function() {
+    	gapi.auth2.getAuthInstance().signOut().then(function() {
     		console.log("User sign out");
         alert("User sign out.");
-    	})*/
-      location.href="pm.html";
-      document.getElementById("g-signin2").style.display("none");;
+    	})
+      
 
     }
 	
