@@ -51,7 +51,7 @@
   <script type="text/javascript">
 	var isAuthorized = localStorage.getItem("authorize");
   console.log("isauthorized?" + isAuthorized);
-  location.href = "about:blank";
+  //location.href = "about:blank";
 
   /*if (isAuthorized === false || isAuthorized === null)
   {
@@ -65,7 +65,7 @@
       if (isAuthorized === false || isAuthorized === null)
       {
         alert("You do not have permission to view this page.\nPlease contact system administrator for further assistance.");
-        location.href = "index.html";
+        location.href = "about:blank";
       }
       else
       {
