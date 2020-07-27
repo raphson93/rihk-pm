@@ -31,3 +31,23 @@
     white-space: nowrap;
     margin-bottom: 10px;
 }
+
+.site-footer{
+	padding-bottom: 3em;
+}
+
+.site-footer p {
+	font-size: 0.9em;
+	line-height: 1.42;
+	color: #a6adbc;
+}
+
+.site-footer>.wrap {
+    margin: 2px auto;
+    padding-left: 1.1em;
+    /*padding-right: .75em;
+    padding-left: .75em;
+    max-width: 68em;
+    width: 100%;
+    max-width: 57.5em;*/
+}
