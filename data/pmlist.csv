@@ -1,387 +1,1193 @@
 CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
-4C00,03-Jun,12:15,N,Request,Pm check,"Pretentive Maintenance, ESU activation"
-4C01,01-Jun,17:15,Y,NUB,Reject cheque,clean roller as  insert cheque difficult in feeder
-4C01,04-Jun,17:10,Y,NUD,jam cheque at scanner.,cleaning and adjust scanner roller
-4C01,09-Jun,11:30,Y,NUD,Jam cheque,"Remove cheque at aligner, adjust thickness gap & feeder pad, clear black line"
-4C01,12-Jun,16:05,N,NIC,Black line,Clean scanner. Adjust ink roller.
-4C01,18-Jun,10:00,Y,NUD,jam cheque at scanner.,follow up for scanner replacement due to scanner roller
-4C01,18-Jun,16:50,N,Request,Follow up,Replaced scanner unit
-4C01,30-Jun,10:00,Y,NUD,Jam cheque at scanner.,replaced ribbon and pressure roller.
-4C02,29-Jun,17:00,Y,NGC,Auto reset,"retain card in card holder,collect card and replaced ribbon cartiage"
-4C03,16-Jun,13:00,Y,NOA,out of service,Turn on computer
-4C03,17-Jun,17:15,Y,NGC,Out of service,Restarted machine. Rebuid array. Cleaned sensors. Serviced machine. Test OK.
-4C03,19-Jun,17:15,Y,NGC,CQM slow,reboot CQM. Service machine
-4C03,21-Jun,11:05,N,Request,Reload Program,Reload Program
-4C04,10-Jun,10:00,N,NZA,CAS out,printer advice empty. Replace a new roller advice
-4C04,16-Jun,10:30,Y,NUD,Fold cheque on aligner,Remove fold cheque from aligner. Normal service machine. Test ok
-4C07,04-Jun,10:00,N,Request,Pm check,"Pretentive Maintenance, ESU activation"
-4C08,03-Jun,17:20,N,NIC,small image,TSP and clean scanner
-4C08,04-Jun,10:30,N,Request,Pm check,"Pretentive Maintenance, ESU activation"
-4C08,08-Jun,17:40,N,NZA,CAS problem,No problem found. Cleaned CAS printer roller. Serviced machine. Test OK.
-4C0A,30-Jun,13:55,Y,Request,Health check - no endorsement,Replace ribbon.
-4C0B,01-Jun,15:10,N,NIA,Crossing blur,Replace stamp
-4C0B,04-Jun,14:00,N,NIC,Image small,Perform TSP. Adjust scanner gap.
-4C0B,24-Jun,16:30,Y,NUD,Jam cheque,Remove jammed cheque at bin 2. Rescrew bar lock.
-4C0C,03-Jun,11:10,N,NIC,Black line,The front scanner is dirty. Action: Clean scanner and recalibrate scanner. Test ok.
-4C0C,13-Jun,11:25,Y,NOA,Out of service,Cutoff wrong and ribbon is broken. Reset cutoff and replace ribbon. Test ok.
-4C0C,15-Jun,20:15,N,NIC,small image,clean scanner and roller. Perform TSP. tested ok.
-4C0C,16-Jun,14:00,Y,NGB,Out of service,"Image not arrival. Cleaned sensor (F6), cleaned DPM LAM plug, tested ok"
-4C0C,18-Jun,10:10,Y,HTP,Out of service,Remove jammed cheque at feeder. Clean roller and sensor. Replace o-ring (collection path).
-4C0C,25-Jun,11:30,N,Request,Health checked,clean CAS printer. Adjust the yellow belt.
-4C0E,29-Jun,15:35,N,Request,PM Check,PM CHECK with reference to RI/PM/202001. Activation ESU
-4C0F,26-Jun,10:45,Y,NGC,Auto reset,"reboot machine, clean scanner"
-4C10,30-Jun,17:00,Y,HTP,Jam cheque at collection,"Bin 2 solenoid engaged, replaced"
-4C11,02-Jun,13:10,N,Request,Preventive Maintenance,"Pretentive Maintenance, ESU activation"
-4C11,16-Jun,11:30,N,NIC,Endorsement,No rear image. Replug scanner cable. Serviced machine. Test Ok.
-4C12,02-Jun,12:45,Y,NGB,Out of service,"Sensor (F9) engage. Adjust flat belt (bend), tested ok"
-4C12,06-Jun,14:30,Y,NUD,jam cheque,"jam at bin 1, clean solenoid at bin 1"
-4C12,07-Jun,15:00,Y,NUD,Jammed cheque,"Adjust solenoid (bin 1), tested ok"
-4C12,08-Jun,11:00,Y,NUD,Cheque jam,The bin 1 solenoid is down. Fix bin 1 solenoid and remove cheque. Test ok.
-4C13,26-Jun,17:10,N,NIA,Crossing problem,"Replace ink roller and reinstalled ribbon, clean scanner. Test OK."
-4C14,05-Jun,11:30,N,NIA,No crossing,replaced the stamp.
-4C15,02-Jun,14:10,Y,NUD,Cheque jam,The bend belt is shift. Rescrew bend belt and clean scanner. Test ok.
-4C15,03-Jun,12:30,Y,NGB,Out of service,"clean F5, F29, F1 sensor. Tested ok."
-4C15,04-Jun,11:30,Y,NGB,Out of service,Clean F5 sensor. Tested ok.
-4C15,04-Jun,17:00,Y,HTP,Out of service,Replaced the F5 sensor. Tested ok.
-4C15,16-Jun,18:30,Y,NUA,Jammed card,"Remove card, clean card reader, scanner and roller. Test OK."
-4C16,02-Jun,13:30,N,NIB,Back endorsement blur,Rescrew the printer head gap and replace ribbon. Test ok.
-4C16,02-Jun,17:30,N,NUA,Card reader,"cleaning card reader,Test ok"
-4C16,05-Jun,12:45,N,HCR,Card reader problem,Replace card reader(repaired) and test ok.
-4C17,03-Jun,13:25,N,NIC,Black line,perform TSP. Clean scanner. Tested ok.
-4C17,24-Jun,11:15,N,NGB,Jam cheque,No jammed found. Clean F6 sensor. Replace ribbon.
-4C18,06-Jun,15:00,N,NZA,No advise,"Remove advise, tested ok"
-4C18,10-Jun,16:15,N,NZA,CAS problem,"Remove jam cas. Clean printer roller, print head. Replace new stamp."
-4C18,16-Jun,11:00,N,NGZ,Controller close.,Clean scanner. Normal service machine. Test ok
-4C18,23-Jun,15:55,Y,NBZ,Missing 24 V,Normal service machine. Clean scanner. Replace ink roller.
-4C18,27-Jun,11:00,N,Request,HEALTH CHECK-CAS,Clean printer. Replaced o-ring collection.
-4C18,29-Jun,10:00,N,NGB,Jammed cheque,"No jammed found. Cleaned sensors, Serviced machine. Test OK."
-4C19,07-Jun,15:40,Y,HCA,"Jammed cheque, no CAS","Replaced ejection roller, removed cheque at aligner, tested ok"
-4C19,10-Jun,11:00,N,Request,Health Check CAS,No CAS at 11:23am on 6/6 and guard force arrived to resume printer at 11:37am. Check record and upload logs. Test ok.
-4C19,12-Jun,17:45,N,NOZ,No problem found,"No jam cheque found. Clean prefeed roller, scanner and drum belt."
-4C1A,05-Jun,10:40,Y,HTP,Jammed cheque,"Replace flat belt (145, L6), tested ok"
-4C1A,16-Jun,13:55,N,NZA,No cas,cleaning printer and renew cas
-4C1B,19-Jun,11:35,Y,NBA,Collection box problem,"Fixed the collection box, replace wiring, clean roller. Test OK. *offered 9:00"
-4C1D,24-Jun,11:45,N,Request,Pm check,Pm check with reference to document RI/PM/202006.Esu activative
-4C1D,30-Jun,15:30,Y,NUD,Jam cheque at aligner,"Remove cheque, adjust thickness gap, clean paper path"
-4C1F,03-Jun,9:45,N,HCA,Advise blur,Replace cas printer. Test ok
-4C1F,09-Jun,13:00,N,NZA,CAS blur,Clean printer. Adjust ink roller.
-4C1F,26-Jun,16:25,N,NZA,CAS can't cut,Clear paper bits
-4C1F,30-Jun,10:10,N,HCA,Advise blur,"Replace CAS print head, tested ok"
-4C20,02-Jun,12:20,N,NUB,High reject,clean and adjust feeder. Clean scanner and ribbon.
-4C20,03-Jun,11:55,Y,NUD,Jammed cheque,"Adjust red belt, clean sensor and roller. Test oK."
-4C20,11-Jun,11:20,Y,NUD,Jammed cheque,"Remove cheuqe near in alinger, clean sensor and roller. Test OK."
-4C20,12-Jun,11:00,Y,NUD,Jammed cheque,"Remove cheuqe near in alinger, clean roller, sensor and alinger. Test OK."
-4C20,30-Jun,13:15,N,HTP,can't insert cheque,"Replace o-ring (fat, feeder)"
-4C21,03-Jun,21:15,Y,NGB,Printer lift error,"Clean sensor, clear black line"
-4C21,10-Jun,10:10,Y,HTP,Out of service,replaced the scanner belt. Tested ok.
-4C21,11-Jun,16:30,Y,NGC,Out of service,show host messge in DPM display. Clean DPM board. Tested ok.
-4C21,15-Jun,18:45,Y,HPC,out of service,replace mdm board. Adjust stamp gap.
-4C22,24-Jun,12:20,N,NOZ,Jam cheque,No jammed found. Clean sensors. Replace ribbon.
-4C23,12-Jun,11:10,N,Request,Box wire shift,Replace box wire
-4C23,18-Jun,13:00,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C24,02-Jun,14:00,N,Request,Health checked,clean CAS printer. Tested ok.
-4C24,04-Jun,10:30,N,Request,Health check - advise,"Adjust printer gap, clean roller and sensor. Test OK."
-4C24,08-Jun,15:25,N,NZA,CAS roblem,"Adjust printer gap, clean sensor and roller. Test OK."
-4C24,09-Jun,10:00,N,Request,Health check - advise,"removed jam advice. Clean cutter, printer head and roller. Tested ok."
-4C24,15-Jun,10:10,N,NZA,Jammed advise,"Cleaned CAS printer, tested ok"
-4C24,16-Jun,10:30,Y,NZA,Jam CAS,Removed jammed advice.
-4C24,18-Jun,15:30,N,NZA,CAS,Remove jammed advice. Clean printer and scanner.
-4C24,19-Jun,11:00,N,NZA,jam advice,removed jam advice. Adjust the rejection roller. Tested ok.
-4C24,20-Jun,11:20,Y,NZA,No advise,"Replace CAS printer, tested ok"
-4C24,26-Jun,10:45,N,NZA,CAS jam,CAS drop down. Adjust the printer's arm and adjust the metal film. Clean scanner and test ok.
-4C26,05-Jun,13:10,N,NUB,Feeder gate cannot open,"Adjust feeder gate solenoid, fix endorsement blur"
-4C26,15-Jun,17:00,N,NIB,Endorsement image blur,Cleaned scanner & rollers. Perform TSP. Serviced machine. Test OK.
-4C26,29-Jun,10:00,N,Request,PM Check,PM CHECK with reference to RI/PM/202001. Activation ESU
-4C26,29-Jun,10:00,Y,NUD,jam cheque,install c-ring in bin 1
-4C27,14-Jun,15:00,Y,NUD,Cheque on aligner,Remove jam cheque. Replace ink roller. Test ok
-4C27,15-Jun,13:00,Y,NUD,jam cheque,"jam at aligner, install c-ring in solenoid as it lose"
-4C28,11-Jun,10:15,Y,NGB,Jammed cheque,"No jammed found. Cleaned sensors, Serviced machine. Test OK."
-4C28,16-Jun,10:40,N,Request,Health check - blue screen,normal on arrival. Service machine
-4C28,16-Jun,20:40,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK."
-4C28,28-Jun,12:30,Y,NGC,Out of service,Check lan. Adjusted thick detect.
-4C29,08-Jun,12:40,N,Request,Pm check,"Pm CHECK with reference to RI/PM/202001,ESU activation,replaced collection o-ring*2"
-4C29,08-Jun,13:30,N,NUA,Card reader,"card reader com card error,will be follow"
-4C29,08-Jun,16:15,N,HPC,Mos chip card issue,Replace with moxa card and cable. Test ok
-4C29,10-Jun,14:55,Y,NGB,Out of service,"Clean the F9 sensor, scanner and roller. Test OK."
-4C2B,02-Jun,12:20,Y,NUD,Jammed cheque,"Adjust solenoid (bin 1), tested ok"
-4C2B,04-Jun,12:00,Y,NGB,Out of service,"Cleaned sensor (F15), tested ok"
-4C2B,11-Jun,12:00,Y,NGB,Jammed chqeue,"Adjust solenoid (Aligner), tested ok"
-4C2C,02-Jun,12:45,Y,NZA,Out of service,No CAS. Fix the printer's arm sensor and clean printer roller. Adjust the metal film and clean scanner. Test ok.
-4C2C,03-Jun,11:30,N,NZA,Jam advice.,reset the  cas printer. Tested ok.
-4C2C,04-Jun,10:30,N,NZA,Jam advice.,adjust the open gate. Tested ok.
-4C2C,04-Jun,15:40,Y,HCA,Out of service,Jam advice. Replaced the CAS printer. Tested ok.
-4C2C,05-Jun,12:00,N,Request,Health Check ,Health Check - Clean printer
-4C2C,05-Jun,12:00,N,NZA,CAS jam,CAS jammed at cutter. Clean CAS cutter and adjust the metal film. Test ok
-4C2C,05-Jun,17:25,N,HCA,CAS problem,"Replace printer, clean scanner and roller. Test OK."
-4C2C,08-Jun,10:15,N,NZA,Out of service.,Adjust the CAS printer. Tested ok.
-4C2C,16-Jun,14:00,N,Request,Pm check,PM CHECK with reference to RI/PM/202001.
-4C2C,20-Jun,11:30,N,Request,Health check for CAS drop,Adjust ejection roller of CAS printer
-4C2C,29-Jun,11:00,Y,NZA,CAS,Clean printer and scanner.
-4C2C,30-Jun,10:00,N,NZA,jam advice,"Clean the cutter, roller and Print head. Tested ok."
-4C2C,30-Jun,16:30,N,NZA,jam advice,"Clean the cutter, roller and Print head. Tested ok."
-4C2D,16-Jun,10:00,N,Request,CAS drop,"Adjust ejection roller of CAS printer, replace DC gear due to endorsement incomplete"
-4C2D,25-Jun,14:45,N,NIA,crossing blur,replaced the ink roller. Tested ok.
-4C2F,08-Jun,15:20,N,NOZ,CAS jam,"Printer is normal, no jam. Check printer and clean scanner. Test ok."
-4C2F,30-Jun,9:50,Y,NGC,Auto reset,"Cleaned card reader, tested ok"
-4C30,09-Jun,14:00,Y,NUD,Jam cheque at aligner. ,removed the jam cheque. Tested ok.
-4C30,14-Jun,12:00,Y,NGB,No jam cheque found,Clean scanner and sensor. Test ok
-4C30,15-Jun,10:30,Y,NGB,Out of service,Adjust the red belt. Clean scanner belt. Tested ok.
-4C34,03-Jun,10:00,N,Request,Pm check,"Pretentive Maintenance, ESU activation"
-4C35,03-Jun,14:45,N,NIA,Crossing problem,"Replace ink roller, clean sensor. Test OK."
-4C36,05-Jun,16:30,N,NIC,black line,"clean scanner, test ok"
-4C36,29-Jun,17:00,N,NZA,CAS,"Remove advise, tested ok"
-4C37,30-Jun,19:40,Y,NGB,Out of service,"Clean the F10 sensor, scanner and roller. Test OK."
-4C38,01-Jun,9:30,Y,NGB,Out of service,Clean F6 sensor. Replug sensor cable.
-4C38,20-Jun,11:00,N,Request,Reload Program,Reload Program as requested by HASE
-4C39,09-Jun,13:30,Y,NUD,Cheque jam,The bin 1 solenoid is down. Fix bin 1 solenoid and remove cheque. Test ok.
-4C39,13-Jun,21:00,Y,NGB,F29 sensor engaged,Clean sensor
-4C39,19-Jun,13:20,N,Request,Find lose cheque,no lose cheque find. Upload log
-4C3A,02-Jun,10:30,N,Request,Health check,Cleaned CAS printer head & rollers.
-4C3A,08-Jun,15:00,N,NZA,CAS jam,Clean CAS printer and adjust the metal film. Test ok.
-4C3A,09-Jun,10:45,Y,HTP,Jam cheque,"Remove cheque at scanner, replace scanner belt & CAS printer"
-4C3A,09-Jun,13:20,Y,NUD,Jam cheque,Remove jammed cheque at escrow. Clean and adjust escrow roller.
-4C3A,29-Jun,17:15,Y,NUD,Solenoid (bin 1) missing c-ring,"Remove cheque at sorter, install new c-ring"
-4C3A,30-Jun,9:30,Y,NUD,Jammed cheque / advise,"Installed the c-ring (bin 1, solenoid), cleaned roller, tested ok"
-4C3B,11-Jun,14:30,N,NOZ,CAS printing incomplete,The printing is clear. Check printer and clean printer. Clean scanner and test ok.
-4C3B,27-Jun,12:45,Y,NUD,Cheque jam,Remove cheque and rescrew red belt. Clean scanner and test ok.
-4C3C,09-Jun,14:30,N,NOZ,touch problem,no find problem
-4C3C,11-Jun,11:00,Y,NUD,jam cheque,"jam at bend, replace fold cheque"
-4C3D,15-Jun,9:45,Y,NUD,jam cheque at scanner.,removed the jam cheque. Replaced the scanner belt. Tested ok.
-4C3D,16-Jun,10:10,Y,NGB,OUt of service,replug and adjust the scanner. Tested ok.
-4C3E,09-Jun,13:30,N,NZA,CAS problem,"Check printer and setting, clean roller. "
-4C3E,09-Jun,16:30,N,HCA,CAS problem,"Replace printer, clean scanner, sensor and roller. Test OK."
-4C3E,10-Jun,13:15,N,NZA,CAS problem,"Adjsut printer gate, clean sensor and roller. Test OK."
-4C3E,12-Jun,11:00,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C3E,12-Jun,11:00,N,Request,Health check,"cas drop-cleaning and adjust roller,renew a new cas"
-4C3E,17-Jun,9:30,N,Request,Health check CAS,"Check printer and setting, adjust printer gap. Test OK."
-4C3E,19-Jun,11:30,Y,NOA,Out of service,Cutoff wrong. Reset cutoff. Test ok.
-4C3E,20-Jun,10:40,N,NZA,CAS problem,"Check printer, clean sensor and roller. Test OK."
-4C3E,22-Jun,9:45,N,NZA,CAS problem,"Check printer setting, clean sensor and roller. Test OK."
-4C3E,24-Jun,10:45,N,NZA,CAS drop,Adjust ejection roller of CAS printer
-4C3E,30-Jun,15:55,N,NZA,CAS,remvoe jam advice. ESU Activation
-4C40,15-Jun,16:45,N,NIC,Black line,Clean scanner and roller. Test OK.
-4C41,03-Jun,17:30,N,NZA,No CAS,Removed jam advice. Clean printer.
-4C41,09-Jun,10:05,Y,NUD,Jammed cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK."
-4C41,24-Jun,12:20,N,Request,Pm check,"Pm check with reference to document RI/PM/202001,Esu activative"
-4C42,02-Jun,15:30,N,Request,Health check,clean printer
-4C42,29-Jun,10:00,Y,HSD,No stamp,need follow up drum replacement
-4C42,29-Jun,13:00,N,NIA,No stamp,Replace stamp and clean scanner. Test ok.
-4C43,16-Jun,16:30,N,Request,Health check CAS,Clean printer and front blackline and stamp.
-4C44,23-Jun,10:45,N,Request,PM check,PM CHECK with reference to RI/PM/202006. Acticate ESU key.
-4C45,01-Jun,18:15,Y,NUD,jam cheque,remove fold cheque from red belt
-4C45,02-Jun,16:40,N,Request,Find cheque,Found cheque in bin. Test OK.
-4C46,02-Jun,11:15,N,NIC,blackline,"Clean printer sensor, roller, scanner. Test ok "
-4C46,07-Jun,18:00,Y,NGB,Out of service.,clean DD sensor. Tested ok.
-4C47,01-Jun,11:00,Y,NUD,jam cheque at scanner.,removed the jam cheque. Adjust the yellow belt. Tested ok.
-4C47,02-Jun,11:00,N,HCA,CAS feed,Replace cas printer. Test ok
-4C47,03-Jun,16:05,Y,NUD,Cheque jam,The bin 1 solenoid is shift. Fix the bin 1 solenoid and clean scanner. Test ok.
-4C47,04-Jun,11:30,N,NZA,CAS jam,Rescrew the printer screw and clean scanner. Test ok.
-4C48,14-Jun,21:15,Y,NGB,F6 sensor engaged,"Clean sensor, fix endorsement blur"
-4C48,30-Jun,15:25,N,Request,Search cheque,downlog no find cheque
-4C49,14-Jun,21:10,Y,HTP,Parts loose (Knob of bend),Reinstall knob
-4C49,22-Jun,10:30,Y,HTP,Jammed cheuqe,"Remove cheque near in red belt, replace 351 belt, clean sensor and roller. Test OK."
-4C49,30-Jun,15:25,N,Request,Search cheque,"downlog, one cheque in retain slot"
-4C4A,08-Jun,11:00,N,NZA,CAS,Replace ribbon. Adjust printer switch.
-4C4B,09-Jun,16:45,N,Request,Pm check,PM CHECK with reference to RI/PM/202001. replaced o-ring collection.
-4C4B,11-Jun,14:05,Y,NUD,Jammed cheque,"Clean alinger, sensor and roller. Test OK."
-4C4B,30-Jun,13:50,Y,NUD,jam cheque,"jam aligner, clean rollers"
-4C4C,04-Jun,18:50,N,NBZ,Upper cover lock,Replace upper cover lock.
-4C4D,03-Jun,16:00,N,NIA,Crossing problem,"Replace ink roller and o-ring, clean scanner. Test OK."
-4C4D,12-Jun,15:10,N,Request,Esu activation,Esu activation
-4C4E,02-Jun,16:30,N,Request,Health check,Replaced upper door lock and o-ring collection.
-4C4E,09-Jun,17:40,N,Request,Pm check,PM CHECK with reference to RI/PM/202001.
-4C4F,11-Jun,12:10,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C4F,15-Jun,17:15,Y,NUD,jam cheque and search cheque,"remove cheque from bin, no cheque found and reported to MR. Au"
-4C50,05-Jun,10:00,Y,HTP,Jam cheque,Remove jammed cheque at bin 1. Replace o-ring (collection path). Fix bin 1 roller.
-4C51,15-Jun,15:20,N,NBZ,Upper door can't open.,need follow upper door lock.
-4C51,15-Jun,20:55,N,Request,Follow up,replaced the upper door lock. Report to atm(ms go)
-4C53,19-Jun,17:15,N,NIC,No endorsement,"No rear image ,Replug scanner cable ,test ok"
-4C54,06-Jun,10:00,Y,NUD,Cheque jam,Cheque jammed at escrow. Remove cheque and clean sensor F8. Test ok.
-4C55,26-Jun,14:30,Y,NUD,Jammed cheque,"Adjust and cleaned roller (escow), tested ok"
-4C57,11-Jun,17:55,Y,NGB,jam cheque,"F29 and F1 dirty. Clean sensors, replaced stamp"
-4C57,12-Jun,10:45,Y,NGB,CAS no image,Image not arrived. Replug scanner cable. Serviced machine. Test OK.
-4C57,16-Jun,14:05,N,Request,health check box wire.  Jam cheque,"replace wire in box, test ok"
-4C57,19-Jun,10:00,Y,NUD,Jammed cheque,"Remove jammed cheque, rearrange cheque in box. Adjusted sorter roller. Serviced machine. Test OK."
-4C58,02-Jun,11:00,Y,NUD,Jammed cheque,Remove jammed cheque at sorter. Rearrange cheque in bin. Serviced machine. Test Ok.
-4C5A,01-Jun,15:20,N,NZA,CAS jammed,"Check printer and setting, clean sensor and roller. Test OK."
-4C5A,03-Jun,17:15,N,NZA,No cas,"Missing 24v,adjust micro switch,test ok"
-4C5A,05-Jun,10:20,N,Request,Health check - advise,"Cleaned roller, setting printer, tested ok"
-4C5A,08-Jun,11:00,N,NZA,Advise blur,"Adjust gate, tested ok"
-4C5A,12-Jun,11:45,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK."
-4C5A,16-Jun,14:15,N,Request,Pm check + CAS feed inside,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C5A,20-Jun,10:05,N,Request,Health Check,"Check printer, clean sensor and adjust printer roller. Test OK."
-4C5A,27-Jun,10:55,N,Request,Health Check - Advise,"Cleaned roller, tested ok"
-4C5B,08-Jun,18:00,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK."
-4C5B,09-Jun,10:45,N,NOZ,CAS JAM,machine is ok when on arrival. Clean cas printer
-4C5B,10-Jun,14:00,N,NOZ,Out of service,"machine arrived normal,check log jam cas at last night,cleaning cas printer roller and renew cas"
-4C5C,06-Jun,10:30,N,NZA,No CAS,Removed jam small paper.
-4C5C,08-Jun,10:00,N,HCA,No CAS,"Replace printer, clean scanner and roller. Test OK."
-4C5C,12-Jun,15:00,N,Request,Health check,Health check. Remove jammed CAS. Cleaned print head and roller. 
-4C5C,12-Jun,15:00,N,NZA,No CAS,Remove jammed CAS. Cleaned print head and roller. Serviced machine. Test OK.
-4C5C,17-Jun,16:00,N,Request,Healthcheck printer,remove jam advice from cutter
-4C5C,29-Jun,14:30,N,Request,PM Check,PM CHECK with reference to RI/PM/202001. Activation ESU
-4C5D,17-Jun,10:15,N,Request,PM Check,"Clean sensor, roller, scanner and ESU. Test OK."
-4C5D,18-Jun,17:10,Y,NUD,Jam cheque at scanner.,removed jam cheque at scanner. Removed jammed cheque. Adjust gap.
-4C5F,04-Jun,10:00,N,Request,Health check - advise,"Check printer and setting, clean roller. Test Ok."
-4C5F,05-Jun,10:30,N,Request,Health Check ,Health Check - Clean printer
-4C5F,05-Jun,10:30,N,NZA,CAS jam,The CAS plastic roller is loosen. Fix the roller and clean printer. Test ok.
-4C5F,07-Jun,16:00,N,NZA,Jam advice,reinstall the advice. Tested ok.
-4C5F,11-Jun,10:45,N,NZA,No CAS,Remove jammed CAS. Serviced machine. Test OK.
-4C5F,12-Jun,13:30,N,NZA,Jam CAS,Remove CAS & paper bits
-4C5F,13-Jun,11:45,Y,NGB,Out of service,Clean F29.
-4C5F,18-Jun,10:45,N,Request,Health Check - Advise,"Replace CAS printer, reinstalled the driver, tested ok"
-4C60,05-Jun,21:40,N,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK."
-4C60,09-Jun,15:40,Y,NGB,Out of service.,Clean F6 sensor. Tested ok.
-4C61,10-Jun,9:30,N,Request,Pm check,PM CHECK with reference to RI/PM/202006. Replace ink roller and ribbon plate roller. Activate ESU key.
-4C61,16-Jun,11:00,N,NIB,No endorsement,replaced ribbon. Clean scanner and roller perform TSP. tested ok.
-4C63,03-Jun,10:40,Y,NUD,jam cheque at scanner.,removed culved cheque. Adjusted scanner gap.
-4C63,10-Jun,12:00,Y,NUD,Jammed at scanner last night,Clean scanner belt & paper path
-4C64,12-Jun,11:55,N,Request,Bar lock loose,"Adjust bar lock, clear black line"
-4C64,19-Jun,11:30,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C64,29-Jun,18:55,N,NOZ,Jam cheque,"machine arrived normal,cleaning and adjust 380(L8) belt"
-4C68,02-Jun,10:45,Y,NGB,Out of service,Clean F1 sensor. Adjust input block.
-4C68,06-Jun,18:15,N,NGB,Out of service.,Machine normal. Check log. FFFFFFD problem. Clean the F29 and F1 senosr. Adjust the open gate. Tested ok.
-4C68,16-Jun,9:40,N,NIC,Image small,clean scanner and roller. Perform TSP. tested ok.
-4C69,07-Jun,12:50,N,NGB,Jam cheque ,machine Normal. Clean the F29 F1 sensor. Tested ok.
-4C69,10-Jun,14:20,Y,NUD,Jammed cheque,"Check the collection box, fixed the bin 1 solenoid. Test OK."
-4C69,11-Jun,18:00,N,NIC,Image small,clean scanner smj.
-4C69,12-Jun,11:45,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C69,15-Jun,11:15,Y,NUD,Jammed cheuqe,"Remove cheque near in bin 2, adjust bin 2 solenoid, clean sensor and roller. Test OK."
-4C69,15-Jun,17:10,N,NZA,CAS problem,"Check printer, clean sensor and roller. Test OK."
-4C6A,23-Jun,14:25,Y,NUD,Jammed cheque,"Cleaned sensor (F6, F29), tested ok"
-4C6B,15-Jun,13:30,Y,HTP,Jammed cheque,"Replace o-ring (fat, feeder) and stamp, tested ok"
-4C6C,29-Jun,12:00,Y,NGC,Windows crashed,must follow to reload
-4C6C,30-Jun,9:30,Y,Request,Windows crashed,Reload Program
-4C6F,16-Jun,11:50,Y,NGB,OUt of service,clean scanner and roller. Perform TSP. tested ok.
-4C6F,16-Jun,21:45,Y,NUD,Jammed cheque,"Adjust yellow belt, clean sensor and roller. Test oK."
-4C70,05-Jun,16:15,N,NUB,Rejected cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK."
-4C70,26-Jun,15:00,N,Request,PM CHECK,PM CHECK with reference to RI/PM/202001. Replaced stamp.
-4C71,29-Jun,16:30,Y,NGB,Idle,"Cleaned sensor F10, F11. Replaced stamp. Serviced machine. Test OK."
-4C72,01-Jun,15:00,N,HCA,No advise,Replace cas printer. Test ok
-4C72,26-Jun,16:00,Y,NUD,Solenoid (aligner) missing c-ring,"Remove cheque at aligner, install new c-ring, clear white line image"
-4C73,07-Jun,15:30,N,NZA,Jam advice,Clean the cutter. Tested ok.
-4C73,09-Jun,14:30,N,Request,Health check - advise,machine normal. Clean cutter. Printer and roller. Tested ok.
-4C73,10-Jun,14:00,N,Request,Health Check CAS,CAS can't cut. Clean cas cutter and clean scanner. Test ok.
-4C73,10-Jun,14:00,N,NZA,CAS,Clean printer
-4C73,23-Jun,15:00,N,NZA,CAS can't cut,"Clear paper bits, clean scanner & stamp"
-4C73,25-Jun,12:20,N,Request,Health checked,replaced the CAS printer. Tested ok.
-4C73,26-Jun,13:30,N,NZA,Jam advice,clean roller and print head. 
-4C73,27-Jun,9:50,N,Request,Health check CAS,CAS jammed at cutter. Adjust the printer's arm and adjust the metal film. Clean scanner and test ok.
-4C73,29-Jun,21:10,Y,NGA,Out of service,need follow replaced csd main power supply
-4C73,30-Jun,10:30,Y,Request,Follow up,Replace main power supply and fuse.
-4C73,30-Jun,11:50,N,Request,Health check,Replace box wire.
-4C74,26-Jun,16:00,Y,NUD,Jam cheque at bin 1,adjust the solenoid of bin 1. tested ok.
-4C74,29-Jun,11:30,Y,NUD,Jam cheque at bin 1,replaced the solenoid of bin 1. tested ok.
-4C76,05-Jun,9:30,N,Request,Pm check,PM CHECK with reference to RI/PM/202001.
-4C76,05-Jun,9:30,N,HCR,Card reader,cardreader problem. Need follow up.
-4C76,05-Jun,12:20,N,Request,Follow up,replaced cardreader.
-4C76,13-Jun,11:30,Y,NGA,No power,"Check machine power and cable, reinstalled power cable, ESU. Test OK."
-4C76,13-Jun,11:30,N,Request,Health Check,Esu activation
-4C77,27-Jun,10:30,Y,HTP,Jammed cheque,"Adjust the thickness adjuster, replace o-ring. Test OK."
-4C78,02-Jun,19:30,N,Request,Health checked ,adjust the CAS printer. Tested ok.
-4C78,30-Jun,15:25,N,Request,Search cheque,downlog no find cheque
-4C79,18-Jun,12:10,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C79,24-Jun,9:00,Y,HTP,Tooth belt worn out,"Replace tooth belt behind scanner, adjust bend belt"
-4C7A,04-Jun,10:40,N,Request,Pm check,"Pretentive Maintenance, ESU activation"
-4C7A,12-Jun,10:15,Y,NGB,Jammed cheque,Lift operating error. No jammed found. Restarted machine. Test OK.
-4C7A,20-Jun,10:00,N,NZA,CAS,Restarted CAS printer. Serviced machine. Test OK.
-4C7A,21-Jun,10:30,Y,NZA,Out of service,The printer is disable. Reset the printing setting and clean scanner. Test ok.
-4C7A,22-Jun,17:15,N,NZA,CAS alignment,No problem found. Serviced machine. Test OK.
-4C7B,29-Jun,10:30,Y,NGC,Manually closed,PC is slow. Running single hardisk. Restarted PC. Need follow up.
-4C7B,29-Jun,14:30,N,Request,Reload Program,Reload Program and test ok.
-4C7C,23-Jun,10:00,N,Request,Reload,Reload program
-4C7E,15-Jun,14:00,N,NZA,advice blur,clean the print head. Tested ok.
-4C7E,19-Jun,16:20,Y,NGB,Out of service,Clean sensor F8 and clean scanner. Test ok.
-4C7F,09-Jun,10:00,Y,NGB,Out of service,Sensor F6 is dirty. Action: Clean sensor F6 and clean scanner. Test ok.
-4C80,01-Jun,16:30,Y,NGZ,Auto reset,ATMP timeout. Open controller. Serviced machine. Test OK.
-4C80,03-Jun,17:15,N,NOZ,jam cheque,machine is ok when on arrival. Clean DD1 sensor
-4C80,04-Jun,12:00,Y,NGB,Out of service,Clean F15.
-4C80,05-Jun,10:15,Y,NUD,jam cheque at scanner.,"ribbon metal film broken,replaced"
-4C80,06-Jun,11:15,Y,NGB,Out of service,clean and stablized F28.
-4C80,15-Jun,13:00,N,NIC,Advice no image,Image small. Cleaned scanner and rollers. Perform TSP. Test Ok.
-4C81,01-Jun,12:10,Y,NGB,Out of service,Cleaned sensors. Serviced machine. Test OK.
-4C81,20-Jun,11:00,N,Request,Health check,Cleaned CAS printer and roller.
-4C82,03-Jun,9:45,N,NZA,Out of service,CAS jammed at cutter. Clean CAS cutter and clean scanner. Test ok.
-4C82,08-Jun,16:45,N,NZA,no advice,adjust the rejection roller. Tested ok.
-4C82,09-Jun,11:05,N,Request,Health Check CAS,Replace CAS printer(repaired) and test ok.
-4C82,20-Jun,16:10,Y,HTP,Cheque jam,Remove cheque and replace bend belt. Test ok.
-4C83,02-Jun,14:00,N,Request,Preventive Maintenance,"Pretentive Maintenance, ESU activation"
-4C83,12-Jun,17:25,N,NIC,Black line,Clean front scanner and pressure roller.
-4C84,25-Jun,18:00,N,NOZ,Black screen,Machine normal. Serviced machine. Test OK.
-4C85,03-Jun,13:00,N,NIA,Front crossing and endorsement,replaced ribbon and adjusted it.
-4C85,11-Jun,18:00,N,NOZ,machine normal,"Machine normal when arrival, clean feeder."
-4C85,15-Jun,21:55,N,NOA,jam cheque,"full box, normal machine in arrive"
-4C85,27-Jun,10:30,N,NOZ,Jam cheque,"machine arrived normal,check loj cannot back-flush,replaced feeder o ring"
-4C87,24-Jun,11:45,Y,NOA,Out of service,Replace CMOS battery. Perform cutoff handling.
-4C87,28-Jun,11:50,Y,NGC,Out of service,Check lan. Make ramp smooth due to previous jam.
-4C88,19-Jun,10:35,Y,NBA,Collection box problem,"Fixed the collection box, replace wiring. Follow up to replace bar. *offered 9:00"
-4C88,19-Jun,14:00,N,Request,Bar broken,Replaced bar. Test OK.
-4C89,17-Jun,10:50,N,Request,Health check CAS,Replace CAS printer
-4C89,30-Jun,13:15,Y,NGB,Out of service,Adjust 24V and stamp
-4C8A,19-Jun,10:15,N,Request,Pm check ,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C8A,25-Jun,15:00,N,Request,Health checked,adjust the upper door bar. Tested ok.
-4C8A,25-Jun,15:00,N,NOZ,No advice,no problem find. Clean the sensor or CAS printer. Tested ok.
-4C8B,10-Jun,10:25,N,NIA,crossing and black line,replace ink-roller and scanner perform
-4C8D,05-Jun,16:35,N,NIA,No rossing,Perform TSP. Adjust scanner gap.
-4C8E,10-Jun,16:50,N,NIA,No crossing,Clean stamp & adjust stamp gap
-4C8E,17-Jun,12:00,Y,HTP,Jam cheque at ramp/scanner,adjust scanner gap. Clean both blackline. Adjust endorsement and replaced ribbon. Replaced red belt and o-ring collection.
-4C8F,01-Jun,10:10,N,Request,ESU,ESU 
-4C8F,04-Jun,13:35,Y,HTP,Jammed cheque,"Replace flat belt (bend), flat belt (yellow), Flat belt (351 , L6), tested ok"
-4C8F,15-Jun,12:00,Y,HTP,out of service,"replace fat o-ring and ink-roller, 12 june 14:00 after nobody insert cheque."
-4C8F,16-Jun,16:00,Y,NGZ,Netowrk not stable,need follow up check network
-4C8F,17-Jun,11:15,N,Request,Network follow up,check lan cable
-4C8F,17-Jun,17:50,N,Request,Network follow up,check lan cable
-4C8F,18-Jun,18:00,N,Request,Netowrk follow up,removed CQM to change lan cable by ATM
-4C8F,20-Jun,11:35,N,Request,Health check,cheque box gate cannot full open-replaced cheque box wiring
-4C8F,22-Jun,14:45,Y,NUD,Jam cheque,"""FFFD"",adjust feeder gate ,curl cheque jam into escrow,remove jam cheque"
-4C91,02-Jun,13:55,Y,NUD,Jam cheque,Remove jammed cheque at sorter. Clean and adjust bin2 solenoid. Clean scanner.
-4C91,10-Jun,13:15,Y,NUD,Jam cheque at aligner.,removed the Jam cheque. Tested ok.
-4C91,22-Jun,11:00,Y,NUD,Jam cheque at bin 2,removed the jam cheque. Tested ok.
-4C91,29-Jun,10:30,N,NOZ,Out of service,Machine normal. Clean F1 sensor. Tested ok.
-4C94,09-Jun,10:00,N,NIB,endorsement,"replace ribbon, clean printer"
-4C95,01-Jun,12:00,Y,NUD,Out of service,Remove jammed cheque at scanner. Cleaend rollers. Serviced machine. Test OK.
-4C95,09-Jun,12:15,N,NZA,CAS problem,replace CAS PCB
-4C96,02-Jun,12:35,N,Request,Health check,cleaning cas printer roller
-4C96,08-Jun,15:00,Y,NUD,Jammed cheque,Remove jammed cheque. Rearrange cheque in bin 1. Serviced machine. Test OK.
-4C98,17-Jun,15:40,N,NZA,missing printer 24V,Adjust 24V
-4C98,30-Jun,15:55,Y,NGB,Out of service,"Lift up failture,cleaning MDN board"
-4C99,02-Jun,16:35,N,NZA,Jam CAS,"Remove jammed CAS, adjust ejection roller"
-4C9A,03-Jun,12:45,N,NZA,CAS printing shift,The printer is normal. Checck printing and clean scanner. Test ok.
-4C9A,23-Jun,10:30,N,NZA,Jam advice,Clean the cutter and roller. Tested ok.
-4C9A,26-Jun,10:00,N,NOZ,No CAS,"Printer is normal, no cas jam. Check record and check printer. Clean printer and adjust metal film. Test ok."
-4C9B,15-Jun,11:20,N,Request,Pm check,"Pm check with reference to document RI/PM/202006,ESU activation"
-4C9B,19-Jun,15:45,N,NZA,CAS problem,"Check printer and setting, clean sensor and scanner. Test OK."
-4C9D,02-Jun,11:30,N,Request,CAS drop,Remove jammed CAS at cutter
-4C9D,24-Jun,15:55,N,NZA,Cas jam,renew cas
-4C9E,23-Jun,10:30,N,NZA,Jam advice,clean roller and print head.
-4C9F,24-Jun,9:15,Y,NUD,Jammed cheuqe,"Cleaned flat belt (scanner), tested ok"
-4C9F,26-Jun,9:45,Y,NUD,Jam cheque,removed jam cheque at scanner. Adjust scanner belt.
-4DA2,29-Jun,18:10,Y,NOA,Black screen,"monitor off,Turn on ,Test ok"
-4DA7,02-Jun,16:00,N,Request,Health check,Cleaned CAS printer head & rollers.
-4DAA,26-Jun,10:15,N,NZA,CAS,Clean print head and scanner. Test ok.
-4DAB,02-Jun,12:00,N,Request,Health check - advise,cleaning cas printer roller
-4DAB,02-Jun,17:00,N,NIC,Image,"Clean scanner, perform TSP. Remove jam cas, clean printer sensor and roller."
-4DAB,03-Jun,17:00,N,NIB,No image,"Replace ribbon. Clean scanner, smj board."
-4DAB,04-Jun,12:00,Y,NZA,Out of service,take away jam cas paper. Service machine
-4DAB,05-Jun,16:55,N,HCA,Out of service,Replace cas printer. Test ok
-4DAB,09-Jun,14:00,N,Request,Jammed advsie,"Cleaned CAS printer, tested ok"
-4DAB,09-Jun,14:00,N,NZA,Out of service,"Advise jammed, cleaned CAS printer, tesed ok"
-4DAB,11-Jun,15:10,N,Request,Health check CAS,Clear paper bits
-4DAB,12-Jun,15:30,N,NIC,No image both side,follow up for scanner replacement.
-4DAB,13-Jun,11:30,Y,HPC,No image,Reinstall scanner cable. Replaced SMJ. Serviced machine. Test OK.
-4DAB,16-Jun,15:45,Y,HCA,jam advise,Replace cas printer. Test ok
-4DAB,26-Jun,10:40,N,NZA,Jam CAS,"Remove jam cas. Clean printer roller, print head. Test ok."
-4DAC,01-Jun,15:00,Y,NZA,Out of service,"CAS jam, remove jam advice"
-4DAC,09-Jun,10:30,Y,NUD,Jammed cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK."
-4DAC,10-Jun,12:20,Y,NGB,F6 sensor engaged,Clean sensor
-4DAC,16-Jun,15:00,N,Request,CAS drop,Replace CAS printer
-4DAC,16-Jun,15:00,Y,HCA,Out of service due to Jammed CAS,Replace CAS printer
-4DAC,23-Jun,11:00,Y,NGB,Out of service,Clean sensor F6 and clean scanner. Test ok.
-4DAC,23-Jun,14:00,Y,NGB,Sensor problem,"Clean the F6 sensor, scanner and roller. Test OK."
-4DAD,17-Jun,11:30,N,Request,Health Check - Advise,clean roller and print head.
-4DAD,19-Jun,13:30,Y,NZA,Out of service,CAS jam at cutter. Remove CAS and clean cutter. Adjust metal film and test ok.
-4DAD,23-Jun,15:45,N,Request,PM check,PM CHECK with reference to RI/PM/202006.
-4DAD,30-Jun,10:30,N,Request,Health checked,"jam advice. Clean the cutter, roller and Print head. Tested ok."
-4DAE,16-Jun,12:10,Y,NGB,F9 sensor engaged,Clean sensor
-4DAF,09-Jun,11:55,N,NZA,Always show paper end,Clean CAS roll detector
-4DAF,12-Jun,16:40,N,NZA,CAS,Replace advice paper.
+5806,01-Jul,11:15,Y,Request,Health checked,ESU. Adjust the Feeder pad. Clean scanner and Flat belt. Tested ok.
+586C,01-Jul,9:40,N,NUD,Jam cheque on red belt.,the 420 belt lose. Reinstall the 420 belt. Tested ok.
+5822,01-Jul,15:15,Y,Request,ESU Activation,ESU Activation
+5879,01-Jul,10:50,Y,Request,HEALTH CHECK,Replaced printer.
+5862,01-Jul,10:00,N,NUD,Jam cheque at ramp.,make ramp smooth.
+588A,01-Jul,10:45,N,NGB,out of service,Clean F2 sensor. Tested ok.
+58C2,01-Jul,11:40,Y,NZA,CAS printer,clean printer board.
+5803,01-Jul,16:30,N,NGB,out of service,Clean feeder roller and sensor.
+5842,01-Jul,17:30,N,NGC,out of service,Check lan. Image not arrive. Clean SMJ.
+5803,01-Jul,20:30,N,NGB,out of service,Need follow up transparcy replacement.
+5803,02-Jul,11:05,N,Request,Follow up,"Replace staple detector flag, clean sensor and roller. Test OK."
+58BD,02-Jul,9:00,N,NUA,Auto reset,"jam a coupcon into card reader,remove and replaced stamp plate"
+58FD,02-Jul,10:50,Y,Request,PM Checked,PM checked
+58FE,02-Jul,10:50,Y,Request,PM Checked,"PM checked. Reported Feeder roller, Flat belt on collection box and O-ring."
+58EA,02-Jul,11:10,Y,NZA,CAS printer,Clean printer.
+5.80E+10,02-Jul,10:55,Y,NZA,CAS jam,removed jam advice. Clean printer.
+58A2,02-Jul,11:25,Y,NZA,CAS jammed at roller,Clean cas printer and clean roller. Test ok.
+5894,02-Jul,12:25,Y,NGB,Jam cheque,"machine arrived normal,adjust F28 sernsor. *offered 11:30"
+5845,02-Jul,11:40,Y,NUD,Jammed cheque,Remove jammed cheque at scanner. Cleaned roller. Serviced machine. Test OK.
+58CC,02-Jul,13:30,Y,NZA,No advice,checked the advice. Replaced the new advice. Tested ok. *offered 12:30
+58B4,02-Jul,13:15,N,NGB,jam cheque,no jam cheque. Clean scanner
+5893,02-Jul,12:45,N,NGC,out of service,lower door not closed properly by branch staff. Action : adjust and close.
+5871,02-Jul,14:35,Y,Request,downlog,"replace micr belt, downlog"
+588E,02-Jul,14:00,Y,NIB,Endorsement,Clean pressure roller and scanner. Perform TSP
+5895,02-Jul,13:45,Y,NIC,black line,clean scanner and stamp
+582E,02-Jul,14:00,N,NIC,Image blur,Perform TSP. Remove jammed cheque at feeder. Clean F28 sensor.
+58EE,02-Jul,15:00,N,NIC,Image zoom out,Cleaned scanner. Perform TSP. Serviced machine. Test OK.
+586C,02-Jul,14:45,N,NIB,No back endorsement,The ribbon is no ink. Action: Replace ribbon and clean scanner. Test ok.
+5830,02-Jul,14:05,Y,NIC,Black line,clean scanner and roller. Tested ok.
+58AE,02-Jul,14:35,N,NBZ,Black screen,Replug touch screen cable. Restart machine.
+5858,02-Jul,15:45,Y,NOZ,CAS,No problem found on printer. Clean printer. Perform TSP.
+58FE,02-Jul,15:00,N,NZA,out of service,Restart the CAS printer. Tested ok.
+5832,02-Jul,16:40,N,NIA,Crossing,Adjusted ink roller. Serviced machine. Test OK.
+5859,02-Jul,15:10,Y,NIA,No crossing,Replace stamp.
+5870,02-Jul,15:45,Y,NIC,Black line,Cleaned scanner. Serviced machine. Need replace scanner roller.
+58A9,02-Jul,16:30,Y,NUA,Can't insert card.,clean card reader. Restart the PC. Tested ok.
+58D6,02-Jul,16:55,Y,NIC,black line,clean scanner in endorsement
+5896,02-Jul,15:15,N,NZA,out of service,Remove jammed CAS. Serviced machine. Test OK.
+5871,02-Jul,16:20,N,NZA,out of service,remove jam advice
+5876,02-Jul,15:45,Y,Request,Health Check ,Health Check - Rescrew the cover lock and test ok.
+5862,02-Jul,17:00,Y,Request,Health Check ,Upload logs
+5863,02-Jul,17:15,Y,Request,Health Check,Upload logs
+580A,02-Jul,15:45,Y,NOZ,Cas slowly,"machine check normal,service machine"
+585B,02-Jul,16:00,Y,Request,CAS printer,Clean printer sensor and scanner.
+5870,02-Jul,17:15,Y,NOZ,Check scanner,Check scanner. Need follow up.
+584C,02-Jul,18:30,N,NUD,Bin 1 solenoid missing c-ring,"Remove cheque at sorter, install new c-ring. *offered 17:30"
+587C,02-Jul,21:00,Y,NGC,F1 & F29 sensor engaged,"Adjust feeder pad, clear black line *follow 584C"
+582A,02-Jul,19:00,Y,NIC,Black line on front image,"Clean scanner & stamp, perform TSP"
+5816,02-Jul,18:15,N,NGB,Out of service,Clean F8 sensor. Perform TSP.
+583A,02-Jul,20:20,N,NBA,Can't insert box,Replace box wire.
+585F,02-Jul,19:30,Y,NIA,Crossing blur,"Replace stamp, clean scanner"
+5845,02-Jul,10:55,N,NGC,Idle,"Restarted machine & PC, update BIOS setting. Serviced machine. Test OK."
+5897,02-Jul,19:30,N,NGB,jam cheque,"no jam cheque, clean printer, roller and micr and micr belt"
+58BD,02-Jul,19:30,Y,NOZ,Black line,No problem found. Perform TSP.
+586C,03-Jul,10:10,Y,NOZ,endorsement blur,adjust the ribbon. Perform TSP. tested ok.
+5870,03-Jul,10:45,Y,Request,Health check,Replaced scanner due to rollers soft
+5871,03-Jul,11:15,Y,Request,Upload log,Upload logs
+5891,03-Jul,13:00,Y,NZA,Jam CAS,"Remove jam cas. Clean printer sensor, roller, print head *follow 5871"
+5894,03-Jul,13:10,N,NGB,Out of service,"Cleaned sensor (F28), adjust wire (scanner), tested ok"
+5873,03-Jul,14:00,N,NBA,Cheque jam,The bin wire is broken. Action: Remove cheque and replace bin wire. Test ok.
+5896,03-Jul,14:00,N,NIC,Image small,"Cleaned scanner, perfrom TSP. Serviced machine. Test OK."
+5817,03-Jul,14:55,N,NIC,Black line,"Clean scanner, stamp and replace ribbon. Test OK."
+5828,03-Jul,15:50,N,NIA,Black line,"Replace stamp , ink roller and adjust it, clean scanner and roller. Test OK."
+5832,03-Jul,14:30,N,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+585F,03-Jul,15:40,N,NIB,Endorsement,Clean ribbon and pressure roller. Adjust ink roller
+587F,03-Jul,14:30,Y,NIA,crossing problem,replace ink roller
+586C,03-Jul,15:30,Y,NIB,endorsement blur,Replaced ribbon. Adjust the ribbon. Tested ok.
+5812,03-Jul,16:00,Y,NIB,Endorsement,"Calibrated the scanner, tested ok"
+58D6,03-Jul,16:20,Y,NIC,Black line on front image,"Clean scanner & stamp, perform TSP"
+5870,03-Jul,16:00,N,NOZ,Black line,NFF. Cleaned scanner. Serviced machine. Test OK.
+5.80E+06,03-Jul,16:30,N,NIB,Endorsement,Adjusted print head. Serviced machine. Test Ok.
+5865,03-Jul,17:00,Y,NIB,No endorsement,replaced ribbon cartridge. *follow 5812
+5894,03-Jul,16:40,N,NGB,Out of service,"Replace sensor (F28), tested ok *RI"
+58AB,03-Jul,16:25,N,NUD,cheque jam,The bin 1 solenoid is down. Action: Fix bin 1 solenoid and remove cheque. Test ok.
+584A,03-Jul,18:45,Y,NIC,black line,"clean stamp and scanner, adjust ink-roller *requested by CIT"
+58DC,03-Jul,19:15,Y,NIA,Crossing blur,Replace stamp *roffered 18:15
+58A6,03-Jul,18:45,Y,NIC,Black line,"Clean scanner, stamp and pressure roller."
+5896,03-Jul,19:40,N,NUD,out of service,jam cheque at sorter as solenoid no smooth. Clean solenoid at bin 1
+5.80E+01,03-Jul,19:00,N,NUD,Jam cheque at sorter,"Remove cheque, tested ok"
+581F,03-Jul,20:15,N,NBZ,out of service,"missing 24V, adjust lower 24V"
+58B4,03-Jul,21:00,Y,HPE,No endorsement,Replace pressure roller
+58D6,03-Jul,21:35,N,NGC,No image arrvied,Replug lan cable & scanner cable
+5875,04-Jul,13:00,Y,Request,Health Check,Health Check - ESU and fix bin 1 solenoid. Test ok.
+5874,04-Jul,13:15,Y,Request,Health Check ,Health Check - ESU and clean scanner. Test ok.
+5872,04-Jul,13:30,Y,Request,Health Check,Health Check - ESU and fix ramp gate. Test ok.
+5896,04-Jul,10:00,N,NIC,back image,"clean smj, scanner TSP. Replug cable."
+58A2,04-Jul,11:20,N,NZA,No advice,Jam advice. Replaced the CAS printer. Tested ok.
+58B4,04-Jul,14:05,Y,Request,Health check,"replace stamp, clean sensor and roller"
+588A,04-Jul,14:15,Y,NOZ,No endorsement,"no find problem, clean scanner"
+580E,04-Jul,17:30,N,NUD,jam cheque,"jam at scanner, remove fold cheque from scanner"
+5894,04-Jul,19:15,N,NGB,sensor 28 engage,"find that lower F28 sensor loose and not on position, fix it."
+58CC,05-Jul,10:30,N,NGB,Out of service,Clean sensor F14 and clean scanner. Test ok. *requested by CIT
+5888,05-Jul,11:00,Y,NZA,CAS jam,"Remove jam cas. Clean printer sensor, roller, scanner."
+58A5,05-Jul,13:00,N,NUD,Cheque jam,"Cheque jam at bin 2, the bin 2 solenoid is down. Rescrew bin 2 solenoid and remove cheque. Test ok."
+5829,05-Jul,16:15,N,NGB,Out of service,Sensor F6 is dirty. Clean sensor F6 and clean scanner. Test ok.
+5846,06-Jul,10:00,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+5858,06-Jul,9:45,N,NUD,Jammed cheque,"Adjust ribbon, tested ok"
+5897,06-Jul,10:25,Y,NOZ,can't insert HSBC cheque,no find problem. Clean micr.
+584D,06-Jul,11:45,N,NUD,jam cheque,"jam at aligner, remove fold cheque"
+58EA,06-Jul,11:30,Y,NZA,jam CAS,Removed jam advice. Adjust CAS switch. Replaced ink roller and adjusted it. Clean stamp.
+5871,06-Jul,12:30,Y,HCA,CAS problem,"Replace CAS printer, clean black line"
+5844,06-Jul,13:00,,NUD,Jam cheque at scanner,adjust scanner belt. Adjust AT roller to prevent double cheque.
+587F,06-Jul,13:15,Y,NOZ,black line,"clean scanner and stamp, no find problem"
+58B6,06-Jul,15:15,Y,NIA,Crossing blur,Adjust stamp gap
+5861,06-Jul,15:30,Y,NIB,Black line,Back scanner is dirty. Ribbon is broken. Replace ribbon and clean scanner. Test ok.
+588E,06-Jul,14:00,Y,NZA,Cas jam,"cleaning cas printer cutter paper bit,Test ok"
+5.80E+06,06-Jul,14:30,Y,NIA,Crossing,Adjust ink roller. Test ok
+58B8,06-Jul,16:00,Y,NOZ,black line,"clean scanner and stamp, no find problem. *offered 14:30"
+5802,06-Jul,14:55,Y,NIA,crossing problem,"Adjust ink roller, clean scanner and roller. Test OK."
+58C9,06-Jul,16:15,Y,NIC,black line,clean scanner and stamp
+588F,06-Jul,15:45,Y,NIC,front blackline,cleaned it and stamp.
+58B7,06-Jul,15:50,Y,NIA,Crossing blur,replaced the stamp. Tested ok.
+585B,06-Jul,16:00,Y,NIC,Black line,"Clean scanner & stamp, perform TSP"
+586B,06-Jul,16:15,Y,NOZ,Out of service,Machine normal. Replaced CAS. Serviced machine. Test OK.
+5858,06-Jul,16:25,N,NIB,Endorsement problem,"Replace ribbon, clean scanner and roller. Test OK."
+58A0,06-Jul,17:15,N,HTP,Out of service,"Sensor (F11) engage, need follow up, tested ok"
+5816,06-Jul,19:15,Y,Request,Search cheque,No cheque found. Serviced machine. Test OK.
+58A0,06-Jul,20:45,N,Request,Out of service,"Replaced sensor F10, F11. Serviced machine. Test OK."
+588A,06-Jul,19:30,N,HPE,Endorsement problem,"Replace test printer motor, ribbon, clean sensor and roller. Test OK."
+581B,06-Jul,21:20,N,NUD,Jammed cheque,"Remove cheque near in bin 1, fixed the bin 1 solenoid, clean scanner and roller. Test OK."
+5897,07-Jul,9:00,Y,NGC,Printer spooler failed,Normal service machine. Test ok.
+583D,07-Jul,9:10,N,NUD,Jam cheque at scanner,"scanner guide out of position ,Action : adjust"
+5826,07-Jul,11:20,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+5811,07-Jul,10:45,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+5871,07-Jul,10:30,N,NGB,Out of service,clean sensors. Replace micr head. *requested by CIT
+5842,07-Jul,14:15,Y,Request,Health check,"checking ACLT timeout ,Upload log"
+5892,07-Jul,15:00,N,NIC,No rear image,Clean scanner and perform tsp. *requested by CIT
+5848,07-Jul,14:15,N,NIC,Black line,"Clean scanner and roller, replace ribbon, adjust ink roller and stamp. Test OK."
+5.80E+06,07-Jul,13:55,N,NIC,black line,clean scanner and stamp
+586D,07-Jul,15:00,N,HTP,Cheque jam,replace flat belt in bin 1
+58A8,07-Jul,15:50,N,NIC,black line and crossing,clean scanner and replace ink-roller. *follow 586D
+5.80E+05,07-Jul,15:00,N,NIB,Endorsement blur,Replaced ribbon. Serviced machine. Test OK.
+58C8,07-Jul,17:15,N,NIB,Endorsement,"Calibrated the scanner, tested ok *requested by CIT"
+580C,07-Jul,14:55,N,NIC,Black line,cleaning scanner and pressure roller
+58D9,07-Jul,16:50,N,NIA,Crossing incomplete,"ink roller no ink,Action : replaced ink roller"
+58AB,07-Jul,15:10,Y,NIB,Eendorsement blur,replaced the ribbon. Adjust the image setting to 95 from 85. tested ok.
+5881,07-Jul,15:30,N,NIC,Black line,Clean scanner and stamp.
+5882,07-Jul,15:50,N,NIC,Black line,Clean scanner and stamp. *offered 14:45
+58DF,07-Jul,16:45,N,NIB,black line,"clean scanner, replace ribbon. *follow 586D"
+581C,07-Jul,15:30,Y,NIB,Endorsement blur,replaced ribbon and adjusted it.
+58DB,07-Jul,15:25,N,NIB,Black line,The ribbon is no ink. Replace ribbon and clean scanner. Test ok.
+5.80E+10,07-Jul,16:45,N,NGB,Out of service,Printer lift error. Clean sensor and MDM board.
+5871,07-Jul,15:50,Y,NIC,Blackline,"Clean scanner, perform tsp and tighten front scanner."
+5888,07-Jul,15:30,N,HCA,No cas & Out of service,"cas printer pulley gear broken,will be follow replaced"
+5897,07-Jul,15:45,N,NBZ,Out of service,adjust lower 24V. Clean cas printer.
+588E,07-Jul,17:00,Y,NUD,Jammed cheque,"Adjust thickness adjuster, clean sensor and roller. Test OK."
+5825,07-Jul,17:15,Y,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+5835,07-Jul,16:30,N,NIA,No stamp,The stamp is broken down. Replace stamp and clean scanner. Test ok.
+5888,07-Jul,19:45,N,Request,Follow up,Replaced CAS printer. Serviced machine. Test Ok.
+5883,07-Jul,18:15,Y,NIA,Crossing,No ink. Replaced ink roller. Serviced machine. Test OK. *offered 18:30
+5876,07-Jul,17:15,Y,NZA,Advice blur,clean the print head. Tested ok.
+58A8,07-Jul,19:10,N,NIB,Endorsement,Replace ribbon and clean scanner.
+5808,07-Jul,21:20,Y,NIC,Black line,Clean scanner and stamp. Test OK. *requested by CIT
+5872,07-Jul,21:45,Y,NIC,Black line,clean scanner and roller. Tested ok. *requested by CIT
+582F,07-Jul,19:30,N,NOZ,Out of service,"Replace database, clean scanner and roller. Test OK."
+5892,07-Jul,21:15,N,NIC,Image zoom out,"Clean board, scanner, perform TSP. Reboot machine. Test ok"
+5802,07-Jul,20:55,N,NIC,Black line,"Check ribbon, clean back scanner and roller. Test OK."
+5834,07-Jul,21:45,N,NIA,crossing problem,"Replace stamp, ink roller and test printer motor. Test OK."
+588D,07-Jul,22:35,N,NIA,Crossing problem,"Replace stamp, clean scanner and roller. Test OK. *requested by CIT"
+580C,07-Jul,21:45,N,NIC,Endorsement,No problem for endorsement but black line. Cleaned scanner. Perform TSP. Serviced machine. Test OK.
+580E,08-Jul,11:00,N,NGB,Printer lift error,Clean F23 sensor & MDM PCB. *requested by CIT follow 4C17
+589F,08-Jul,10:30,Y,NBZ,Upper door lock,"Fixed the upper door lock, clean sensor and roller. Test OK."
+588B,08-Jul,9:25,Y,NOZ,jam cheque,"normal machine, clean roller"
+5857,08-Jul,12:30,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+5870,08-Jul,11:20,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+5896,08-Jul,9:55,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+58EE,08-Jul,10:35,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+5856,08-Jul,12:00,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.
+58B3,08-Jul,12:05,Y,NOZ,Touch screen problem,"Check screen and cable, compact MDB, clean scanner and roller. No problem find. Test OK."
+5815,08-Jul,11:15,N,HTP,Jam cheque,"jam cheque at aligner,cannot back flush,Action : replaced feed roller and adjust feeder pad"
+5800,08-Jul,12:50,N,NGB,F8 sensor engaged,"Clean sensor, clear black line on rear image"
+5882,08-Jul,14:55,N,NIC,Blackline,"Clean scanner, board and perform TSP"
+58D9,08-Jul,14:00,N,NIC,Image problem,clean scanner and roller. Tested ok.
+580E,08-Jul,14:15,Y,HPC,Out of service,Replace MDM board.
+5879,08-Jul,13:50,Y,NZA,CAS problem,remove jam advice
+58A8,08-Jul,13:35,Y,NIC,Black line,"Caleaned scanner, adjust stamp plate gap, tested ok"
+5808,08-Jul,14:20,Y,NIC,"Black line,image small","cleaning and calibraction scanner,replaced stamp plate"
+5822,08-Jul,14:30,Y,NIA,Crossing and image,clean scanner TSP. Replaced ink roller.
+5802,08-Jul,14:00,Y,NIC,Black line,"Black line,cleaning scanner and adjust stamp ,ink roller"
+5.80E+06,08-Jul,14:50,Y,NIC,crossing blur and black line,clean scanner and adjust ink-roller
+5871,08-Jul,15:15,Y,NIC,black line,clean scanner. Test ok.
+5825,08-Jul,14:45,Y,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+581C,08-Jul,16:35,Y,NIB,Back blackline,cleaned it and replaced ribbon. *requested by CIT
+58F1,08-Jul,15:35,Y,NIA,black line and crossing,clean the black line. Replaced the stamp. Tested ok.
+585C,08-Jul,14:10,N,Request,Lower door lock,replaced lower door lock.
+5848,08-Jul,15:10,N,NUD,Jammed cheque,"Remove cheque near in feeder, clean sensor and roller. Test  OK."
+583D,08-Jul,16:00,N,NUD,Cheque jammed at scanner,"Remove cheque, adjust scanner gap"
+5876,08-Jul,15:25,Y,NZA,CAS Blur,Clean printer and scanner.
+58DB,08-Jul,15:50,N,NIC,Image unclear,Cleaend scanner. Perform TSP. Serviced machine. Test OK.
+581E,08-Jul,16:00,Y,NIC,Black line,"Cleaned the scanner, tested ok"
+58C6,08-Jul,15:16,Y,NIC,Blackline,Clean scanner and dust
+58A2,08-Jul,16:15,N,NIC,Image blur,Replace ribbon and ink roller.
+58DF,08-Jul,16:30,Y,NIC,crossing image unclear,"clean roller and scanner, setting ME"
+58AF,08-Jul,17:05,Y,NIA,Crossing blur,Clean scanner. Adjust stamp.
+5830,08-Jul,16:35,N,NGB,Out of service,FFFFFFD problem. Adjust the open gate. Tested ok.
+586D,08-Jul,18:45,Y,NOZ,jam cheque,machine normal. Serviced machine. Test OK. *offered 17:15
+5811,08-Jul,21:00,Y,NGC,Printer spooler failed,"Clean scanner, perform TSP. *offered 18:15"
+5896,08-Jul,19:10,Y,NIC,black line,clean scanner. Test ok. *follow 586D
+582E,08-Jul,21:20,N,NUD,Jam cheque,Remove jam cheque. Clean scanner and drum belt. *follow 5811
+5825,08-Jul,20:00,N,NIC,Blackline,Clean scanner and replace stamp
+5871,08-Jul,21:15,Y,HCA,CAS problem & black line,replace cas printer. clean scanner. Replace ink ribbon. Test ok.
+5808,08-Jul,21:45,N,NIC,Blackline,"Clean scanner, pressure roller and perform TSP"
+585C,09-Jul,11:55,Y,NIA,crossing,replace stamp and ink-roller
+5877,09-Jul,9:55,Y,Request,Downlog,downlog one month
+5841,09-Jul,10:05,N,NUD,Out of service,Jam cheque at escrow. Removed culved cheque. Clean scanner.
+5888,09-Jul,12:40,Y,NZA,CAS,clean and adjust printer. Adjusted upper door lock. *follow 5841
+58EE,09-Jul,9:35,Y,NIC,Front crossing image zoom out,Cleaned scanner perform TSP. Service machine. Test OK.
+58EA,09-Jul,10:00,Y,Request,PM check,PM check. Replace printer.
+5.80E+10,09-Jul,10:45,Y,Request,PM check,PM check.
+5.80E+09,09-Jul,11:15,Y,Request,PM check,PM check. Replace red belt.
+5.80E+08,09-Jul,11:55,Y,Request,PM check,PM check.
+586D,09-Jul,10:00,N,NUD,Jammed cheque,Remove jammed cheque at sorter. Cleaned sensors. Serviced machine. Test OK.
+582C,09-Jul,15:00,N,NGB,Out of service,Printer lift failure. Restarted machine. Test OK. *offered 13:15
+58DF,09-Jul,13:30,Y,NIA,image lighting,replace stamp and ink-roller change ME setting
+5851,09-Jul,13:30,Y,NIC,Black line,clean scanner and roller. Tested ok.
+58DB,09-Jul,14:35,Y,NIC,Image blur,"Clean scanner & paper path, perform TSP"
+58FE,09-Jul,14:00,N,NOA,Out of service,Cutoff wrong. Reset cutoff and clean scanner. Test ok.
+5.80E+06,09-Jul,14:00,Y,NIA,Crossing unclear,Replaced stamp & ink roller. Cleaned scanner & perform TSP. Serviced machine. Test OK.
+58D6,09-Jul,15:50,Y,NIC,Image blur,Replaced ribbon. Cleaned scanner perform TSP. Service machine. Test OK. *follow 582C
+5839,09-Jul,15:15,N,NOA,Out of service,Cut off handling.
+582A,09-Jul,15:50,N,NGB,Beep sound,No cheque found. Clean scanner and adjust ink roller.
+5885,09-Jul,15:50,Y,NIA,Crossing problem,"Replace ink roller and adjust it, clean scanner and roller. Test OK."
+5892,09-Jul,16:30,Y,NIC,Black line,Cleaned scanner. Service machine. Test OK.
+582B,09-Jul,19:00,N,NIC,Crossing,Clean scanner. *requested by CIT
+5836,09-Jul,16:30,Y,NIB,Ribbon shift ,Adjust dot matrix printer gap
+584E,09-Jul,16:10,Y,NIA,Crossing,Clean scanner and replace new stamp
+5824,09-Jul,17:00,N,NIC,Image blur,TSP.
+5876,09-Jul,18:00,Y,HCA,cas blur ,replace cas printer. Test ok
+5882,09-Jul,17:15,N,NIC,Image small,Perfotm TSP. Replug scanner cable.
+5.80E+06,09-Jul,19:40,N,NGB,DPM hang,Reboot dpm and clean board.
+58B7,09-Jul,19:50,Y,NIA,crossing blur,adjust crossing and ink roller gap
+582A,09-Jul,22:20,N,NGB,CQ Jam,Clean dust and perform tsp
+5871,09-Jul,21:45,Y,NZA,Printer driver failure,Clean printer and reinsert paper.
+58AD,10-Jul,9:45,N,NIB,Endorsement,Replace ribbon and stamp.
+5.80E+09,10-Jul,11:20,Y,Request,upgrade,Upgrade application
+5874,10-Jul,12:25,Y,Request,Health check,Replace stamp & ink roller
+5825,10-Jul,10:30,Y,NUB,Out of service,"machine arrived normal,cannot multi insert cheque. Action : cleaning feed roller and adjust thickness adjust knob. *RI. NFF"
+58A2,10-Jul,15:15,Y,Request,Health check,"Replaced the O-ring x6, solenoid of bin 2."
+5817,10-Jul,9:15,Y,Request,PM check,PM check. Replace stamp and ink roller.
+5816,10-Jul,10:10,N,Request,PM check and Out of service,PM check. Remove jammed cheque at bend.
+5815,10-Jul,10:55,Y,Request,PM check,PM check.
+5814,10-Jul,11:40,Y,Request,PM check,PM check. Replaec red belt.
+5858,10-Jul,12:50,Y,Request,PM check,PM check.
+5859,10-Jul,13:25,Y,Request,PM check,PM check. Replace stamp and ink roller.
+58B3,10-Jul,10:25,Y,HCA,Black line,"Clean scanner, stamp and roller, replace print head. Test OK."
+58C5,10-Jul,11:00,N,NZA,CAS alignment,Reinstalled CAS. Serviced machine. Test OK.
+583B,10-Jul,11:30,Y,NZA,No cas,"machine arrived normal,Action : cleaning and adjust eject roller"
+5890,10-Jul,13:15,N,HTP,Jammed cheque,"Replace 351 belt, clean sensor and roller. Test OK. *requested by CIT"
+58D6,10-Jul,13:00,Y,NIC,Blackline,Clean scanner and dust
+5892,10-Jul,15:05,Y,NIC,Blackline,"Clean scanner, ribbon, drum belt, pressure roller. *request by CIT"
+5818,10-Jul,12:15,Y,NOZ,Out of service,Machine normal. Test OK.
+5848,10-Jul,13:50,N,NGZ,Out of sevice,"ACLT timeout, check lan cable, clean sensor and roller. Test OK."
+58A9,10-Jul,14:20,N,NIC,Black line at back,Clean scanner and recalibrate scanner. Test ok.
+5.80E+05,10-Jul,13:10,Y,NIA,Black line,"cleaning scanner,replaced stamp plate,ink roller"
+582D,10-Jul,16:15,N,NIC,Black line,Clean scanner and roller. Test OK. *requested by CIT
+5.80E+06,10-Jul,15:15,Y,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+585C,10-Jul,14:30,Y,NIC,Black line at back,Cleaned scanner perform TSP. Service machine. Test OK.
+5896,10-Jul,14:00,Y,NIC,Black line,Cleaned scanner. Service machine. Test OK.
+58DC,10-Jul,13:25,Y,NZA,cas blur ,cleaning cas printer
+583E,10-Jul,17:15,N,NIC,Black line,"Replace stamp and ribbon, clean scanner and roller. Test OK. *requested by CIT"
+581A,10-Jul,16:20,Y,NIC,Black line,"Clean scanner & stamp, perform TSP. *offered 15:45. *RI"
+589E,10-Jul,15:25,N,NIC,Image small,"Clean scanner, DPM and roller, tsp. Test OK. *requested by CIT"
+58CB,10-Jul,15:16,N,NOA,No advice,branch staff unable to load paper. Hold on admin screen. Restart the CAS printer. Reinstall the advice. Tested ok.
+58D8,10-Jul,17:00,Y,NZA,CAS,Clean printer and scanner.
+582B,10-Jul,16:30,Y,NIA,Blackline,Replace stamp and clean scanner
+5842,10-Jul,17:15,Y,NIA,Crossing blur,"Replace stamp, ink roller and ribbon."
+5869,10-Jul,16:40,Y,NIC,image unclear,cleaning and calibration scanner
+5849,10-Jul,17:05,Y,NIC,"Black line, ribbon low ink","Clean scanner & stamp, perform TSP, informed diebold to replace ribbon."
+5806,10-Jul,16:30,N,NGB,Jam cheque,"no jam cheque. Ramp problem. Clean clean scanner and sensors, replace ink-roller"
+58EA,10-Jul,18:45,N,NIC,Back image,"clean scanner, smj. Stablized cable. Replaced ribbon and adjusted it. *requested by CIT"
+5820,10-Jul,20:20,Y,NBZ,Upper door lock,replaced upper door lock. *requested by CIT
+5808,10-Jul,20:45,N,NBA,Cheque jam,"Cheque jam at bin 1, the bin wire is shift. Fix bin wire and remove cheque. Test ok."
+5811,10-Jul,21:25,N,NGB,Out of service,"The feeder gate is opened, FD error. Rescrew the feeder gate and test ok. *requested by CIT"
+588A,11-Jul,11:00,Y,Request,Health heck,Replace micr head. Perform TSP.
+58CC,11-Jul,11:35,Y,Request,Health heck,"Replaec stamp, ink roller and ribbon. Clean sensor and roller."
+5806,11-Jul,9:45,N,NUD,Cheque jam,Cheque jam at aligner. Adjust the knob and clean sensors. Test ok.
+5887,11-Jul,15:40,Y,Request,Health check,replaced the CAS printer. Tested ok.
+583B,11-Jul,15:00,Y,Request,Health check,replaced the CAS printer. Tested ok.
+588E,11-Jul,10:00,N,NGB,Jammed cheque,No jammed found. Cleaned sensor F28. Serviced machine. Test Ok.
+580E,11-Jul,11:00,N,NGB,Out of service,Stamp error. Cleaned stamp sensor. Serviced machine. Test Ok.
+5874,11-Jul,12:15,N,NIB,Endorsement,replaced ribbon and adjusted it.
+58A9,11-Jul,12:50,Y,NOZ,CAS blur,No problem found on CAS printer. Ribbon shift. Reinstall ribbon.
+58B2,11-Jul,12:55,N,NOZ,jam cheque,take away a card at input slot. Service machine.
+5.80E+06,11-Jul,16:15,N,NGZ,check hqs,call atm open controller. Service machine. *requested by CIT
+58A2,11-Jul,20:55,N,NUD,Jam cheque on bin 1,adjust the cheque of bin 1. tested ok.
+5.80E+03,12-Jul,10:15,Y,Request,Upgrade application,wrong password. Need follow other disk.
+58B5,12-Jul,12:15,N,NUD,Jam cheque on bin 1,removed jam cheque. Adjust the cheque of bin 1. clean the roller of bin 1. tested ok. *follow 58E2
+5831,12-Jul,18:15,N,NUD,Jam cheque,Remove jammed cheque at escrow. Clean F8 sensor and roller.
+580E,12-Jul,18:45,N,NGB,Out of service.,clean and adjust the stamp and ink roller. Tested ok.
+5.80E+03,13-Jul,16:00,Y,Request,Upgarde,Upgrade application
+58BA,13-Jul,9:15,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.replace red belt and flat belt
+5806,13-Jul,10:00,N,NUD,Jam cheque on bin 1,adjust the cheque of bin 1. clean the sensor and Flat belt of bin 1. tested ok.
+5892,13-Jul,10:20,Y,Request,Health check,Cleaned sensors & rollers. 
+589E,13-Jul,13:55,N,NIC,Image problem,"Clean scanner, roller and DPM box, tsp. Test OK."
+5807,13-Jul,14:00,Y,NIA,Crossing & endorsement,"Replaced stamp, ink roller & ribbon. Serviced machine. Test OK."
+585C,13-Jul,13:20,N,NIB,Endorsement,Replaced ribbon. Serviced machine. Test OK.
+5867,13-Jul,14:00,Y,NIB,Low ink,Replace ribbon
+58B9,13-Jul,14:55,N,NIB,Endorsement,"Replace ribbon, tested ok"
+5882,13-Jul,14:00,Y,NIA,Black line,Replace ink roller. Clean scanner and SMJ board.
+583E,13-Jul,16:40,N,NIC,Image problem,"Clean scanner roller and DPM, tsp.Test OK."
+5884,13-Jul,17:00,Y,NIC,Black line,clean the scanner and roller. Replaced the stamp. Tested ok. *requested by CIT
+5824,13-Jul,15:40,Y,NIC,Black line ,"Cleaned the scanner, calibrated the scanner, tested ok"
+58D4,13-Jul,15:00,N,NIA,Crossing,Replaced ink roller. Serviced machine. Test OK.
+5815,13-Jul,16:10,N,NIC,Black line,Remove jammed cheque at feeder. Replace stamp. Clean scanner. 
+586D,13-Jul,15:45,N,NUD,Jammed cheque,"Remove jammed cheque at bin 1, adjusted wiring collection box."
+586D,13-Jul,16:20,N,NUD,Jammed cheque,Replaced solenoid bin 3. Serviced machine. Test OK.
+5883,13-Jul,16:20,Y,NOZ,Problem sloved by FLM,Tested ok
+586A,13-Jul,16:30,Y,Request,Upgarde,Upgrade application
+583F,13-Jul,18:45,N,NIA,No stamp,Replace stamp and clean scanner
+5883,13-Jul,21:10,Y,NUD,Previous jam cheque scanner,adjusted scanner gap.
+58C0,13-Jul,21:55,Y,NUD,Jam cheque at bin 1,check normal at bin 1. replaced stamp. *follow 5883
+5807,13-Jul,21:35,N,NOZ,Black line,NFF. Clean front scanner and recalibrate scanner. Test ok.
+5822,14-Jul,10:45,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.replace red belt and flat belt
+585C,14-Jul,9:00,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.replace red belt and flat belt
+585D,14-Jul,10:00,Y,Request,PM Check,Pm check with reference to document RI/PM/202006.replace red belt and flat belt
+589D,14-Jul,9:45,N,NUD,Jam cheque,Remove jammed cheque at feeder. Clean feeder rollers and printer.
+5897,14-Jul,10:30,Y,Request,Upgrade,Upgrade application 2.65
+5891,14-Jul,11:45,Y,Request,Upgrade,Upgrade application 2.65
+58BD,14-Jul,14:30,Y,Request,Upgrade,Upgrade application 2.65
+58C5,14-Jul,14:20,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+5872,14-Jul,11:45,N,NUD,Jam cheque,Jam cheque at escrow/collection path bin 1 trimming paper guide.
+58FE,14-Jul,12:00,N,HTP,Out of service,"Cheque jam at bin 1, the bin 1 solenoid is broken. Replace bin 1 solenoid and clean scanner. Test ok."
+58A9,14-Jul,14:00,Y,Request,Health checked,clean the CAS printer. Clean black line and stamp. Tested ok.
+58AB,14-Jul,14:00,Y,Request,Health checked,clean the CAS printer. Reload the CAS printer setting.
+58CC,14-Jul,15:15,Y,NIC,Image problem,clean the scanner and roller. Perform TSP. tested ok. *follow 58AB
+58A5,14-Jul,16:00,Y,NIA,Crossing blur,adjsut the ink roller. Tested ok. *follow 58AB
+58C9,14-Jul,13:45,Y,NIC,Black line,cleaning scanner and pressure roller
+58D4,14-Jul,14:30,Y,NIC,Black line,Cleaend scanner. Serviced machine. Test OK.
+5867,14-Jul,13:20,Y,NIC,Black line,"Cleaned the scanner, tested ok"
+5822,14-Jul,14:00,Y,NIC,Black line,Cleaned scanner. Serviced machine. Test Ok.
+5882,14-Jul,13:45,Y,NIC,front blackline,cleaned it and stamp.
+5824,14-Jul,14:20,Y,NIC,Black line,"Clean scanner, stamp and roller. Test OK."
+5887,14-Jul,15:10,Y,NIA,Crossing blur,Clean & adjust stamp gap
+5808,14-Jul,14:55,Y,NZA,Out of service,"Cleaned CAS printer, tested ok"
+5872,14-Jul,16:00,N,NUD,Jam cheque at scanner,removed cheque at scanner. adjust gap.
+58FD,14-Jul,16:15,Y,Request,Upgrade,Upgrade application 2.65
+5891,14-Jul,16:10,Y,Request,Search cheque,"No cheque found,Upload log"
+58B7,14-Jul,17:15,Y,NUD,Jammed cheque,"Reject cheqeue at scanner, tested ok"
+5828,14-Jul,18:00,N,NOZ,Out of service.,machine normal. Clean and adjust the CAS printer. Tested ok.
+5803,14-Jul,18:45,N,NIA,No crossing. ,replaced the stamp.clean the scanner. Tested ok.
+581B,14-Jul,19:25,Y,NOZ,Out of service.,machine normal. Clean and adjust the CAS printer. Tested ok.
+5879,14-Jul,20:30,N,NIC,black line,clean scanner and stamp
+5825,14-Jul,21:45,N,NIC,black line,clean scanner and stamp *requested by CIT
+5887,14-Jul,22:15,N,NIC,image problem,clean and celibrate scanner *RI
+5845,15-Jul,10:30,Y,Request,Pm Check,Pm check with reference to document RI/PM/202007.
+585E,15-Jul,11:05,Y,Request,Pm Check,Pm check with reference to document RI/PM/202007.
+585F,15-Jul,11:45,Y,Request,Pm Check,Pm check with reference to document RI/PM/202007.
+580B,15-Jul,10:45,Y,Request,Health Check,"Replace card reader, clean sensor and roller. Test OK."
+58C6,15-Jul,10:15,Y,HCR,Jam card,Replace card reader. Clean scanner. *RI
+5.80E+05,15-Jul,12:00,Y,NIA,Crossing blur,adjust stamp and ink roller postion
+5811,15-Jul,13:00,N,NIB,Endorsement,Replaced ribbon. Serviced machine. Test OK.
+58D4,15-Jul,12:45,N,NIC,Front blackline,cleaned it and stamp.
+5867,15-Jul,12:30,N,NIA,Black line,"ink roller melted,cannot provide ink roller,follow up by atm"
+58C9,15-Jul,12:45,N,NIC,Black line,"Cleaned the scanner, tested ok"
+58C1,15-Jul,13:20,Y,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+58B7,15-Jul,16:30,Y,NIB,No back endorsement,Ribbon is no ink. Replace ribbon and clean scanner. Test ok. *follow 58AF
+58CB,15-Jul,14:30,N,NIC,Black line,Clean front scanner and recalibrate scanner. Test ok.
+5839,15-Jul,14:45,Y,NIC,Black line,"Clean back scanner and roller, tsp. Test OK."
+589C,15-Jul,14:30,Y,NIC,Black line,Clean scanner. Adjust scanner gap.
+5873,15-Jul,15:30,Y,NIC,Black line,clean scanner and roller. Tested ok. *follow 58F1
+58F1,15-Jul,14:45,Y,NIC,Black line,clean scanner and roller. Tested ok.
+58C8,15-Jul,15:45,Y,NIB,Endorsement,Perform TSP. Clean scanner. *follow 589C
+5818,15-Jul,15:15,Y,NIB,Endorsement,clean scanner TSP. Adjust endorsement.
+58AF,15-Jul,15:15,N,NIC,Black line,Clean front scanner and recalibrate scanner. Replace ribbon and fix feeder gate. Test ok.
+5824,15-Jul,19:45,N,NGA,CQM no power ,replaced the main power fuse. Tested ok.
+5807,15-Jul,21:30,Y,NIC,Black line,cleaning scanner and adjust stamp
+5822,16-Jul,9:00,Y,NIA,No crossing,Adjust ink roller. Clean sacnner.
+584A,16-Jul,10:00,Y,Request,Health check,Cleaned sensors & rollers. 
+587E,16-Jul,11:40,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+584E,16-Jul,10:35,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+584C,16-Jul,9:20,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+584D,16-Jul,10:00,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+5844,16-Jul,9:05,Y,NIC,Black line on front image,"Clean scanner, replace stamp"
+58FE,16-Jul,10:05,N,NZA,Jam advice,removed jam advice. Clean printer.
+5870,16-Jul,10:30,N,HTP,Out of service,Remove jammed cheque at feeder. Replaced O-ring. Serviced machine. Test OK.
+5.80E+08,16-Jul,12:45,Y,NBA,Cover lock is broken,Replace cover lock and clean scanner. Test ok. *requested by CIT
+58DC,16-Jul,11:15,Y,NZA,CAS blur,Need follow to replace CAS printer
+5890,16-Jul,12:50,N,NGB,Out of service,stablized and cleaned F6. *follow 5824
+5824,16-Jul,11:15,N,NGA,No power,checked wall socket have problem.  Power resume normal.
+585A,16-Jul,13:15,Y,NZA,CAS Continuous Paper Out ,Clean printer sensor and printer head. Reinsert cas.
+58DC,16-Jul,12:25,Y,HCA,CAS blur,"Replace printer, clean scanner and roller. Test OK."
+5844,16-Jul,12:50,Y,NIB,Endorsment problem,"Asjut test priner gap, clean scanner and roller. Test OK."
+58D4,16-Jul,13:55,Y,NIC,Black line,Cleaned scanner & stamp. Serviced machine. Test OK
+5848,16-Jul,13:50,Y,NIC,Image problem,clean scanner TSP.
+58DF,16-Jul,14:45,Y,NOZ,Black line,NNF. cleaning scanner and scanner roller
+58B8,16-Jul,14:00,N,NGB,Out of service,"jam a paper bit into d.d.sensor,remove"
+5807,16-Jul,15:20,Y,NOZ,Black line,NFF. cleaning scanner and adjust stamp *follow 58B8
+58BA,16-Jul,15:10,Y,NIC,image bright,clean and celibrate scanner
+5817,16-Jul,16:30,N,NIC,black Image,Clean scanner and recalibrate scanner. Test ok. *offered 15:30
+58AA,16-Jul,16:00,Y,NIA,Crossing,Clean scanner and replace stamp *offered 15:30
+58D6,16-Jul,16:40,Y,NIC,Blackline on endorsement,"Clean scanner, pressure roller. *offered 15:30"
+5806,16-Jul,16:00,Y,NIC,Black line,clean scanner and roller. Tested ok.
+5872,16-Jul,16:45,Y,NIA,Black line,"Replace stamp plate, tested ok"
+5861,16-Jul,17:00,Y,NIC,Black line,Clean scanner and stamp.
+58C2,16-Jul,19:20,Y,NIB,Endorsement blur,"Adjust the metal sheet, tested ok. *offered 17:15"
+580A,16-Jul,18:10,Y,NIC,Black line,cleaning scanner and replace stamp
+5820,16-Jul,18:30,Y,NIB,No endorsement,"Replace ribbon, tested ok"
+583B,16-Jul,18:55,Y,NIC,Black line,cleaning scanner and adjust ink roller
+5848,16-Jul,20:30,Y,NIC,Black line,"Calibrated the scanner, tested ok"
+58DF,16-Jul,21:00,Y,NIA,Black line,cleaning scanner and replaced ink roller
+5846,16-Jul,22:20,N,NGC,Idle,"stopped at BIOS.  Restart PC, tested ok"
+582E,17-Jul,10:30,Y,NOZ,No problem found,Clean scanner and replace stamp.
+5879,17-Jul,10:15,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+5878,17-Jul,9:45,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+5877,17-Jul,9:15,Y,Request,PM Check,Pm check with reference to document RI/PM/202007.
+583C,17-Jul,9:35,N,NGB,"Feeder sensor engaged, no jam","Clean sensor, adjust feeder pad"
+580E,17-Jul,10:40,N,NUD,Cheque jammed at eject slot,"Remove cheque, Rescrew pulley behind pressure roller. *offered 10:00"
+58A2,17-Jul,9:15,N,NUA,Out of service,No poling closed. Checked log card reader problem. Clean card reader. Tested ok.
+58AB,17-Jul,11:00,Y,Request,Upload log,Upload logs
+5824,17-Jul,9:00,Y,NGA,No power,Electrician reconnect power cable and fixed cable position.  Test OK.
+58CF,17-Jul,11:45,Y,NZA,Cannot detect CAS roll,Clean & adjust CAS roll detector
+58B9,17-Jul,15:00,N,NIC,Image problem,"Replace stamp, clean scanner and roller, tsp. Test OK."
+584E,17-Jul,13:50,Y,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+58DF,17-Jul,14:35,Y,NIB,Black line,Ribbon ink leakage. Replaced ribbon. Cleaned scanner. Serviced machine. Test OK.
+587B,17-Jul,12:55,Y,NIC,Black line,Clean scanner. Perform TSP.
+5897,17-Jul,13:00,N,NIC,Image small,Cleaned scanner. Perform TSP. Serviced machine. Test OK.
+5891,17-Jul,11:30,N,NZA,CAS jam,Clean CAS printer and clean scanner. Clean printer roller and test ok.
+5839,17-Jul,14:00,Y,HPE,Image problem,"Replace pressure roller, clean scanner, tsp. Test OK."
+58B5,17-Jul,14:45,Y,NIC,Both side image,clean scanner TSP.
+58B6,17-Jul,15:45,Y,NIA,crossing,replace stamp
+58B2,17-Jul,15:15,N,NUA,Reject cheque,Replaced belt (MICR). Cleaned roller. Serviced machine. Test OK.
+5869,17-Jul,15:45,N,NIC,Black line,cleaning and calibration scanner
+5806,17-Jul,15:50,Y,NIA,No crossing little blur,adjust the ink roller roller. Clean F8 sensor. Tested ok.
+58B3,17-Jul,16:45,Y,NBA,Jammed cheque,"Check collection box, adjust thicknes adjuster. Test OK."
+5835,17-Jul,21:20,N,NUD,Jam cheque at scanner,"adjust scanner gap position,Test ok. *offered 16:15"
+584F,17-Jul,20:45,Y,NIA,Crossing incomplete,replaced stamp plate and ink roller. *requested by CIT
+585B,17-Jul,19:00,Y,NIC,Black line,"Replace ink roller and stamp plate, test ok"
+583C,17-Jul,18:50,N,NBA,Can't insert cheque box,replaced cheque box wiring and adjust cheque box rail
+5866,17-Jul,19:25,Y,NUA,Reatain card,"machine arrived normal,check log missing 24v at cuttoff ,checking upper door lock and cleaning card reader"
+58A9,17-Jul,20:40,N,NUA,Autoreset,"Remove admin card, tested ok"
+5824,17-Jul,21:40,Y,NIB,No endorsement,"Adjust text print head, tested ok"
+5897,18-Jul,9:45,Y,Request,Health check,Cleaned sensors & rollers. Replaced O-ring (thickness adjustor shaft). 
+5848,18-Jul,11:30,Y,Request,Health Check,"Check printer and setting, clean sensor and roller, adjust thickness adjuster. Test OK."
+5869,18-Jul,10:00,Y,Request,Health Check - CAS,"Replace CAS printer, tested ok"
+583F,18-Jul,11:25,Y,Request,Health Check,"Replace stamp plate and Ink roller, tested ok"
+58B5,18-Jul,9:20,N,NIC,Back image,adjusted scanner gap.
+5820,18-Jul,10:10,N,NUD,Jammed cheque,"Remove cheque near in scanner, replace ribbon, clean roller. Test OK."
+5844,18-Jul,12:30,N,NBA,Can't insert cheque,Fix the bin wire and clean scanner. Test ok.
+5869,18-Jul,16:00,N,NIC,image rear bright,adjust rear gain density *offered 14:00
+5824,18-Jul,15:40,N,NIB,endorsement blur,clean scanner and roller. Replaced ribbon. Adjust the endorsement gate.
+5893,18-Jul,18:15,N,NGB,Out of service,"Cleaned sensor (DD1), tested ok"
+5806,18-Jul,18:40,N,NUD,Jam cheque at scanner.,jam cheque at scanner. Adjust the scanner gate. Clean the scanner belt and red belt. Tested ok.
+5806,19-Jul,10:00,Y,Request,health checked,"replaced the o-ring of collection box X 5, pressure roller, Feeder roller and scanner belt. Tested ok."
+58C9,19-Jul,12:20,Y,NUB,open gate can't open.,adjust the solenoid cable of open gate. Tested ok. *requested by CIT
+5839,19-Jul,12:30,Y,NBZ,can't open bar lock,replaced bar lock *requested by CIT
+58B5,19-Jul,14:30,N,NUD,Beep sound,"jam cheque at feeder pad,remove jam cheque ,Test ok"
+5819,20-Jul,10:35,Y,Request,PM Checked,PM checked
+5823,20-Jul,11:20,Y,Request,PM Checked,PM checked
+5802,20-Jul,9:05,Y,Request,PM Checked,PM checked. Replaced ink roller and stamp
+5808,20-Jul,9:40,Y,Request,PM Checked,PM checked. Replaced ink roller and stamp
+58AC,20-Jul,11:00,Y,Request,health checked,Replaced the stamp and roller. Clean black line. 
+58CB,20-Jul,12:45,Y,Request,health checked,Health checked.
+5845,20-Jul,10:15,Y,NZA,Card reader,Actual: CAS jammed. Reinsert CAS. Serviced machine. Test OK.
+583C,20-Jul,11:30,N,NUD,Jammed cheque at bin 1 entrance,"Remove cheque, adjust bin 1 ejection roller"
+5803,20-Jul,12:15,Y,Request,Health Check,"Replace o-ring, flat belt, adjust feeder plate and thickness adjuster, clean sensor and roller. Test OK."
+588E,20-Jul,11:30,Y,Request,Health Check ,Clean F20 senosrs and fix the ribbon metal film. Rescrew bend belt and test ok.
+5837,20-Jul,12:05,N,NGB,Sensor engaged,"Clean sensor, update OCX"
+58B2,20-Jul,12:15,N,NUB,Can't insert cheque,Cleaned feeder roller. Serviced machine. Test OK.
+5869,20-Jul,13:30,N,NIC,Image blur,Clean scanner and recalibrate scanner. Replace ribbon and test ok.
+5824,20-Jul,13:50,N,NIB,Endorsement blur,"Replace ribbon, adjust test printer gap, clean scanner. Test OK."
+5808,20-Jul,14:15,N,NUD,Cheque jam,Fix the bin 1 solenoid and clean scanner. Test ok.
+581D,20-Jul,14:45,Y,NUD,Jam cheque at aligner,Service machine
+58B2,20-Jul,14:00,N,NUB,Out of service,MICR problem. Need follow up.
+586B,20-Jul,13:45,Y,NOZ,Out of service,Machine normal. Serviced machine. Test OK. 
+5893,20-Jul,14:30,N,NGB,Out of service,Clean F28.
+5837,20-Jul,15:15,N,NUD,Out of service,Removed jam cheque at bin 1. adjust bin 1 roller.
+58B4,20-Jul,16:15,N,NUD,jam cheque,"jam at bin 1, remove cheque"
+58F0,20-Jul,16:30,N,NUD,Cheque jam,Stamp is loosen. Rescrew stamp and clean scanner. Test ok.
+5828,20-Jul,19:20,N,NUD,Jam cheque at bin 1,adjust bin 1 flat belt
+58B7,20-Jul,19:40,Y,HPE,endorsement,"replace ribbon motor, clean roller and scanner"
+58C5,20-Jul,21:25,N,NUD,jam cheque at scanner,"scanner not closed,Fix screw"
+5891,21-Jul,12:30,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. replaced stamp and ink-roller
+58B8,21-Jul,10:00,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. replaced stamp and ink-roller
+58C9,21-Jul,11:15,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. replaced stamp and ink-roller
+58EC,21-Jul,9:15,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. replaced stamp and ink-roller
+5802,21-Jul,9:10,Y,NBZ,Cover lock problem,Replace cover lock and test ok.
+58AB,21-Jul,11:45,Y,Request,health checked,"Clean the sensor, roller of CAS printer. Tested ok."
+5880,21-Jul,10:00,N,NIC,Small image,clean scanner and roller. TSP. tested ok.
+5891,21-Jul,12:30,Y,NZA,CAS,remove jam advice. *follow PM
+585D,21-Jul,13:20,N,NGB,Out of service,Adjust input block. Can't back flush. Clean feeder roller and sensor.
+5848,21-Jul,14:15,Y,NGC,Out of service,"machine arrived normal,check log image not arrived,check DPM lan cable"
+58C9,21-Jul,13:25,N,NGB,out of service,fix feeder plate and f29
+5800,21-Jul,15:00,Y,NUD,Cheque jam,Fix the bin 2 solenoid and clean scanner. Test ok.
+583F,21-Jul,14:20,Y,NIC,Black line on rear,"Cleaned scanner roller, tested ok"
+581A,21-Jul,15:00,Y,NIC,Black line,"Adjust ink roller gap, tested ok"
+58D9,21-Jul,16:50,N,NIC,Image small,adjust front scanner cable and calibration scanner. *follow 5848
+5871,21-Jul,15:00,Y,NIC,Black line & CAS,"Cleaned scanner, remove jammed CAS. Serviced machine. Test OK."
+5.80E+06,21-Jul,15:10,Y,NZA,printer sensor dirty,clean printer sensor
+580B,21-Jul,15:30,Y,NZA,No cas,"cleaning cas printer sensor,Test ok"
+5818,21-Jul,14:55,N,NUD,Jam cheque at scanner,removed culved cheque. Make ramp smooth.
+58BB,21-Jul,16:00,Y,NIC,Endorsement,Cleaned scanner. Adjusted rear offset. Serviced machine. Test OK.
+583C,21-Jul,15:40,N,NUD,Jam cheque,Remove jammed cheque at bin 4. Adjust bin roller and box wire.
+5807,21-Jul,15:55,Y,NIC,Back blackline,clean it and ribbon and pressure roller.
+58A5,21-Jul,16:20,N,NZA,Jam advice,Clean the CAS printer. Tested ok.
+58F0,21-Jul,20:40,N,NGB,Out of service,Clean F8 sensor. *requested by CIT
+5858,21-Jul,16:00,N,NIC,Image blur,Clean scanner and recalibrate scanner. Replace ribbon and test ok.
+5888,21-Jul,17:05,Y,NIC,Black line,"Cleaned the scanner, tested ok"
+5806,21-Jul,19:00,Y,NIB,No endorsement,Adjust ribbon. Perform TSP. *requested by CIT
+5.80E+01,21-Jul,18:05,Y,NIC,Black line on both image,Clean scanner & stamp
+5869,21-Jul,21:30,N,NIB,Endorsement unclear,"Adjust printer gap, replug cable. *offered 18:00"
+58FE,21-Jul,19:45,N,HTP,Out of service,Replace yellow belt and bend screw. *requested by CIT
+58AE,21-Jul,20:45,Y,NIA,crossing blur and black line,"Replace stamp, clean scanner. *requested by CIT"
+58D2,21-Jul,21:45,Y,NIA,No crossing,Replace stamp and ink roller. *RI
+583F,22-Jul,11:00,Y,Request,Health check,Replace scanner
+5.80E+05,22-Jul,11:55,Y,Request,Health check,Replace CAS printer
+58B3,22-Jul,9:30,Y,NIC,Black line,"Cleaned the scanner, tested ok"
+5803,22-Jul,12:00,N,NUD,Jammed cheque,"Cleaned sensor (F6), adjust solenoid (Aligner), tested ok *offered 09:15"
+5846,22-Jul,10:00,N,NOA,Out of service.,cut off problem. Cut of heading. Clean scanner. Tested ok.
+58B4,22-Jul,10:30,Y,Request,Healthcheck,replace stamp and ink-roller
+5822,22-Jul,11:55,Y,Request,Healthcheck,replace stamp and ink-roller
+5869,22-Jul,10:45,Y,Request,Health Check ,Health Check - Replace 024 board and replace stamp. Test ok.
+584D,22-Jul,12:30,Y,Request,Health Check ,"cleaning and adjust F1,F2,F29 sensor,Test ok"
+585C,22-Jul,11:30,N,NUD,jam cheque,clean roller and scanner
+58EE,22-Jul,11:55,Y,NOZ,screen color problem,"Replug DVI conventor,Test ok"
+585B,22-Jul,16:30,Y,NIB,endorsement,clean and calibrate scanner. *follow 5891
+5859,22-Jul,16:40,N,NZA,CAS jam,"Check printer and setting, clean sensor and roller. Test OK. *requested by CIT"
+5891,22-Jul,15:00,Y,NZA,CAS jam,clean Printer
+5837,22-Jul,15:40,Y,NIB,Endorsement blur,"Adjust dot matrix printer gap, perform TSP"
+588D,22-Jul,15:20,N,NIC,Image small,Clean front scanner and recalibrate scanner. Test ok.
+584D,22-Jul,15:00,Y,NIB,Endorsement blur,Replaced ribbon cartiage
+5892,22-Jul,15:50,Y,NIC,black line,clean scanner
+58A9,22-Jul,15:15,Y,NIC,Black line,clean scanner and roller. Tested ok.
+585C,22-Jul,15:45,Y,NUB,Reject cheque,Adjusted thickness adjustor. Serviced machine. Test OK.
+5822,22-Jul,16:00,Y,NIB,Black line,Ribbon ink leak. Cleaned scanner. Replaced ribbon. Serviced machine. Test OK.
+582F,22-Jul,16:25,Y,NIC,Black line,Clean scanner. Replace ribbon. Perform TSP.
+58C0,22-Jul,16:30,Y,NIC,Black line on front image,Clean scanner & stamp
+5803,22-Jul,16:45,N,NGB,Jammed cheque,"Cleaned sensor (DD1, DD2), tested ok"
+5830,22-Jul,19:05,Y,NGC,Flash display,restart pc. *requested by CIT
+58AF,22-Jul,18:55,N,NIA,Crossing blur,"Replace stamp, clean scanner and roller. Test OK. "
+5821,22-Jul,18:20,Y,NIC,Both blackline,cleaned them and ribbon and stamp.
+58D2,22-Jul,20:20,Y,NIC,Front scanner back line,"Clean front scanner and roller, adjust ink roller. Test OK."
+5803,22-Jul,21:30,N,NUD,jammed cheque,"Check feeder plate, feeder solenoid  and cable. Test OK. *RI"
+58A9,22-Jul,21:15,N,NIA,Front crossing and image,adjusted crossing and replaced ink roller. Clean scanner TSP.
+585B,22-Jul,22:20,N,NOZ,Back image,checked normal. Stablized scanner cable.
+58B3,23-Jul,9:15,Y,NIB,No endorsement,adjusted it.
+584C,23-Jul,10:45,Y,Request,Search cheque,No cheque found. Test OK.
+5.80E+06,23-Jul,11:30,N,NZA,No CAS,insert advice
+58A7,23-Jul,15:15,Y,HTP,Out of service,Replace bend belt. Clean scanner.
+5821,23-Jul,13:30,N,NUD,Jam cheque at bin 1,exchanged bin 1 and 3 solenoid.
+58C9,23-Jul,14:45,N,NUD,Jam cheque at feeder,"Remove cheque, adjust thickness gap, fix endorsement blur"
+58B4,23-Jul,14:45,N,NUD,CQ JAM,Remove jam cheque at escrow. Tested ok.
+58B8,23-Jul,15:05,Y,NOZ,No problem found of image,"Clean scanner, tested ok"
+5837,23-Jul,15:30,Y,NIC,Image bright,Cleaned scanner. Perform TSP. Serviced machine. Test OK.
+58D6,23-Jul,15:15,Y,NIA,Crossing blur,Replace ink roller. Test ok.
+5817,23-Jul,16:20,Y,NIC,Front scanner black line,"Clean front scanner and roller, tsp. Test OK. *follow 4C28"
+58B5,23-Jul,15:25,Y,NIA,No crossing,adjusted it.
+58C0,23-Jul,16:00,Y,NIC,Black line ,Clean scanner. Serviced machine. Test OK.
+58F1,23-Jul,16:30,Y,NIC,Black line,clean scanner and roller. Tested ok.
+588A,23-Jul,16:00,Y,NIA,Crossing blur,adjust the ink roller(no ink roller to replace). Tested ok.
+586C,23-Jul,15:30,N,NIC,Black line,Rescrew stamp and rescrew ink roller. Clean scanner and test ok.
+5821,23-Jul,16:25,Y,NIA,Crossing blur,"Replace stamp, clean scanner"
+5820,23-Jul,17:15,Y,NIA,Crossing blur,"Replace stamp, clean scanner. *RI"
+5822,24-Jul,9:35,Y,NOZ,Back blur,NFF. cleaned scanner TSP. Adjusted endorsement.
+585C,24-Jul,9:05,Y,HPE,Endorsement blur,adjusted it. Clean scanner TSP. Replaced pressure roller.
+585D,24-Jul,10:00,Y,HPE,Endorsement blur,adjusted it. Replaced pressure roller.
+58A5,24-Jul,11:30,Y,Request,check bar lock,bar lock broken. Replaced the bar lock. Tested ok.
+58CA,24-Jul,15:55,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007.
+58FD,24-Jul,9:00,Y,NIA,No stamp,Rescrew ink roller and clean scanner. Test ok.
+5826,24-Jul,11:20,N,NUD,Cheque jam,"Double feed, do AT to reset double detector and remove cheque. Test ok."
+588D,24-Jul,12:40,N,NUB,Can't insert cheque,Adjust thickness adjuster. Test OK.
+587F,24-Jul,14:20,Y,NOA,endorsement,reinstalled ribbon
+580E,24-Jul,15:20,N,NUD,Jammed cheque,"Adjust pulley (bend), tested ok"
+585D,24-Jul,15:00,Y,NOZ,No endorsement,NFF. replaced ribbon and adjusted it.
+5814,24-Jul,16:55,N,NIC,Black line,Clean scanner. *offered 15:15
+58A2,24-Jul,15:20,N,NIC,Small image,clean scanner and roller. TSP. removed the jam at aligner. Tested ok.
+58D3,24-Jul,15:00,Y,NIC,Image incomplete,"Cleaned scanner, adjusted stamp. Serviced machine. Test OK."
+5833,24-Jul,16:15,Y,NIA,Crossing blur,Replaced the ink roller. Tested ok.
+58B3,24-Jul,15:40,Y,NIC,Front scanner back line,"Clean the front scanner and roller, tsp. Test OK."
+58BC,24-Jul,16:55,Y,NIA,No front crossing,"Replace stamp plate, tested ok"
+5816,24-Jul,16:45,N,NUA,Card reader,Clean card reader and scanner.
+58CC,24-Jul,19:00,N,NUD,jam cheque,"jam at sorter due to unlock bar, locked bar"
+58B5,24-Jul,20:00,N,NGB,jam cheque,"FFFFFFFD shown, clean feeder sensors"
+58B5,24-Jul,21:30,N,NGB,out of service,"adjust feeder gate, adjust text print head, replace ribbon, tested ok."
+5869,25-Jul,9:30,N,HPE,endorsement blur(sometime),replaced the 024 board and motor. Tested ok.
+5867,25-Jul,9:30,N,NGB,out of service due to lift ko,clean sensor and adjust roller. Update kslimage.ocx.
+58AB,25-Jul,11:50,Y,Request,Health Check ,"Replace belt 351, bend belt, o-ring(bin), o-ring(knob) and Replace printer(repaired). Test ok."
+58DB,25-Jul,14:45,N,NUD,jam cheque,take away fold cheque at aligner. Service machine
+5844,27-Jun,15:35,Y,NIC,Black line on front image,Clean scanner & stamp
+5851,26-Jul,16:25,N,NZA,CAS jam,"Remove CAS, check printer and setting, clena sensor and roller. Test OK."
+58DB,26-Jul,19:30,Y,NIB,Endorsement blur,"Replace ribbon, adjust test printer gap, clean roller. Test OK."
+58A2,27-Jul,11:20,N,NZA,jam advice,clean roller. Cutter and print head. Staff power off the machine. Power on the CQM. Clean scanner and roller of bin 1. tested ok.
+585C,27-Jul,12:00,N,NGZ,Idle,check lan. Full reset polling.
+587F,27-Jul,13:15,Y,NIC,black line,clean scanner
+5807,27-Jul,13:15,Y,NIC,Back blackline,cleaned it and ribbon and pressure roller.
+5824,27-Jul,14:00,N,NIC,Black line,Replace ribbon and clean scanner.
+58A3,27-Jul,14:00,Y,NUD,Out of service.,machine normal. Checked log. Jam cheque at bin 1. removed by staff. Clean the roller of bin 1. tested ok.
+58EC,27-Jul,14:40,N,NUD,jam cheque,"jam at stamp and ramp, clean scanner and ramp and sensors"
+5869,27-Jul,16:20,N,NIC,Black line,Clean scanner and recalibrate scanner. Rescrew red belt and test ok. *offered 15:15
+5883,27-Jul,15:15,Y,NOZ,Black line,"No problem found on image, clean scanner & stamp"
+58AD,27-Jul,18:45,Y,NIC,Image small,Cleaned scanner. Perform TSP. Serviced machine. Test Ok.
+5837,27-Jul,19:25,N,NGB,Out of service. sensor dirty,"Clean sensor F'10', fix collection box no fully open, tested ok."
+5856,28-Jul,9:45,N,NIB,No endorsement,adjust printhead
+58C2,28-Jul,15:50,Y,Request,Health check,checking ramp gate and scanner 
+58FD,28-Jul,9:20,Y,NOA,Out of service.,Machine normal. Can't insert card. Reboot the PC. Clean the card reader. Tested ok.
+58A3,28-Jul,10:40,N,NGB,Out of service.,Clean the F10 sensor. Tested ok.
+5838,28-Jul,10:50,Y,NZA,CAS problem,clean printer
+585D,28-Jul,11:30,N,NUA,"Out of service, CAS, card reader",Actual: Can't insert card. Restarted PC & machine. Serviced machine. Test OK.
+58F1,28-Jul,13:45,Y,NIC,Black line,cleaning scanner and replaced stamp plate
+5873,28-Jul,14:40,N,NIC,Black line,Clean scanner and recalibrate scanner. Test ok. *requested by CIT
+5807,28-Jul,13:15,Y,NIB,Black line,Actual: Ribbon leakage. Action taken: Cleaned scanner. Replaced ribbon. Serviced machine. Test Ok.
+584E,28-Jul,14:00,Y,NIC,Black line,Actual: Scanner dirty. Action taken: Cleaned scanner. Serviced machine. Test Ok.
+587D,28-Jul,14:00,Y,NIC,balck line,"clean scanner, replace stamp"
+5891,28-Jul,16:15,Y,Request,Health check,Action taken: Replaced CAS printer. Adjusted ramp gate solenoid. Cleaned sensors. Test Ok.
+582A,28-Jul,18:20,N,NBA,Bin problem,Replace bin wire and clean scanner. Test ok.
+58AA,29-Jul,10:20,Y,Request,Health check,"Action taken: Cleaned sensors, adjusted ramp gate solenoid. Tighten red belt. Test Ok."
+58B4,29-Jul,9:45,Y,Request,Health check,Action taken: Cleaned sensors and rollers. Swap solenoid bin 1 & bin 3. Serviced machine. Test OK.
+58AF,29-Jul,11:00,Y,NIB,CAS blur,"CAS printing is clear, the ribbon is no ink. Replace ribbon and clean scanner. Test ok. *requested by CIT"
+58B9,29-Jul,9:45,N,NGB,Jam cheque,"""FFFD"",adjust feeder gate ,Test ok"
+58C7,29-Jul,14:20,Y,NUB,Unable to scan cheque,Actual: Feeder sensor is dirty. Action taken: Cleaend sensors. Serviced machine. Test OK. *requested by CIT
+585B,29-Jul,13:15,N,NUD,Can't insert cheque & OOS,Actual: Roller is dirty & Jammed cheque. Action taken: Cleaned rollers. Remove jammed cheque  at scanner. Replaced ribbon. Serviced machine. Test OK.
+581C,29-Jul,14:15,N,NIC,Black line,The front scanner is dirty. Clean scanner and rescrew ink roller. Test ok.
+58CA,29-Jul,15:40,N,NUD,out of servie,"F6 sensors dirty, clean sensors and scanner, replace stamp"
+5884,29-Jul,15:15,N,NGB,Out of service,Sensor F6 is dirty. Clean sensor F6 and clean scanner. Test ok.
+5854,29-Jul,16:30,Y,NIC,Image small,DO TSP. service machine
+58A6,29-Jul,15:45,Y,NIA,Crossing incomplete,Replaced stamp plate
+587E,29-Jul,16:15,Y,NIA,crossing,Replace stamp. Test ok
+580C,29-Jul,16:45,Y,NIC,Black line,"cleaning scanner,stamp and adjust ink roller"
+58C7,29-Jul,17:15,N,NUD,Jammed cheque,Action taken: Remove jammed cheque at escrow. Adjusted roller (escrow). Serviced machine. Test OK.
+5.80E+03,29-Jul,19:40,Y,NIC,Image brighten,"Clean scanner, perform TSP"
+58DC,29-Jul,20:00,Y,NIA,Crossing blur,Replace stamp
+5870,30-Jul,9:40,Y,HCA,CAS blur,Replace printer. Test ok.
+58FE,30-Jul,9:10,N,NGB,Out of service,Feeder Sensor F29 is loosen. Fix the sensor F29 and clean scanner. Test ok.
+5.80E+10,30-Jul,10:50,Y,Request,Search cheque,"No missing cheque was found, upload logs"
+58EA,30-Jul,10:50,Y,Request,Search cheque,"No missing cheque was found, upload logs"
+5.80E+10,30-Jul,13:30,Y,NOZ,Out of service,No problem found
+5821,30-Jul,14:00,N,NIB,No endorsement,"Replace ribbon, replug onboard lan cable"
+5856,30-Jul,14:30,N,HSC,Black line,Actual: Scanner roller melted. Action taken: Replaced scanner. Serviced machine. Test OK.*RI
+58A1,30-Jul,16:40,N,NGB,F29 sensor engaged,"No jammed cheque, clean sensor, replace stamp"
+585D,31-Jul,10:30,N,NGC,stamp motor failure out of service,clean sensor.
+58B9,29-Jul,19:55,N,NGC,Out of service,adjusted input block elasticity.
+5826,29-Jul,17:45,Y,NIA,Crossing blur,replaced ink roller.
+5858,29-Jul,16:45,N,NIB,Endorsement blut,replaced pressure roller. Clean scanner TSP. Replaced ink roller.
+5884,29-Jul,10:50,Y,NUB,Reject cheque,clean the double detector. Tested ok.
+58FE,29-Jul,15:20,Y,NIA,Crossing blur.,replaced and adjust the ink roller. Tested ok.
+58FE,30-Jul,21:20,Y,NBA,Collection box lose screw,reinstall the screw. Clean scanner and roller. Tested ok.
+5821,30-Jul,17:45,N,NGC,out of service,replaced the LAN cable. Fixed the problem. 
+5827,30-Jul,18:10,Y,NIB,endorsement blur,replaced the ribbon. Adjust the image. Tested ok.
+580E,30-Jul,18:40,Y,NIA,Crossing blur,replaced stamp. Tested ok.
+5864,30-Jul,14:45,Y,NIC,Black line.,clean scanner and roller. Tested ok.
+581A,30-Jul,15:30,Y,NIC,Black line. ,clean scanner and roller. Tested ok.
+5.80E+03,30-Jul,16:00,Y,NIC,Small image,clean scanner and roller. TSP. tested ok.
+583D,30-Jul,16:30,Y,NIA,No crossing,replaced the stamp. Tested ok.
+585A,31-Jul,15:30,Y,NIC,Image blackline,Clean scanner and perform TSP.
+5897,31-Jul,15:10,Y,NOZ,search log,search and upload logs.
+4C4A,01-Jul,16:05,Y,NGB,Out of service,Clean F9 sensor. Tested ok.
+4C41,01-Jul,15:30,Y,Request,DPM can't transport track out.,no problem find. 
+4C82,01-Jul,12:25,Y,Request,Health checked,ESU update.
+4C3D,01-Jul,13:05,Y,Request,Health checked,ESU update.
+4C18,01-Jul,17:00,N,Request,Health Check ,"clean printer sensor, print head, scanner."
+4C72,01-Jul,12:30,Y,NIA,crossing and endorsement,Replace ink roller. Clean scanner. Perform tsp.
+4C21,01-Jul,13:10,N,NGB,out of service,Clean F5. clean printer. Adjust collection box.
+4C32,01-Jul,12:20,Y,NIA,No crossing,replaced stamp and cleaned printer.
+4C96,02-Jul,11:15,N,NUD,out of service,"jam cheque at ramp, clean sensors"
+4C81,02-Jul,9:45,N,NGB,out of service,Adjusted sensor F10. Serviced machine. Test OK.
+4C02,02-Jul,10:00,Y,NIB,Endorsement,Replace ribbon and adjust print head gap.
+4C21,02-Jul,10:00,N,NGB,out of service,clean F9. adjus printer density -37.
+4C58,02-Jul,11:40,N,NUD,Jam cheque at collection,collect cheque and adjust 380 (L8) belt
+4DA3,02-Jul,12:35,N,NGB,out of service,"FFFFFFFD, adjust input gate, clean scanner and roller. Test OK."
+4C45,02-Jul,14:00,N,NUD,Jammed cheque,"place flat belt (351), cleaned sensor (F6, F19 ,F11), tested ok"
+4C12,02-Jul,17:00,N,NGB,Out of service,"image not arrived,replug lan cable and replaced collection o ring"
+4C28,02-Jul,17:15,N,NUD,Jam cheque at bin 2,removed culved cheque. Make ramp smooth due to previous jam.
+4C18,03-Jul,10:00,N,NBZ,Front door,Fixed the upper door lock. Serviced machine. Test OK.
+4C02,03-Jul,11:00,N,HPE,Endorsement,"Adjust wire (scanner), replace flat belt (bend), cleaned sensor (F11), tested ok"
+4C28,03-Jul,9:55,N,NUD,Jammed cheque at aligner,"Adjust solenoid (aligner), tested ok"
+4C4E,03-Jul,10:45,Y,Request,Health check,"Upper door difficult lock,machine check normal"
+4C3E,03-Jul,9:30,Y,Request,Health check - CAS feed inside,"cleaning cas cutter,renew cas"
+4C42,03-Jul,10:30,N,Request,Search cheque & jam cheque,Fold cheque found at eject slot. Remove jam cheque. Clean scanner and adjust stamp plate.
+4C7C,03-Jul,10:10,Y,NIC,CAS jam,Image is small. Clean scanner and recalibrate scanner. CAS is clear.
+4C2C,03-Jul,11:00,N,Request,Health check - CAS feed inside,Health Check - Replace printer(repaired) and test ok.
+4C66,03-Jul,17:00,N,Request,Health checked,replaced escrow and bend belts
+4C39,03-Jul,14:00,N,Request,PM checked,PM checked
+4C99,03-Jul,11:45,N,NBZ,out of service,"Fixed the upper door 24V, clean roller. Test OK."
+4C7A,03-Jul,15:15,N,HCA,CAS,Replace cas printer.
+4C55,03-Jul,15:20,Y,NIC,Black line,"Cleaned the scanner and roller, tested ok"
+4C1F,03-Jul,17:30,Y,Request,Search cheque,"No cheque found, upload logs"
+4C55,04-Jul,11:30,Y,Request,Health Check,"Replace scanner, tested ok"
+4C96,04-Jul,10:00,N,HTP,Jammed scanner,"Replace flat belt (351 ,L6), tested ok"
+4C8F,04-Jul,11:30,N,NGB,Feeder gate can't close,Adjust feeder gate
+4C25,04-Jul,12:10,N,NUB,Reject cheque,Ribbon is broken. Replace ribbon and clean scanner. Test ok.
+4C69,05-Jul,10:20,N,NGB,F9 sensor engaged,Clean scanner and F9 sensor.
+4C35,05-Jul,11:45,N,NUD,Jam cheque at scanner,Remove jam cheque. Reinstall ribbon and adjust scanner gap.
+4C0C,06-Jul,9:20,Y,Request,PM check,Pm check with reference to document RI/PM/202006.
+4C6D,06-Jul,10:40,Y,Request,PM check,Pm check with reference to document RI/PM/202006. Replace o-ring (collection path).
+4C53,06-Jul,10:30,N,HTP,Jam cheque at bin 2,replaced collection o ring*5
+4C47,06-Jul,11:00,N,NOA,Out of service,Cutoff wrong. Reset cutoff and clean scanner. Test ok.
+4C66,06-Jul,11:20,Y,Request,Health Check,Health Check - ESU
+4C94,06-Jul,15:00,Y,NZA,CAS problem,clean CAS and scanner
+4C91,06-Jul,15:50,Y,NOZ,Out of service,machine normal. Adjust and clean roller of bin 3.
+4C59,07-Jul,10:00,N,NIB,Endorsement,Replace ribbon and adjust print head gap.
+4C42,07-Jul,11:20,N,NIA,Crossing and endorsement,Adjust ink roller and perform tsp.
+4C07,07-Jul,10:00,Y,HPE,No endorsement,replace motor
+4C85,07-Jul,10:35,Y,NOZ,Out of service,Machine normal. Tested ok
+4DA7,07-Jul,15:30,Y,Request,Health Check - advice,"Cleaned roller, tested ok"
+4C53,07-Jul,11:00,Y,NOZ,Out of service,"Machine normal. TSP,  Tested ok"
+4C1C,07-Jul,9:45,Y,Request,PM CHECK ,PM CHECK with reference to RI/PM/202007.
+4C5F,07-Jul,9:00,Y,Request,PM CHECK ,PM CHECK with reference to RI/PM/202007.
+4DAD,07-Jul,17:00,N,Request,health check cas,clean CAS and scanner
+4C3E,07-Jul,10:00,Y,NIC,Black line,Clean scanner and recalibrate scanner. Test ok.
+4C69,07-Jul,9:40,N,NUD,Cheque jammed at scanner,The ribbon is broken. Remove cheque and replace ribbon. Test ok.
+4C90,07-Jul,10:00,Y,HCA,Advice blur,replaced the CAS printer. Tested ok.
+4C73,07-Jul,10:45,Y,NZA,Jam advice,removed jam advice. Clean roller and print head. Tested ok.
+4C7E,07-Jul,13:50,N,NUD,Jam cheque at scanner,Removed the jam cheque. Clean the scanner belt. Tested ok.. *offered 12:30
+4C01,07-Jul,16:25,N,HTP,Jammed cheque,"Replace flat belt (scanner), tested ok"
+4DAD,07-Jul,17:00,N,NGB,out of service,clean scanner and sensor.
+4C30,07-Jul,14:30,N,NGB,Out of service,clean MDM board. Tested ok.
+4C28,07-Jul,18:05,N,NBZ,Upper door problem,"Replace upper door lock, service machine. Test OK."
+4C1F,08-Jul,10:45,N,HCA,CAS,Replaced CAS printer. Serviced machine. Test OK.
+4C4C,08-Jul,9:25,N,NIA,No crossing,Replace stamp & ink roller
+4C17,08-Jul,10:15,N,NGB,"No jammed cheque, F6 sensor engaged","Clean sensor, clean black line on rear image"
+4C22,08-Jul,10:30,Y,Request,Health Check CAS drop,Adjust ejection roller of CAS printer
+4C65,08-Jul,12:00,Y,NOZ,No black line found,Clean scanner & stamp
+4C20,08-Jul,10:00,Y,Request,Health Check,"Check printer and setting, clean senosr and roller. Test OK."
+4C6F,08-Jul,11:05,N,NIC,Small image,Small image. Clean the scanner. Perform TSP. tested ok. *offered 09:15
+4C7E,08-Jul,10:30,Y,HTP,Jam cheque,No jam cheque find. Replaced yellow belt. Tested ok.
+4C8F,08-Jul,12:25,N,HCR,"Cas ,card reader",replaced card reader
+4C01,08-Jul,15:15,N,NUD,Cheque jammed at scanner,"Remove cheque, adjust paper guide between bend & scanner, clean scanner belt"
+4C1A,08-Jul,16:15,N,NUD,Jammed cheque,"Remove cheque near in alinger, clean sensor and roller. Test OK."
+4C5B,08-Jul,17:00,Y,NZA,no cas,no cas paper. Replace cas paper. 
+4C1B,08-Jul,15:20,Y,Request,Missing cheque,"Found the cheque at not withdrawn pocket, tested ok"
+4C77,09-Jul,10:05,Y,NGC,slow running,replace database
+4C81,09-Jul,9:15,Y,Request,Health Check - printer needle broken. ,"Endorsement incomplete.  replace ribbon, clean roller"
+4C33,09-Jul,10:45,N,NGB,jam cheque,"F0 dirty, clean F0"
+4DA3,09-Jul,11:55,N,NGB,Out of service,Clean F2 and scanner.
+4C5A,09-Jul,13:45,Y,NZA,CAS Drop,clean and adjust it. Clean scanner.
+4C9B,09-Jul,10:30,N,NGB,Out of service,Clean F10. clean and adjust CAS.
+4C61,09-Jul,10:30,N,NIB,No back endorsement,The ribbon is broken and controller is down. Replace ribbon and open controller. Test ok.
+4C46,09-Jul,11:15,N,HTP,Jam cheque on scanner,removed the jam cheque. Replaced the 351 belt. Tested ok.
+4C70,09-Jul,10:05,N,NUD,Jammed cheque,"Remove cheque near in alinger, fixed the alinger solenoid, clean roller. Test OK."
+4C6E,09-Jul,9:15,N,HCR,Can't reconcile.,check no problem with user.  Replace card reader as precaution
+4C17,09-Jul,12:35,Y,Request,Health check,Repair touch screen. Replace printer due to blur
+4C26,09-Jul,11:00,N,NGC,Idle,application crashed. Restarted machine. Test OK.. *RI
+4C81,09-Jul,11:30,N,NUD,jam cheque,"jam at F10, remove fold cheque"
+4C9D,09-Jul,15:30,N,NOZ,CAS,No problem found. Open controller. Clean printer sensor. Perform TSP.
+4C3B,09-Jul,16:00,Y,HCR,Can't insert card,Replace card reader and test ok.
+4C7D,09-Jul,19:00,Y,NIA,No crossing,replace stamp. Test ok
+4C04,10-Jul,10:00,N,NUD,Jammed cheque,Remove jammed cheque at aligner. Serviced machine. Test Ok.
+4C1B,10-Jul,10:30,N,NIB,CAS & alignment,"Replaced ribbon, CAS no problem. Serviced machine. Test OK."
+4C4A,10-Jul,9:45,N,Request,Search cheque,"No cheque found, upload logs"
+4C87,10-Jul,10:15,N,NGB,"No jammed cheque, solenoid loose (aligner)","Adjust solenoid (aligner), tested ok"
+4C98,10-Jul,10:55,Y,NBA,Cheque box hinge loose,Reinstall hinge
+4C17,10-Jul,11:00,N,NGB,F1 sensor loose,Reintall sensor
+4C22,10-Jul,11:10,Y,NZA,CAS blur,Clean print head
+4C2C,10-Jul,9:45,Y,NZA,Jam advice,no advice jam. Clean print head and roller. Tested ok. Clean black line. 
+4DAD,10-Jul,10:15,Y,NOZ,Jam advice,no advice jam. Clean print head and roller. Tested ok.
+4C42,10-Jul,12:10,N,NZA,CAS Jam,"Remove jam cas. Clean printer head, roller and replace new cas roll"
+4C99,10-Jul,10:50,N,NGZ,ATMP timeout,Inform ATM reset polling
+4C30,10-Jul,14:25,N,NUD,Remove cheque and ,Cheque jammed at aligner.adjust the knob. Clean scanner and test ok. *offered 12:15
+4C95,10-Jul,16:00,N,NGA,Out of service,No power supply. Need follow up.
+4C29,10-Jul,14:20,N,NZA,CAS ,"Check printer and setting, clean senosr and roller. Test OK."
+4C95,11-Jul,11:00,N,NGA,Idle,Machine no power. Miss power 4 pin. Install the  4 pin to main power. Tested ok. *offered 9:45
+4C96,11-Jul,12:30,Y,Request,Search cheque,Cheque is found in bin. Upload log and clean scanner. Test ok.
+4DAC,11-Jul,11:00,N,NUD,Cheque jammed at sorter,"Remove cheque, adjust bin 1 solenoid"
+4C6A,11-Jul,11:05,N,NGB,Out of service,Clean the F29 sensor and roller. Test OK.
+4C13,12-Jul,16:15,Y,NOZ,Jam cheque ,machine normal. Clean Feeder pad. Tested ok.
+4C73,12-Jul,10:00,Y,NZA,CAS,clean printer senor.
+4C3A,13-Jul,9:30,N,NGC,No image arrived,"Clean scanner & SMJ, replug scanner cable"
+4C88,13-Jul,9:30,N,NGB,Out of service,FFFD. Adjusted feeder gate. Serviced machine. Test OK.
+4C69,13-Jul,10:00,N,NGB,Sensor problem,"Clean the F1 sensor, scanner and roller. Test OK."
+4C8D,13-Jul,9:55,N,NUD,Cheque jammed at feeder ,"Remove cheque, adjust thickness gap"
+4C0A,13-Jul,10:00,Y,NBZ,Lock problem,Rescrew upper door lock. Clean scanner.
+4C81,13-Jul,12:15,Y,NUD,Jammed cheque,Reinstall flat belt (scanner). Serviced machine. Test OK.
+4C07,13-Jul,14:25,Y,HCA,No cas,"cutter error,will be follow replaced"
+4C07,13-Jul,17:20,Y,Request,Follow,replaced cas printer
+4C2C,14-Jul,10:55,Y,Request,HEALTH CHECK-CAS drop,clean and adjust printer.
+4C73,14-Jul,9:40,N,NZA,CAS jam,Rescrew the printer's arm and clean printer roller. Clean scanner and test ok.
+4C96,14-Jul,10:00,N,NGB,Jam cheque,"No jam cheque dound ,adjust feeder pad"
+4DAF,14-Jul,11:20,N,NUD,Jammed cheque,"Adjust pulley, tested ok"
+4C5A,14-Jul,15:00,Y,Request,Health Check,"Check printer and setting, clean senosr and roller. Test OK."
+4C71,14-Jul,10:30,Y,NGB,Out of service,Clean F10 sensor. Restart machine.
+4C7C,14-Jul,11:00,Y,NIA,Image blur,Replace ribbon and replace ink roller. CAS printing is clear. Clean scanner and test ok.
+4C96,14-Jul,11:25,N,NGB,jam cheque,"No jam cheque found,adjust Ramp solenoid"
+4DAD,14-Jul,12:30,Y,NZA,CAS jam,removed jam advice. Cleaned and adjusted it.
+4C9A,14-Jul,15:30,N,NGB,Out of service,Clean sensor F9  and clean scanner. Test ok.. *offered 14:15
+4DAD,14-Jul,15:15,Y,NBZ,Touch screen,adjust elo.
+4C26,14-Jul,16:30,N,NZA,CAS,Remove jammed CAS. Serviced machine. Test OK.
+4C42,15-Jul,12:30,Y,Request,HEALTH CHECK-CAS drop,Clean printer head and roller. Reinsert cas roll.
+4C78,15-Jul,9:45,Y,Request,HEALTH CHECK-CAS drop,"Check printer, adjust printer gap, replace 351 belt. Test OK."
+4C17,15-Jul,10:50,Y,Request,HEALTH CHECK-CAS drop,Clean printer and scanner.
+4C03,15-Jul,10:45,Y,Request,PM check,Pm check with reference to document RI/PM/202006.
+4C07,15-Jul,10:00,Y,NZA,Jam CAS,Replaced print head.
+4C2E,15-Jul,11:40,Y,NZA,CAS,"Clean printer roller, printer sensor. Clean scanner and replace ink roller"
+4C9A,15-Jul,16:30,Y,NIC,Small image,Clean scanner and roller. TSP.
+4C07,16-Jul,10:00,N,NGC,Out of service,Printer lift error. Clean MDM board and sensor.
+4C18,16-Jul,10:40,Y,Request,PM check,Pm check with reference to document RI/PM/202006.
+4C4A,16-Jul,10:10,N,NGB,Cheque jam,"No cheque jam, the feeder sensor is dirty. Clean feeder sensors and clean scanner. Test ok."
+4C1B,16-Jul,14:00,Y,Request,PM check,Pm check with reference to document RI/PM/202006.
+4C3A,16-Jul,9:50,Y,Request,CAS drop,Adjust ejection roller of CAS printer
+4C11,16-Jul,10:30,N,NUD,Jam at feeder,"Remove cheque, adjust thickness gap, clear black line"
+4C90,16-Jul,10:35,Y,Request,Health checked,clean CAS printer. Tested ok.
+4C18,16-Jul,10:30,N,NUD,Jam cheuqe,No cheque found. Clean feeder rollers. Adjust thickness adjustor.
+4C45,16-Jul,10:30,N,NGC,Idle,Restart pc.
+4C24,16-Jul,12:45,N,NZA,Jam advice,clean CAS printer. Adjust the print head. Tested ok.
+4C53,16-Jul,15:30,N,HTP,Jam cheque at sorter,"Remove cheque, replace bin 1 solenoid"
+4C9B,16-Jul,15:35,Y,NZA,CAS blur,"Replace printer print head, clean scanner. Test OK."
+4C80,17-Jul,11:00,Y,Request,PM check,Pm check with reference to document RI/PM/202006.
+4C4C,17-Jul,11:00,N,NGB,F28 engage,Clean F28 and dust.
+4C9E,17-Jul,10:00,Y,NOZ,DPM no reply after command.,Restart dpm and application. Normal service machine.
+4C5A,17-Jul,11:10,Y,Request,HEALTH CHECK-CAS drop,"clean sensor and roller, adjust printer gap. Test OK."
+4C9E,17-Jul,12:40,N,NGB,Out of service,Clean F15 sensor.
+4C69,17-Jul,15:50,N,NIC,Image small,"Clean scanner, DPM and roller, tsp. Test OK."
+4C53,17-Jul,10:10,N,NGB,Out of service,stablized and clean F22.
+4C1A,18-Jul,12:35,Y,Request,Find cheque,"No cheque found, clean scanner and roller, upload log. Test OK."
+4C34,18-Jul,10:40,Y,NUD,Jammed cheque,"Adjust thikcness adjuster, clean sensor and roller. Test OK."
+4DAF,18-Jul,11:30,Y,HCA,No CAS,printer pulley broken. Follow up printer replacement.
+4C60,18-Jul,9:30,Y,Request,Search cheque,"Inspect all machine, no cheque is found. Clean sensor F0 and test ok. Upload log"
+4C15,18-Jul,10:30,N,NUD,Cheque jam,The bend belt is shift. Rescrew bend belt and fix ribbon metal film. Test ok.
+4C48,18-Jul,14:45,Y,Request,Health checked,clean CAS printer. Tested ok.
+4DAF,18-Jul,15:00,Y,Request,No advise,"Replace CAS printer, tested ok"
+4C20,18-Jul,14:00,Y,NZA,Jam advice,clean the CAS printer. 
+4C8D,18-Jul,15:55,N,NIC,Black line,"Adjust wire (scanner), TSP, tested ok"
+4DA8,20-Jul,13:10,Y,Request,PM checked,"PM checked, replace stamp plate and ink roller"
+4C1F,20-Jul,9:50,N,NOA,PC off,"Restart PC, clear black line"
+4DAC,20-Jul,10:30,N,NZA,Jam CAS,Remove jammed CAS.
+4C47,20-Jul,13:30,N,NGB,Out of service.,restart the DPM. Clean red belt and black line. Tested ok.
+4C15,20-Jul,14:25,N,HTP,Jammed cheque,"Replace yellow belt, drum belt, scanner belt, 351 L6 belt, tested ok"
+4C70,20-Jul,17:15,N,NGB,Out of service,OOS due to card retire. Previously jam cheque at aligner/bin 3. need replace ink roller.
+4DA3,20-Jul,20:00,N,NGB,Out of service,"F2 sensor engagged,cleaning and fix it"
+4C20,21-Jul,11:55,Y,Request,Health check,cleaning cas printer roller and sensor
+4C5A,21-Jul,11:00,Y,Request,Health check,cleaning cas printer roller and sensor
+4C21,21-Jul,10:00,Y,Request,Health Check,Health Check - Fix the feeder gate and test ok.
+4C16,21-Jul,11:40,Y,Request,Health Check - CAS,"Replace CAS printer, tested ok"
+4C15,21-Jul,11:00,N,NUD,Jammed cheque,"Remove cheque at lower solt, Adjust pulley (351 L6 belt), tested ok"
+4C46,21-Jul,13:30,Y,Request,Find lose cheque,found the lose cheque at rejection slot. Clean black line. Tested ok.
+4C73,21-Jul,11:15,N,Request,HEALTH CHECK-CAS drop,removed jam advice. Adjust the print head. Tested ok.
+4C9D,21-Jul,13:10,Y,Request,No advise,"Adjust CAS printer, tested ok"
+4C29,21-Jul,14:45,N,NIC,White image,cleaning and calibration scanner
+4C1A,21-Jul,16:00,Y,NIC,Black line,"rear black image,replug scanner cable,Test ok"
+4C17,21-Jul,17:15,N,NZA,CAS jam,Clean printer and clean printer roller. Test ok.
+4DAB,22-Jul,10:00,N,NOA,Idle,PC is off. Restarted PC and machine. Test OK.
+4DA8,22-Jul,10:15,N,NUD,Jam cheque,"Cheque already removed by branch staff, machine still out of service cause upper cover not closed properly, tested ok"
+4C69,22-Jul,11:15,N,HTP,Black line,Replace scanner belt
+4C73,22-Jul,10:35,N,NGZ,Out of service.,No network. Follow to ATM. Check network.
+4C01,22-Jul,15:00,Y,Request,Health check,Replace scanner belt
+4C87,22-Jul,9:15,Y,Request,PM check,PM check. Replace red belt.
+4C9D,22-Jul,10:15,Y,Request,PM check,PM check. Replace red belt.
+4C22,22-Jul,11:15,Y,Request,PM check,PM check. 
+4C17,22-Jul,11:50,Y,Request,PM check,PM check.
+4C99,22-Jul,12:45,Y,Request,PM check,PM check.
+4C98,22-Jul,13:15,Y,Request,PM check,PM check.
+4C21,22-Jul,10:00,Y,Request,Health Check - CAS,Clean printer roller and clean print head. Adjust the metal film and printer's arm. Test ok.
+4C12,22-Jul,17:10,Y,Request,Health check,"""FFFD""-adjust feeder gate"
+4C92,22-Jul,16:45,N,NUD,Jam cheque,"stamp screw loosen,rescrew"
+4C9A,22-Jul,12:15,N,NGB,Out of service,"Clean sensor F8 and clean scanner. No cheque, test ok."
+4C90,23-Jul,13:55,Y,Request,HEALTH CHECK-CAS drop,Clean printer. Perform TSP.
+4C59,23-Jul,10:00,N,NIB,endorsement,adjust printhead
+4C1B,23-Jul,11:10,N,NIB,endorsement,reinstall ribbon. *follow 4C59
+4C26,23-Jul,10:00,Y,NZA,CAS,Remove jammed CAS. Replaced stamp. Serviced machine. Test OK.
+4C35,23-Jul,11:00,Y,NUD,cheque was jam at scanner,adjusted gap. *RI
+4C4C,23-Jul,9:30,Y,Request,PM check,PM check. Replaec o-ring (collection path).
+4C0A,23-Jul,10:15,Y,Request,PM check,PM check.
+4C0B,23-Jul,10:45,Y,Request,PM check,PM check.
+4C15,23-Jul,11:30,Y,HTP,Jam cheque at scanner,removed the jam cheque. Adjust the scanner motor. Replaced the scanner belt. Tested ok.
+4C73,23-Jul,11:30,N,NZA,Out of service,"No CAS, CAS jam at cutter. Remove CAS and clean printer. Test ok."
+4C8D,23-Jul,12:30,N,HTP,Jammed cheque,No jammed found. O-ring broken. Replaced O-ring (thickness adjustor). Serviced machine. Test OK.
+4C28,23-Jul,16:00,Y,NZA,CAS problem,"Check printer, adjust printer gap, clean roller. Test Ok."
+4C0D,23-Jul,17:55,N,NIB,endorsement,adjusted it. Cleaned both blackline.
+4C92,23-Jul,17:10,N,NUD,Stamp loose,"Replace stamp, ribbon and clean scanner."
+4C2D,23-Jul,21:30,Y,Request,Health Check,"Check printer setting, adjust printer gap, clean sensor and roller. Test OK."
+4C02,24-Jul,14:00,Y,Request,Health check,Replace bin 1 paper guide.
+4C24,24-Jul,10:20,N,NUD,Jam cheque at aligner,"removed the jam cheque. Clean scanner, adjust ink roller. Tested ok. "
+4DAE,24-Jul,12:15,Y,Request,Can't align CAS,Adjust threshold setting
+4C17,24-Jul,10:10,Y,Request,HC - advise,"Adjust the CAS motor, tested ok"
+4C8D,24-Jul,12:00,N,NUD,Jammed cheque,"adjust feeder plate, tested ok"
+4C8B,24-Jul,14:30,N,NUD,Jam cheque at eject slot,removed culved cheque.
+4C6F,24-Jul,14:00,Y,NOZ,No Feeder light,The feeder cable is loosen. Fix the feeder cable and clean scanner. Test ok.
+4C8D,24-Jul,16:00,N,NUD,Faulty cheque jammed at aligner,"Remove cheque, tested ok"
+4C5A,25-Jul,11:05,Y,Request,Health Check - CAS,"Check printer ans setting, adjust printer gap, clean roller and sensor. Test OK."
+4C94,25-Jul,12:15,Y,Request,Health check,Fixed the display.
+4C94,25-Jul,12:15,Y,Request,PM check,PM check. Replaced red belt.
+4C93,25-Jul,13:00,Y,Request,PM check,PM check. Replaced red belt & 420 belt.
+4C9F,25-Jul,11:00,Y,Request,Health check,Replaced upper door lock & keys.
+4C88,25-Jul,10:30,Y,NOZ,Out of service,Machine normal. Serviced machine. Test OK.
+4C3A,25-Jul,10:30,N,NGB,Out of service,can't leave ramp. Adjust AT roller to avoid double cheque insert.
+4C2F,25-Jul,10:50,N,NGB,Out of service,can't leave ramp. Adjusted 024 position.
+4C70,25-Jul,10:15,Y,NIC,Black line on front image,Clean scanner & stamp
+4C90,25-Jul,11:20,Y,Request,Health Check - CAS,Clean printer roller and clean print head. Adjust the metal film and printer's arm. Test ok.
+4C30,25-Jul,10:45,N,NUD,Cheque jam,Ribbon metal film is broken. Replace ribbon and remove cheque. Test ok.
+4C69,25-Jul,20:00,Y,NOZ,Touch screen problem,"Check the touch screen  and cable, no problem found, service machine. Test OK. *offered 12:15"
+4C30,25-Jul,16:15,N,NGB,jam cheque,"no cheque jam, adjust stamp gap. Test ok"
+4C73,25-Jul,16:45,N,NZA,out of service,take away jam cas paper. Service machine.
+4C1C,26-Jul,13:15,Y,NZA,CAS Jam,"check printer and setting, clean sensor and roller. Test OK."
+4C58,26-Jul,14:30,N,NGB,Sensor dirty,"Clean the F8 sensor, scanner and roller. Test OK."
+4C51,27-Jul,10:00,N,NGB,Out of service. ,adjust the Feeder pad and open gate. Clean the scanner and roller. Tested ok.
+4C1E,27-Jul,14:00,Y,NZA,CAS out ,Clean printer. 
+4C94,27-Jul,17:00,N,NUD,jam cheque,"remove fold from aligner, test ok. *offered 15:30"
+4C17,27-Jul,16:45,N,NGC,No display,restart pc. Inform atm of Drop water event.
+4C60,27-Jul,21:30,Y,Request,Health check - CAS,adjust printhead
+4C24,27-Jul,21:00,Y,Request,Health check - CAS,clean printer
+4C4F,28-Jul,10:00,N,NUD,Jammed cheque,"Remove cheque near in scanner, replace ribbon, clean scanner and roller. Test OK."
+4C90,28-Jul,15:30,Y,Request,Health Check ,Health Check - Replace printer(repaired) and test ok.
+4C3A,28-Jul,9:25,Y,NZA,"No CAS, plleuy broken",Inform Diebold to arrange printer replacement
+4C17,28-Jul,10:50,Y,Request,Health check CAS problem,Adjust ejection roller of CAS printer
+4C3A,28-Jul,12:00,Y,HCA,Replace printer,Replace CAS printer. *offered 09:30
+4DAB,28-Jul,11:30,N,NZA,No cas,take away jam cas paper. Service machine.
+4C3E,28-Jul,11:35,Y,NZA,CAS jammed,"Remove cas, check printer and setting, clean sensor and roller. Test OK."
+4C7C,28-Jul,13:00,Y,HCA,Cas blur,replaced cas printer and reinstall cas *RI
+4C76,28-Jul,12:55,Y,NUB,Rejected cheque,"Adjust thickness adjuster, replace ink roller and clean sensor. Test OK."
+4C7D,28-Jul,14:00,Y,Request,Find lose cheque,no lose cheque in CQM. Upload log.
+4C74,28-Jul,14:00,Y,Request,Find lose cheque,no lose cheque in CQM. Upload log.
+4C20,28-Jul,14:30,Y,NIC,Front scanner back line,"Clean front scanner, sensor and roller. Test OK."
+4C8A,28-Jul,16:55,N,NUD,jam cheque,adjust feeder pad and feeder gate
+4C96,29-Jul,11:30,Y,Request,Search cheque,Cheque found in retention slot. Clean scanner and micr belt.
+4C73,29-Jul,13:20,Y,Request,Health check,replaced cas printer
+4C49,29-Jul,10:50,Y,NGB,Jam cheque,"machine arrived normal,adjust ramp solenoid"
+4C38,29-Jul,14:40,N,NIA,Black line,The stamp is broken and front scanner is dirty. Replace stamp and clean scanner. Test ok.
+4DA3,29-Jul,16:05,N,NGB,Beep sound,"F2 sensor engagged by coffee,cleaning and fix it"
+4C83,29-Jul,19:00,N,NBZ,Upper cover cannot close,Adjust upper cover lock
+4DAB,30-Jul,11:00,Y,Request,Health check,Remove jammed CAS. Cleaned CAS printer roller and sensors. Test OK.
+4C5B,30-Jul,11:30,Y,Request,Health check ,Cannot eject properly. Replaced red belt. Serviced machine. Test OK.
+4C04,30-Jul,10:45,N,NIB,"No crossing ,No endorsement","replaced ribbon,but guardforce cannot provide ink roller,follow up by gf"
+4C98,30-Jul,10:35,Y,NIB,No endorsement,Replace ribbon
+4C6C,30-Jul,10:30,Y,NZA,CAS,Clean printer sensor and replace new cas roll.
+4C1C,30-Jul,11:00,N,NGZ,Out of service,"No network, all site machine is down. The machine is normal after reset the network by Guard. Test ok."
+4C86,30-Jul,11:20,Y,Request,Upper door lock,Replace upper door lock. Test ok.
+4C77,30-Jul,12:15,N,NGB,jam cheque,"cleaning F1,F2,F29 sensor ,Test ok"
+4DAA,30-Jul,16:30,N,NIC,image blur,"black line in front scanner, adjust stamp and ink-roller, clean scanner"
+4C81,30-Jul,17:00,N,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+4C92,28-Jul,17:00,N,NUA,Jam card detected,replaced cardreader. Compact MDB due to out of service (data mismatch).
+4C75,30-Jul,9:00,Y,Request,PM check,PM CHECK with reference to RI/PM/202007.
+4C7B,31-Jul,10:00,N,NIA,Crossing blur,replaced ink roller and adjusted it. Clean stamp.
+4C1A,28-Jul,19:45,N,NUD,Jam cheque at scanner,adjust gap. Image blur. Clean scanner TSP. Replaced pressure roller.
+4C2D,30-Jul,9:45,Y,Request,PM check,PM CHECK with reference to RI/PM/202007. Replaced red belt.
+4C0F,31-Jul,11:20,N,NIA,Crossing,Replace ink roller. Clean scanner. Test ok
+4C43,31-Jul,10:00,N,NZA,MISC Printer Failure,Reboot machine. Clean scanner. Test ok.
+4C73,28-Jul,13:50,Y,Request,Health checked,clean the CAS printer. 
+4DAC,29-Jul,10:00,N,NUD,Jam cheque at bin 1,removed the jam cheque. Clean solenoid of bin 1 and scanner. Tested ok. 
+67068,02-Jul,14:30,,NOP,Out of service,Bin full. Perform TTC. Serviced machine. Test Ok.
+67160,02-Jul,11:00,,NIC,Image,"Clean scanner, stamp, pressure roller. Perform tsp."
+67148,02-Jul,12:15,,NNW,Out of service,Reconfigure IP. Test ok
+67072,02-Jul,11:30,,NJB,Jam cheque,put in order cheque.
+67014,02-Jul,13:00,,NJS,jam cheque,removed obstacle at scanner. Clean scanner and pressure roller. Adjust endorsement.
+67174,02-Jul,16:30,,NIC,White image,clean scanner TSP. Replaced ink roller clean stamp.
+67227,02-Jul,16:50,,NOP,Bin full,"Bin full, take out today cheque, clean sensor and roller. Test OK."
+67193,02-Jul,15:45,,NAC,Out of service,"Check 24V, clean sensor and roller, Test OK"
+67173,02-Jul,16:50,,NBA,Jammed cheque,"Adjust collection box, tested ok"
+67143,03-Jul,16:30,,NIC,White image,clean scanner TSP.
+67024,03-Jul,15:30,,NGC,Out of service,Stablized and clean F29. adjust feeder plate.
+67188,03-Jul,11:55,,NZA,No advise ,"Restart CAS printer power, tested ok"
+67054,03-Jul,15:45,,NOP,Out of service,"all bin full,reset"
+67272,03-Jul,11:25,,NAC,jam cheque,"bend gate out of postion ,adjust"
+67144,02-Jul,14:30,,NAR,Out of service,MACHINE ARRIVED NORMAL.SERVICE AMCHINE
+67173,02-Jul,11:00,,NNW,Out of service,"Atmp timeout,ip duplicate IP, Reset"
+67210,03-Jul,17:00,,NGB,Out of service,"reboot machine, no jam cheque"
+67021,02-Jul,10:00,,BIC,Cheque jam,Remove cheque and replace ribbon. Test ok.
+67003,02-Jul,16:40,,NAC,Out of service,"FD error, feeder gate is down. Fix feeder gate and clean scanner. Test ok."
+67155,02-Jul,12:30,,NGC,Out of service,Clean sensor F6 and fix feeder gate. Test ok.
+67077,03-Jul,12:30,,NGC,Out of service,Clean sensor F8 and test ok.
+67164,03-Jul,9:00,,NZA,CAS problem,Adjust ejection roller of CAS printer
+67144,03-Jul,18:00,,NIC,Image blur,"Clean scanner, perform TSP"
+67276,03-Jul,10:30,,NZA,Jam CAS,Remove paper bits
+67109,04-Jul,12:50,,NBZ,Touch screen problem,"Normal on arrived, restart PC"
+67842,02-Jul,11:50,,NBZ,Mon have hole,Check monitor
+67003,03-Jul,11:00,,NUB,can't insert cheque,clean and replug the F29 sensor. Tested ok.
+67155,04-Jul,12:40,,NZA,No advice,adjust the rejestion roller. Tested ok. 
+67801,03-Jul,12:20,,HTB,Out of service,Remove jammed cheque & CAS. Replaced flat belt (bend). Serviced machine. Test OK.
+67049,06-Jul,16:55,,NOZ,Bar lock,Rescrew bar lock.
+67069,03-Jul,17:45,,NGC,Out of service,Clean F8 sensor.
+67259,03-Jul,9:05,,NIC,Image small,Perform TSP. Clear event_log.
+67233,06-Jul,11:00,,NNW,Out of service,Network problem. Replug the lan cable. Change to Full 100MB
+67087,07-Jul,13:30,,HCR,Card reader,Replace card reader. Clean scanner and perform tsp
+67825,06-Jul,9:10,,NAC,Out of service,"missing 24v, adjust 24V at lower door"
+67035,06-Jul,14:15,,NZA,Jammed advise,"Adjust motor, tested ok"
+67105,06-Jul,12:40,,NZA,No advise ,"Adjust motor at CAS printer, tested ok"
+67033,06-Jul,11:50,,NAR,Out of service,MACHINE ARRIVED NORMAL.SERVICE AMCHINE
+67144,06-Jul,9:00,,NIB,Endorsement blur,"Adjust text print head, tested ok"
+67188,07-Jul,10:00,,NJS,Jammed cheque,"Cleaned roller (Lower slot), tested ok"
+67173,07-Jul,12:00,,NNW,Out of service,"Cleaned LAN plug, tested ok"
+67111,07-Jul,14:10,,NJF,Jammed cheque,"Cleaned roller (double detector), adjust text print head, tested ok"
+67143,07-Jul,12:10,,HCR,Jam card,Replaced card reader and delete event log
+67043,06-Jul,10:50,,NAC,Out of service,"""FFFD"",adjust feeder gate"
+67224,06-Jul,17:10,,NGB,Out of service,"socket 10053 error,reboot machine"
+67164,06-Jul,15:30,,NZA,No cas,adjust eject roller and renew CAS
+67017,06-Jul,13:30,,NJB,Jammed cheque,adjust eject roller ar bin. Replaced card reader.
+67023,06-Jul,10:40,,NZA,CAS jam ,removed jam advice. Clean scanner TSP.
+67144,06-Jul,16:30,,NAC,Out of service,Clean F6. replaced ribbon. Jam cheque at ramp. Make it smooth.
+67021,07-Jul,17:05,,HEC,Out of service,Image and 408 lift ko. Clean board.
+67023,08-Jul,11:00,,NUB,High reject,clean MICR. Clean and adjust feeder plate and roller.
+67215,08-Jul,11:50,,NAR,Out of service,Machine normal. Serviced machine. Test OK.
+67060,08-Jul,10:00,,HTS,Out of service,Replaced paper guide bin 1. Serviced machine. Test OK.
+67071,08-Jul,13:45,,NUA,Jammed card,Remove jammed card. Serviced machine. Test OK.
+67149,08-Jul,16:45,,NIC,Image blur,Cleaned scanner. Perform TSP. Serviced machine. Test Ok.
+67163,06-Jul,12:00,,NOP,Out of service,"Bin full, perform TTC, clean black line"
+67149,06-Jul,16:55,,NIC,Image blur,Clean scanner & stamp
+67076,08-Jul,16:30,,HTF,Jam Cheque,Replace o-ring.
+67146,08-Jul,15:50,,NGB,Out of service,"Printer failure. Reboot machine, clean scanner, manual update to 738"
+67226,03-Jul,12:45,,BIC,Jammed cheque,"Replace ribbon, clean scanner and roller. Test OK."
+67109,03-Jul,14:[20,,NJS,Jammed cheque,"Adjust yellow belt, clean sensor and roller. Test OK."
+67227,03-Jul,16:50,,BIC,Jammed cheque,"Remove cheque near in scanner, replace ribbon, clean roller. Test OK."
+67220,06-Jul,16:45,,NJF,Jammed cheque,"Adjust thikcness adjuster, clean sensor and roller. Test OK."
+67193,08-Jul,9:15,,NIC,Image blur,"Clean scannner and roller, tsp. Test OK."
+67268,08-Jul,17:10,,NUA,Card reader,"Check card reader, clean sensor and roller. Test OK."
+67113,09-Jul,12:15,,NBZ,Touch screen problem,"Reset touch screen setting, clean sensor and roller. Test OK."
+67829,09-Jul,11:00,,NUA,Card reader,"Replace card reader, upload log. Test OK."
+67245,09-Jul,16:10,,NGC,jam cheque,"F29 dirty, clean and fixed F29"
+67254,07-Jul,11:15,,NUB,Reject cheque,The cheque reject by micr. Clean micr reader  and clean scanner. Test ok.
+67130,07-Jul,13:00,,NJF,Cheque jam,Adjust the knob and clean scanner. Test ok.
+67001,09-Jul,12:10,,NGB,Out of service,The application hangs after schedule shutdown. Check record and compress database. Reboot PC and test ok.
+67021,09-Jul,16:30,,NOC,Out of service,Printer lif motor failure. Clean sensor F23 and clean scanner. Test ok.
+67814,09-Jul,9:00,,NGB,CAS & card reader,Restarted PC & machine. Test OK.
+67053,09-Jul,11:50,,NAR,can't insert cheque & no CAS,Machine normal. Serviced machine. Test OK.
+67208,08-Jul,10:45,,NNW,ATMP timeout,"Update application, clear black line"
+67067,09-Jul,12:30,,NNW,ATMP timeout,Update application
+67168,10-Jul,14:30,,NAC,missing 24V,Adjust upper cover 24V
+67017,10-Jul,12:35,,BIC,Endorsement blur,Replaced ribbon cartiage
+67005,09-Jul,16:15,,NJF,jam cheque,"remove jam cheque at feeder,Test ok"
+67038,08-Jul,16:50,,NGC,jam cheque,"cleaning F6 sensor and adjust alginer solenoid,upgrade to 738"
+67124,08-Jul,9:00,,HPE,No endorsement,replaced 024 board and dc gear
+67144,10-Jul,14:40,,NJS,jam cheque,collect cheque and rebuild database and upgrade to 738
+67144,09-Jul,12:40,,HPE,No endorsement,replaced printer head
+67211,10-Jul,12:55,,NUA,Jam card,restart the PC. Tested ok.
+67037,09-Jul,10:00,,HCR,Jam card,replaced the card reader. Tested ok.
+67044,09-Jul,16:20,,NIC,Image blur,clean scanner. TSP. tested ok.
+67269,07-Jul,9:30,,HSD,Crossing blur,replaced the stamp. Tested ok.
+67021,08-Jul,12:30,,NAC,Out of service,24V problem. Adjust the 24V tested ok.
+67842,08-Jul,9:00,,NUA,jam card,clean the card reader. Tested ok.
+67822,07-Jul,14:10,,NJS,Jam cheque,removed the jam cheque at reject path. Clean red belt.  Tested ok.
+67111,11-Jul,12:00,,NOC,Jammed cheque,Cleaned sensors & rollers. Serviced machine. Test Ok.
+67224,11-Jul,12:00,,NUA,Can't insert card,"cleaning card reader ,Reboot machine,upgrade to 738"
+67012,07-Jul,13:45,,NJA,Jam cheque,Adjust thickness adjustor and feeder plate.
+67225,07-Jul,16:25,,NJB,Jam cheque,Clean escrow and sorter roller.
+67226,07-Jul,17:15,,NGC,Out of service,Clean F4 sensor and scanner.
+67207,07-Jul,13:05,,NOP,Out of service,Restart machine. Perform reconciliation.
+67249,08-Jul,14:30,,NIC,Image blur,Perform TSP. Clean scanner.
+67225,09-Jul,14:45,,NOC,Out of service,Replug DPM cable. Clean SMJ board.
+67234,10-Jul,9:00,,NOZ,Bar lock problem,Rescrew the bar lock and test ok.
+67024,11-Jul,11:00,,NZA,No CAS,Reset CAS printer and clean scanner. Test ok.
+67253,10-Jul,9:05,,HSD,Out of service,replaced stamp.
+67111,13-Jul,15:15,,HTB,Cheque jam,Replace belt 380 and test ok.
+67275,13-Jul,16:30,,HCR,Card jam,Replace card reader and test ok.
+67076,13-Jul,17:35,,NGC,Out of service,Clean sensor F8 and replace o-ring(feeder). Test ok.
+67215,11-Jul,11:45,,NOZ,Out of service,Update application
+67017,11-Jul,12:35,,NJB,Out of service,Remove cheque
+67188,11-Jul,12:45,,NGC,Out of service,Clean F6 sensor
+67097,13-Jul,10:25,,NOZ,Out of service,Upgrade application
+67005,13-Jul,11:40,,HPE,Half endorsement,Replace DC gear
+67013,13-Jul,14:35,,NJB,jam cheque,"Remove cheque, adjust bin 3 solenoid"
+67120,10-Jul,14:50,,NAR,CAS,"no find problem, replace ink-roller"
+67119,10-Jul,11:00,,NAR,jam cheque,"Normal on arrived, restart PC"
+67269,10-Jul,12:30,,NIC,image problem,clean and celibrate scanner
+67833,14-Jul,9:00,,HCB,Jam cheque,replaced plastic path  at bin 1.
+67246,13-Jul,11:45,,NAR,Black screen,Machine normal. Serviced machine. Test OK.
+67023,13-Jul,14:20,,HTF,Can?t insert cheque,Replaced prefeed roller assy. Serviced machine. Test OK.
+67037,13-Jul,12:45,,NZA,No advice,reset the CAS printer setting. Tested ok.
+67240,13-Jul,11:30,,NOC,Out of service.,clean DD sensor. Tested ok.
+67902,13-Jul,10:50,,NJF,Jam cheque,removed the jam cheque  at Feeder pad.. Tested ok.
+67168,13-Jul,9:10,,NIC,Image smaller,"Calibrated the scanner, tested ok"
+67024,13-Jul,12:15,,NOC,Out of service,"Cleaned CPU fan, tested ok"
+67119,13-Jul,10:50,,NGC,Out of service,"Cleaned sensor (F0, F6), tested ok"
+67268,13-Jul,16:30,,NAR,Can't read card,Machine normal at arrvial. Symantec update. Test OK.
+67052,15-Jul,11:15,,NZA,Jammed CAS & can't insert cheque,Remove jammed CAS. Cleaned prefeed roller. Serviced machine. Test OK.
+67001,15-Jul,11:50,,NJS,Jammed cheque,Cleaned sensors & rollers. Replaced ink roller & ribbon. Serviced machine. Test Ok.
+67111,15-Jul,14:45,,NOC,Out of service,Cleaned sensors. Serviced machine. Test OK.
+67012,15-Jul,16:00,,NOC,Jammed cheque,Cleaend sensors & rollers. Serviced machine. Test OK.
+67081,11-Jul,9:20,,NZA,CAS problem,"Check printer and setting, clean sensor and roller. Test OK."
+67085,11-Jul,11:45,,NAC,Out of service,"Adjust red belt, clean senosr and roller. Test OK."
+67808,09-Jul,16:45,,NJS,Jammed cheque,"Fixed the alinger solenoid, reinstalled ribbon, clean sensor and roller. Test OK."
+67192,10-Jul,12:00,,NIC,Black line,"Clean scanner and roller, tsp. Test OK."
+67193,10-Jul,9:30,,NJS,Jammed cheque,"Adjust red belt, clean sensor and roller. Test OK."
+67268,14-Jul,17:00,,NIC,Image problem,"Clean scanner and roller, tsp. Test OK."
+67085,14-Jul,11:30,,NZA,CAS problem,"Check priter and setting, remove cheque near in alinger, clean roller. .Test OK."
+67192,15-Jul,9:05,,NZA,CAS problem,"Check printer ad nsetting, clean sensor and roller, tsp.Test OK."
+67192,15-Jul,16:15,,NZA,CAS problem,replace printer.
+67105,13-Jul,10:45,,HTF,Out of service,Remove jammed cheque at feeder. Replace o-ring (thickness adjustor).
+67833,13-Jul,15:00,,HTA,Jam cheque,"Replace 145, 285 and aligner belt."
+67105,13-Jul,17:00,,NAC,Jam cheque,Adjust ramp gate.
+67835,15-Jul,9:25,,HTS,Jam cheque,Replaec 285 and 200 belt. Clean scanner.
+67220,15-Jul,12:20,,NUB,Can't insert cheque,Clean feeder roller. Adjust thickness adjustor.
+67033,15-Jul,12:45,,NUA,Card reader,Clean card reader. Restart machine.
+67052,15-Jul,17:00,,NZA,CAS,Clean printer.
+67250,16-Jul,11:40,,NBZ,Touch screen problem,Replug USB cable. Serviced machine. Test OK.
+67026,15-Jul,12:05,,NAC,Out of service,adjust 24V.
+67270,16-Jul,17:15,,NUB,High reject,clean MICR.
+67249,14-Jul,13:00,,NIC,Image small,Clean scanner and recalibrate scanner. Test ok.
+67154,15-Jul,12:00,,HPE,Out of service,Replace ribbon print head and 024 board. Clean scanner and replace ribbon. Test ok.
+67051,15-Jul,9:00,,NGC,Out of service,Clean sensor F8 and clean scanner. Test ok.
+67026,17-Jul,10:00,,NIC,Image not sent,reload program
+67032,15-Jul,15:20,,NZA,advice too long,clean and aligne printer
+67149,16-Jul,12:00,,NJS,Jam cheque,Reinstall paper guide between bend & scanner
+67074,14-Jul,16:55,,BIC,No endorsement,"Low ink, branch ink roller stock out"
+67153,16-Jul,9:00,,NAC,Lower door hard to close,Adjust lower door
+67074,16-Jul,16:15,,NIC,Rear image blur,Replug scanner cable
+67005,17-Jul,16:05,,NAC,Out of service,Adjust feeder gate
+67052,16-Jul,17:05,,HTB,Reject cheque,"replaced the yellow belt, 380 belt and stamp. Tested ok."
+67274,16-Jul,12:00,,NGC,idle,Mon no power. Restart the pc. Tested ok.
+67168,15-Jul,11:00,,NIC,Image small,cleaning and calibration scanner
+67074,15-Jul,16:10,,NIC,Black image,cleaning and tsp scanner
+67830,15-Jul,14:40,,NGC,Beep sound,"jam cheque at feeder pad, collect jam cheque"
+67149,14-Jul,9:00,,NIC,image bright,"replaced scanner,scanner cable and smj board"
+67048,18-Jul,12:20,,NGC,Out of service,Remove jammed cheque. Serviced machine. Test OK.
+67034,17-Jul,16:55,,NIA,No crossing,Replace stamp.
+67052,18-Jul,10:20,,NJS,Jam cheque,Remove jammed cheque at bend. Adjust bend blt. Clean stamp sensor.
+67254,16-Jul,17:20,,NJS,Jammed cheque,Replace yellow belt and adjust it. Test OK.
+67173,20-Jul,16:15,,NZA,No advice,adjust sensor. Test ok.
+67005,17-Jul,11:10,,NGC,Out of service,Adjust input block elasticity.
+67178,18-Jul,11:45,,NZA,Jam CAS,Removed jammed advice. Replaced ribbon. Clean and adjust stamp.
+67192,18-Jul,12:50,,NIC,Small image,clean scanner smj.
+67814,20-Jul,11:15,,NOZ,Display touch,cleaned it.
+67208,20-Jul,12:45,,NOZ,Auto shut down,stablized cable.
+67111,20-Jul,16:10,,NZA,CAS out,replaced printer.
+67224,20-Jul,16:30,,NIA,No crossing,No problem found
+67104,17-Jul,16:00,,NGC,Out of service,Internal LAN issue
+67048,21-Jul,16:45,,NJS,out of service,Replace stamp.
+67048,20-Jul,16:50,,NJS,jam cheque,clean sensors
+67054,20-Jul,10:10,,NUD,jam cheque,"machine arrived normal,cleaning feed roller and adjust ramp plate"
+67803,20-Jul,16:45,,NIA,Crossing blur,Adjusted ink roller. Serviced machine. Test OK.
+67023,20-Jul,10:55,,NZA,CAS,Cleaned CAS printer. Serviced machine. Test OK.
+67092,21-Jul,10:55,,NJS,Jammed cheque,Replaced ribbon. Serviced machine. Test OK.
+67074,21-Jul,17:00,,NIC,Back image blur,"clean scanner, smj, replug cable. Adjust endorsement. Replaced pressure roller."
+67255,21-Jul,11:30,,NIC,Blackline,cleaned it and ribbon. Replaced stamp. Replaced o-ring collection.
+67238,20-Jul,16:45,,NUA,Card reader,"Check card reader, remove card, clean sensor and roller. Test OK."
+67018,20-Jul,15:00,,NUD,Jammed cheuqe,"Check the bin 3 solenoid, adjust thickness adjuster, replace o-ring. Test OK."
+67113,22-Jul,16:00,,NZA,CAS cutting,replaced printer. Clean cardreader.
+67144,20-Jul,16:45,,NGC,Out of service,"Restart DPM, tested ok"
+67158,21-Jul,12:55,,NIC,Image blur,"Calibrated the scanner, tested ok"
+67192,22-Jul,10:30,,NIC,Image zoom out,"Calibrated the scanner, tested ok"
+67005,21-Jul,15:25,,NGC,Out of service,"Replace database, tested ok"
+67806,23-Jul,15:40,,NJS,jam cheque,"jam at ramp, clean solenid at ramp"
+67020,23-Jul,13:00,,NJF,red lighting flash,install feeder plate and F29 and F1
+67229,22-Jul,16:55,,NOZ,request replace ribbon,guide staff operate ribbon
+67097,23-Jul,16:30,,NOZ,Touch screen problem,Replug USB cable. Serviced machine. Test OK.
+67132,23-Jul,16:35,,NIC,Image blur,clean scanner SMJ. Adjusted endorsement. Replaced stamp.
+67040,24-Jul,11:20,,NGC,Out of service,"Normal on arrived, tested ok"
+67022,23-Jul,9:05,,NJS,Jammed cheque,"Replace ribbon and yellow belt, tested ok"
+67024,20-Jul,10:15,,NGC,Out of service,Clean CPU and scanner.
+67021,20-Jul,13:35,,NJB,Jam cheque,Replace bin 4 flat belt (beach colour).
+67269,20-Jul,16:20,,NIC,Image small,Perform TSP. Clean scanner.
+67209,21-Jul,14:05,,NJA,Jam cheque,Fix aligner solenoid.
+67224,21-Jul,16:15,,NIA,No crossing,Fix stamp.
+67012,22-Jul,14:55,,NGC,Out of service,Restart machine. Backup log.
+67817,23-Jul,9:25,,NGC,Out of service,Remove jammed cheque at bend. Adjust thickness adjustor and bend belt.
+67158,24-Jul,10:30,,NIC,Image blur,"Clean scanner, roller and DPM box, tsp. Test OK."
+67218,24-Jul,9:35,,NIB,Endorsement blur,"Reinstalled ribbon, clean scanner and roller. Test OK."
+67222,23-Jul,14:10,,NOZ,Loading slow,"Delete from msgqueue, clean sensor and roller. Test OK."
+67817,25-Jul,11:25,,,,
+67901,24-Jul,14:00,,NJS,Jam cheque,"Adjust tooth belt, clean paper path"
+67222,24-Jul,9:00,,NOZ,Slow repsonse,"Replace database, tested ok"
+67226,24-Jul,9:35,,NOZ,Lock problem,Adjust lower door lock
+67050,23-Jul,16:45,,NJS,Jam cheque at yellow belt.,adjust the yellow belt. Tested ok.
+67044,23-Jul,10:30,,NJA,jam cheque at aligner,clean and adjust the aligner and solenoid. Tested ok.
+67209,23-Jul,10:30,,NUA,Jam card,removed card. Clean card reader. Tested ok.
+67197,23-Jul,13:40,,NGC,System slowly,no problem find.
+67021,24-Jul,12:40,,NGC,out of service,scanner belt problem. Replaced the scanner belt. Tested ok.
+67233,23-Jul,9:00,,NGC,out of service,clean F8 sensor. Adjust the Feeder pad. Tested ok.
+67116,22-Jul,9:30,,NIC,No back endorsement,Replace ribbon and clean scanner. Test ok.
+67051,22-Jul,16:55,,NOZ,Out of service,3045 error. Replace database and open polling
+67034,23-Jul,12:30,,NUA,Card jam,Clean card reader and clean scanner. Test ok.
+67154,23-Jul,14:25,,NOZ,Out of service,Clean feeder sensor and test ok.
+67048,24-Jul,12:45,,NGC,Idle,Copy log files. Restarted machine. Test OK.
+67806,27-Jul,14:15,,NJS,CQ Jam,Adjust scanner gap and solenoids. Replace card reader and cas printer.
+67900,27-Jul,15:10,,HLT,Touch screen problem,Replug usb cable. Reboot machine
+67208,22-Jul,14:15,,NGC,Out of service,"Lift up failture,cleaning F23 sensor"
+67060,27-Jul,9:00,,HPE,Endorsement blur,cleaning and calibration scanner
+67129,28-Jul,10:00,,NGD,Vandalism,"Replace touch screen monitor, printer bezel, feeder gate (LED and sensor)"
+67113,28-Jul,10:30,,NIC,image bright,Do TSP. test ok.
+67023,27-Jul,11:05,,NGC,Idle,restart pc.
+67070,27-Jul,10:25,,NUA,cardreader problem,cleaned it.
+67108,27-Jul,14:55,,NGC,Out of service,Replaced bend belt.
+67226,28-Jul,16:00,,NJS,jam cheque,repair stamp and clean and fixed F1
+67149,28-Jul,11:45,,NIC,Endorsement blur,clean and celibrate scanner
+67835,28-Jul,14:50,,NJF,can't insert cheque,"replace 351, scanner and 160 belt"
+67116,27-Jul,10:30,,NJS,Cheque jam,Rescrew printer head gap and replace ribbon metal film. Test ok.
+67002,27-Jul,11:20,,NOZ,Out of service,Remove cheque and adjust knob. Test ok.
+67007,27-Jul,9:00,,NIA,Image blur,Cleaned scanner. Replaced ink roller. Serviced machine. Test OK.
+67048,28-Jul,10:30,,NIC,Black line,Cleaned scanner. Serviced machine. Test OK.
+67154,27-Jul,12:15,,NGC,out of service,FFFFFF problem. Clean all DPM board.  Tested ok.
+67249,27-Jul,17:00,,NIB,No endorsement,replug the ribbon. Tested ok.
+67248,27-Jul,17:00,,NJS,Jam cheque at ribbon. ,ribbon broken. Replaced  ribbon.  Tested ok.
+67206,28-Jul,12:30,,NGC,out of service,"clean F28, F27 and DD sensor. Tested ok."
+67048,29-Jul,9:15,,NJS,Jammed cheque,"Adjust yellow belt and thickness adjuster, clean scanner, sensor and roller. Test OK."
+67267,27-Jul,15:05,,NIA,Crossing problem,"Replace stamp and adjust it, clean scanner and roller. Test OK."
+67149,27-Jul,16:30,,NIB,Image brighten,Replace ribbon
+67173,27-Jul,9:05,,NIC,Image brighten,"Clean scanner, perform TSP"
+67005,28-Jul,13:35,,NGC,Out of service,"printer lift error, clean  F23 sensor"
+67121,28-Jul,17:00,,NIB,Image brighten,Adjust dot matrix printer gap
+67136,29-Jul,11:20,,NJF,Reject cheque,adjust knob. Clean sensors
+67194,28-Jul,9:00,,NIB,No endorsement,adjust printhead
+67051,29-Jul,14:00,,NGD,Touch screen broken,Replace touch screen monitor. Adjust ink roller. Test ok
+67048,29-Jul,15:45,,NJS,Jammed cheque,Replaced pressure roller & drum belt. Serviced machine. Test OK.
+67048,29-Jul,9:00,,NJS,Jammed cheque,Fixed ramp gate solenoid. Serviced machine. Test OK.
+67197,28-Jul,14:55,,NIC,Black line,cleaning and calibration scanner
+67081,29-Jul,12:10,,NUD,jam cheque,Replaced ramp solenoid
+67110,29-Jul,9:00,,NIB,No endorsement,replaced ribbon cartiage
+67194,30-Jul,11:00,,NUD,Jam cheque,adjust ramp solenoid postion
+67004,30-Jul,11:25,,NUD,Jam cheque,adjust collection paper path postion
+67249,29-Jul,12:10,,NIC,No back endorsement,Rescrew the printer head gap and clean scanner. Test ok.
+67140,29-Jul,16:10,,NUB,Can't insert cheque,Rescrew the feeder plate and reset the double detector. Test ok.
+67100,30-Jul,14:35,,NJS,jam cheque,"jam at scanner, clean sensors and solenoid"
+67188,29-Jul,9:05,,NOZ,Can't cutoff,Copy logs
+67825,30-Jul,9:05,,NGC,out of service,Clean and stablized F29.
+67074,28-Jul,17:30,,NIC,Back blur too light,clean scanner TSP.
+67038,29-Jul,14:00,,NUA,cardreader problem,clean cardreader and stamp.
+67803,31-Jul,11:40,,HCR,Jam card,Replace card reader. Test ok
