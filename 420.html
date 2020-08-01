@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="shortcut icon" href="#" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,9 +75,11 @@
 
   var isAuthorized = localStorage.getItem("authorize");
 
+  "use strict";
+
   function onLoad(){
     //console.log("on load isauthorized?" + isAuthorized);
-    window.stop();
+    //window.stop();
       if (isAuthorized === false || isAuthorized === null)
       {
         alert("You do not have permission to view this page.\nPlease contact system administrator for further assistance.");
@@ -108,15 +111,33 @@
           return "";
     }
 
-
+  function initCSV(){
     CsvToHtmlTable.init({
-        csv_path: 'data/420belt.csv',
-        element: 'table-container', 
-        allow_download: false,
-        csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false},
-        custom_formatting: [[4, format_link]]
-      });
+    csv_path: 'data/pmlist.csv',
+    element: 'table-container',
+    allow_download: false,
+    csv_options: {separator: ',', delimiter: '"'},
+    datatables_options: {"paging": false},
+    custom_formatting: [[4, format_link]]
+    });
+  }
+
+  if (isAuthorized === false)
+      {
+        alert("You do not have permission to view this page.\nPlease contact system administrator for further assistance.");
+        location.href = "index.html";
+      }
+      else
+      {
+      //document.cookie = "client=RotoCookies;SameSite=Strict;path/";
+      var loginName = localStorage.getItem("username");
+      document.getElementById("header").innerHTML=" Hi " + loginName;
+
+      initCSV();
+
+      
+      }
+
     </script>
   </body>
 </html>
