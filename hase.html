@@ -76,8 +76,27 @@
     <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
 
   <script type="text/javascript">
-	
 
+
+  var isAuthorized = localStorage.getItem("authorize");
+  //console.log("isauthorized?" + isAuthorized);
+  //location.href = "about:blank";
+
+  function onLoad(){
+    //console.log("on load isauthorized?" + isAuthorized);
+    window.stop();
+      if (isAuthorized === false || isAuthorized === null)
+      {
+        alert("You do not have permission to view this page.\nPlease contact system administrator for further assistance.");
+        location.href = "about:blank";
+      }
+      else
+      {
+        gapi.load('auth2', function() {
+        gapi.auth2.init();
+        });
+      }
+  }
   function signOut() {
     localStorage.removeItem("authorize");
     localStorage.removeItem("username");
