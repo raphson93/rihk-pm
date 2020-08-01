@@ -116,6 +116,8 @@
           return "";
     }
 
+    var loginName = localStorage.getItem("username");
+    document.getElementById("header").innerHTML=" Hi " + loginName;
     CsvToHtmlTable.init({
         csv_path: 'data/boc.csv',
         element: 'table-container', 
