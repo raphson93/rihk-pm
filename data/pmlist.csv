@@ -1,4 +1,787 @@
 CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
+5891,01-Jun,9:55,N,NZA,,"Reported: MI440, CAS.  Action: Clean CAS printer, clean scanner. "
+58D3,01-Jun,10:05,N,NGB,,"Reported: Bee sound. Action: F2 dirty, clean sensors, scanner, fixed locks"
+5871,01-Jun,12:30,N,Request,,Upload logs. 
+5858,01-Jun,12:45,N,NUB,,Reported: High reject. Action: Adjust feeder plate. Clean feeder roller.
+5859,01-Jun,13:05,N,NUB,,Reported: High reject. Action: Adjust double detector roller. *requested by CIT
+580A,01-Jun,12:25,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust collection box, adjust solenoid (ramp), tested ok"
+583D,01-Jun,13:15,N,NUD,,"Reported: Jammed cheque. Action Taken: Cleaned pressure roller, tested ok"
+587C,01-Jun,14:00,N,NIC,,Reported: Black line. Actual: Scanner is dirty Action: Cleaned scanner. Serviced machine. Test ok
+5812,01-Jun,14:00,N,NIB,,"Reported: No endorsement. Action Taken: Setting the scanner ,tested ok"
+582B,01-Jun,14:50,N,NIC,,Reported: blackline. Action: clean scanner and drum belt. Test ok
+587B,01-Jun,13:50,N,NIC,,Reported: Image blur. Action: Perform TSP. Clean scanner.
+586D,01-Jun,14:25,N,NIC,,Reported: Image small. Action: Cleaned scanner. Perform TSP. Serviced machine. Test ok
+58AC,01-Jun,15:30,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok.
+5800,01-Jun,16:30,N,NIB,,Reported: endorsement blur. Action: replaced ribbon and adjusted it. *requested by CIT
+5815,01-Jun,14:30,N,NUB,,Reported: Reject cheque. Action taken: Adjust staple detector perform AT
+58DF,01-Jun,15:15,N,NIA,,Reported: Crossing. Action: Adjusted stamp. Serviced machine. Test ok
+5894,01-Jun,16:00,N,NIC,,"Reported: Image smaller. Action Taken: Calibarted the scanner, tested ok. *follow 58DC"
+58DC,01-Jun,15:15,N,Request,,"Reported: Missing cheque. Action Taken: Can't found the cheque, tested ok"
+58E5,01-Jun,15:45,N,NIC,,Reported: Black line. Actual: Scanner is dirty Action: Cleaned scanner. Serviced machine. Test ok
+5818,01-Jun,16:00,N,NIC,,Reported: Black line. Actual: Scanner is dirty Action: Cleaned scanner. Serviced machine. Test ok
+58BD,01-Jun,16:15,N,NIC,,Reported: black line. Action: clean scanner and stamp
+58FE,01-Jun,17:05,N,NIA,,Reported: Crossing incomplete. Action: Adjust ink roller. Clean scanner and pressure roller.
+5821,01-Jun,16:40,N,NGC,,"Reported: Out of service. Action taken: Replug VGA cable, clear black line"
+5843,01-Jun,16:20,N,NBZ,,"Reported: Lock problem. Action taken: Fixed the collection box lock, clean roller. Test OK."
+5844,01-Jun,17:10,N,NUD,,"Reported: Jammed cheque. Action Taken: Reinstalled the flat belt (scanner), tested ok"
+584C,01-Jun,16:15,N,NIB,,Reported: No back endorsement. Cause: The ribbon is broken. Action: Replace ribbon and clean scanner. Test ok.
+585E,01-Jun,16:45,N,NZA,,Reported: No CAS. Cause: CAS roll is out. Action: Reinsert CAS paper and clean scanner. Test ok.
+5820,01-Jun,18:25,N,NGB,,"Reported: Out of service. Action taken: Clean the F15 sensor, scanner and roller. Test OK. *offered 17:30"
+584F,01-Jun,18:30,N,NIC,,ReportedL front blackline. Action: cleaned it and stamp.
+582A,01-Jun,18:30,N,NIC,,Reported: Image small. Cause: The front scanner is dirty. Action: Clean and recalibrate scanner. Test ok.
+587B,01-Jun,21:40,N,NIC,,"Reported: image blackline and blur. Action: cleaned it, smj, replug cable. Diebold replaced ink roller later. *follow 5869 requested by CIT"
+5869,01-Jun,21:00,N,NZA,,Reported: jam CAS. Action: removed jam advice. Clean scanner. *requested by CIT
+5867,01-Jun,21:30,N,NUD,,"Reported: Out of service. Cause: Reject cheque, the ribbon pulley is loosen. Action: Rescrew the pulley and replace ribbon. Clean scanner and test ok. *requested by CIT"
+58DF,01-Jun,22:40,N,NIB,,Reported: endorsement blur. Action: endorsement checked normal. Adjusted stamp.
+58D3,02-Jun,9:35,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller. Test Ok."
+5812,02-Jun,10:00,N,NOA,,Reported: Manually closed. Actual: Touch screen is off. Action: Turn on touch screen. Serviced machine. Test ok
+585A,02-Jun,10:00,N,NUA,,Reported: card reader. Action: take away jam card. Service machine. *offered 9:30
+58D6,02-Jun,10:25,N,NUD,,Reported: jam cheque. Action: clean f6 sensor. Test ok. *follow 585A. 
+584B,02-Jun,11:20,N,Request,,Preventive Maintenance. *ESU Activation
+5849,02-Jun,10:35,N,Request,,Preventive Maintenance. *ESU Activation
+5820,02-Jun,10:45,N,NGB,,Reported: out of service. Action: clean F15. *offered 9:45 requested by CIT
+580C,02-Jun,11:20,N,NUA,,Reported: jam cardreader. Action: removed jam card. Clean cardreader. *follow 5820
+5869,02-Jun,9:45,N,NGB,,"Reported: Out of service. Cause: The feeder gate is opened, FD error. Action: Fix feeder gate and clean scanner. Test ok."
+58C2,02-Jun,10:35,N,NUD,,Reported: Cheque jammed. Cause: Cheque jammed at aligner. Action: Remove cheque and adjust the knob. Test ok. *follow 5869
+582E,02-Jun,11:15,N,NUD,,Reported: Cheque jammed. Cause: The bin 1 solenoid is down. Action: Fix bin 1 solenoid and clean scanner. Test ok. *follow 5869
+588D,02-Jun,9:35,N,NBZ,,Reported: Upper cover lock problem. Action taken: Adjust cover lock
+5819,02-Jun,10:35,N,NGB,,"Reported: Jammed cheque. Actual cause: No jammed cheque, F1 sensor engaged. Action taken: Clean sensor, clear black line"
+583E,02-Jun,14:05,N,NUD,,Reported: jam cheque at feeder. Action: removed culved cheque. Action: perform AT to allow thick cheque insert. *follow 5820
+5822,02-Jun,12:30,N,NOZ,,"Reported: CAS problem. Action taken: Check printer and setting, clean senosr and roller. Test OK."
+585D,02-Jun,12:45,N,NOZ,,"Reported: CAS problem. Action taken: Check card reader and printer, clean sensor and roller. Test oK."
+585E,02-Jun,11:30,N,NOZ,,Reported: jam cheque. Action: machine is ok when on arrival. Test ok.
+58C9,02-Jun,12:15,N,NZA,,Reported: out of service. Action taken: take way jam cas. Test OK.
+58E5,02-Jun,13:20,N,NIC,,"Reported: Image small. Action taken: Clean scanner and roller, tsp. Test OK."
+58AC,02-Jun,13:15,N,NIC,,Reported: Image small. Action: Clean scanner and pressure roller. Perform TSP.
+58D7,02-Jun,12:55,N,NIA,,"Reported: both blackline. Action: clean them, pressure roller, ribbon. Replaced stamp."
+585C,02-Jun,14:30,N,NOZ,,Reported: Black line. Action taken: NFF. Clean scanner and roller. Test OK.
+585D,02-Jun,14:15,N,NUD,,"Reported: Jammed cheque. Action taken: Remove cheque near in alinger, clean sensor and roller. Test OK."
+587C,02-Jun,15:00,N,NIB,,"Reported: Black line. Action taken: Clean back scanner, replace ribbon. Test OK. *offered 14:00. requested by CIT"
+58BA,02-Jun,15:00,N,NIC,,Reported: black line. Action: clean scanner. Adjust stamp. 
+5800,02-Jun,15:10,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok.
+58AE,02-Jun,15:35,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok.
+584C,02-Jun,15:30,N,NIA,,"Reported: Crossing problem. Action taken: Adjust ink roller, clean scanner and roller. Test OK."
+58CB,02-Jun,14:15,N,NIA,,Reported: crossing. Action: replace stamp. Test ok
+587A,02-Jun,14:40,N,NUD,,Repeorted: black line and jam cheque. Action taken: clean scanner and roller. Removed the jam cheque. Adjust the solenoid of bin 1. tested ok.
+58C7,02-Jun,15:30,N,NIC,,Reported: image small. Action: clean and TSP scanner
+58BB,02-Jun,16:00,N,NIC,,Reported: black line. Action: clean scanner. Adjust stamp. 
+58EC,02-Jun,16:25,N,NIA,,"Reported: Crossing problem. Action taken: Adjust ink roller, clean scanner and roller. Test OK. *follow 587C"
+58B8,02-Jun,16:00,N,NIA,,"Reported: Crossing problem. Action taken: Replace stamp and adjust it, clean scanner and roller. Test oK."
+5863,02-Jun,16:50,N,NUD,,"Repoted: Jammed cheque. Action taken: Remove cheque near in alinger, clean scanner and roller. Test OK. *follow 587C"
+58B4,02-Jun,16:15,N,NIC,,Reported: Black line. Action: Cleaned scanner.  Serviced machine. Test ok
+5884,02-Jun,17:05,N,NIC,,Reported: Black line. Action: Clean sacnner and drum. Adjust ink roller. *requested by CIT
+58E0,02-Jun,15:30,N,NIC,,Reported: Black line. Action: Cleaned scanner.  Serviced machine. Test ok
+58A6,02-Jun,20:35,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok. *requested by CIT
+5875,02-Jun,16:05,N,NIC,,Reported: Black line. Action taken: Clean scanner & stamp
+5872,02-Jun,16:15,N,NIC,,Reported: Black line. Action taken: Clean scanner & stamp
+58CC,02-Jun,16:15,N,NIC,,Reported: Black line. Cause: The front scanner is dirty. Action: Clean and recalibrat e scanner. Test ok.
+58FD,02-Jun,16:25,N,NZA,,Reported: CAS. Action: Clean printer sensor.
+5842,02-Jun,18:30,N,NUD,,Reported: jam cheque at bin 1. action taken: removed the jam cheque. Tested ok. *requested by CIT
+587A,02-Jun,17:00,N,NUD,,Reported: jam cheque at bin 1. Action taken: replaced the solenoid of bin 1. tested ok.
+5820,02-Jun,20:05,Y,HTP,,Reported: out of service. Action taken: replaced the F15 sensor. Tested ok. *RI
+58C7,02-Jun,20:30,N,NIC,,Reported: image small. Action: clean and TSP scanner *offered 19:30. requested by CIT
+58A0,02-Jun,21:35,N,NGB,,Reported: out of service. Action taken: clean F29 sensor. Tested ok
+5858,03-Jun,9:50,N,NUD,,Reported: Jam cheque at scanner. Action taken: removed jam cheque. Clean the scanner belt and roller. Tested ok.
+5890,03-Jun,14:15,N,Request,,"Pm check with reference to document RI/PM/202006,ESU Activation"
+580C,03-Jun,11:20,N,Request,,"Pm check with reference to document RI/PM/202006,ESU Activation"
+580B,03-Jun,10:40,N,Request,,"Pm check with reference to document RI/PM/202006,ESU Activation"
+58F1,03-Jun,10:10,N,NGB,,Reported: Out of service. Cause: Sensor F8 is dirty. Action: Clean sensor F8 and clean scanner. Test ok.
+58F0,03-Jun,10:30,N,NGB,,Reported: Out of service. Cause: The bin 1 solenoid is down. Action: Fix bin 1 solenoid and clean scanner. Test ok.
+5865,03-Jun,12:00,N,NOZ,,Reported: upper door lock. Action: no problem found. Normal service machine. Test ok
+58A0,03-Jun,12:40,N,NUD,,Reported: jam cheque. Action: F29 dirty. Clean sensors. *offered 12:00. requested by CIT
+588C,03-Jun,14:00,N,NUD,,Reported: Jam cheque. Action: Cheque jammed at bin2. Clean bin roller and feeder roller. *requested by CIT
+5839,03-Jun,14:00,N,NUD,,"Reported: Jammed cheque. Action taken: Clean F29 sensor, adjust thickness adjuster, clean roller. Test OK. *follow 4C35"
+5822,03-Jun,15:15,N,NUD,,Reported: jam cheque. Action: replace ribbon and clean sensor. Test ok.
+58AC,03-Jun,15:15,N,NIC,,Reported: Image small. Cause: The front scanner is dirty. Action: Clean and recalibrate scanner. Test ok.
+587E,03-Jun,15:45,N,NUD,,Reported: Jammed cheque. Action: Remove jammed cheque at feeder. Serviced machine. Test ok
+5845,03-Jun,14:30,N,NUD,,"Reported: Out of service. Actual: Ribbon broken. Action: Remove jammed cheque, replaced ribbon. Serviced machine. Test ok"
+585E,03-Jun,14:50,N,NUD,,"Reported: Out of service. Action: Remove jammed cheque at MICR, cleaned belt. Serviced machine. Test ok"
+5870,03-Jun,14:45,N,NIC,,Reported: Black line. Action: Clean scanner. Adjust scanner gap.
+584A,03-Jun,15:20,N,NIA,,Reported: Crossing Blur. Action: Adjust ink roller. Clean scanner.
+584C,03-Jun,16:25,N,NIB,,Reported: No endorsement. Action: Adjust printhead and ribbon. *follow 588C
+5834,03-Jun,16:30,N,NIA,,Reported: front blackline. Action: cleaned it and stamp. *requested by CIT
+58BA,03-Jun,15:30,N,NIA,,Reported: crossing incomplete. Action: adjust stamp. Test ok.
+58F1,03-Jun,15:25,N,NGB,,Reported: out of service. Action taken: clean F8 sensor. Tested ok.
+58BB,03-Jun,16:05,N,NIA,,Reported: Crossing incomplete. Action: Replaced stamp. Serviced machine. Test ok
+58C8,03-Jun,15:20,N,NIC,,"Reported: Black line. Action taken: Replace stamp, clean scanner & paper path"
+58A0,03-Jun,16:30,N,NIC,,"Reported: Image small. Action taken: Clean scanner & stamp, perform TSP"
+5874,03-Jun,17:55,N,NIC,,Reported: Black line. Action taken: Clean scanner & stamp *requested by CIT
+585F,03-Jun,15:06,N,NIA,,Reported: Crossing incomplete. Action: Replaced stamp. Serviced machine. Test ok
+58AB,03-Jun,16:15,N,NIA,,Reported: crossing blur. Action taken: replaced the stamp. Tested ok.
+588D,03-Jun,16:15,N,NIC,,Reported: Black line. Action Taken: Adjust stamp plate. Test ok.
+5807,03-Jun,15:55,N,NZA,,Reported: CAS. Action: Rescrew printer.
+58B3,03-Jun,17:00,N,NIB,,"Reported: Endorsment problem. Action taken: Replace ribbon and test printer motor, clean scanner and roller. Test OK."
+58C5,03-Jun,16:15,N,NUD,,Reported: Jammed cheque. Action: Cleaned sensors and rollers. Serviced machine. Test ok
+58EA,03-Jun,18:30,N,NIC,,Reported: Crossing blur. Action taken: Replace stamp *requested by CIT
+5897,03-Jun,20:45,N,NUD,,Reported: Jam cheque. Action: Remove jammed cheque at bin 1. Adjust bin roller.
+5826,03-Jun,20:45,N,NGB,,"Reported: Jam cheque. Action taken: No jammred cheque, adjust escrow tooth belt"
+5853,04-Jun,9:42,N,Request,,ESU Activation
+5854,04-Jun,9:52,N,Request,,ESU Activation
+58CC,04-Jun,10:00,N,Request,,Health Check - Replace bend belt and replace ribbon. Test ok.
+5871,04-Jun,10:30,N,NZA,,Reported: CAS. Action: Remove jammed CAS. Serviced machine. Test ok
+5858,04-Jun,11:20,N,NUD,,"Reported: Jammed cheque. Action taken: Check scanner, adjust scanner gate and thickness adjuster. Test OK."
+58E5,04-Jun,11:25,Y,HTP,,"Reported: both blackline. Action: clean them, stamp. Replaced pressure roller and 2 o-ring collection."
+588E,04-Jun,10:20,N,NZA,,"Reported : Cas jam,Action : cleaning cutter and transport roller,Test ok"
+5895,04-Jun,12:45,N,NZA,,Reported: CAS. Action: Remove jammed CAS. Serviced machine. Test ok
+58BA,04-Jun,13:25,N,NIC,,Reported: front blackline. Action: cleaned it and stamp. 
+5826,04-Jun,14:45,N,NUD,,Reported: Out of service. Action: Remove jammed cheque at eject slot. Adjust red belt. Clean dd sensor. *follow 4C0B
+5892,04-Jun,13:00,N,NZA,,Reported: No CAS. Actual: CAS is out. Action: Replaced advice. Serviced machine. Test ok
+58B3,04-Jun,14:40,N,NIC,,"Reported: Image problem. Action taken: Clean scanner, tsp. Test OK."
+58C8,04-Jun,15:50,N,NIC,,"Reported : Black line,Actionn: cleaning scanner and adjust stamp,ink roller *RI"
+580E,04-Jun,15:00,N,NIC,,Reported: front blackline. Action: cleaned it and stamp.
+5853,04-Jun,14:45,N,NIC,,Reported: image small. Action: clean and TSP scanner
+588D,04-Jun,15:35,N,NIA,,"Reported: stamp blur, jam cheque at ramp, out of service. Action: clean and adjust stamp. Adjust ramp cable. *RI"
+585B,04-Jun,15:30,N,NIC,,Reported: black line. Action: clean scanner.
+5825,04-Jun,15:00,N,NIC,,Reported: Black line. Action: Cleaned scanner. Serviced machine. Test ok
+588F,04-Jun,17:00,N,NIC,,Reported: Out of service. Action Taken: Cleaned the scanner. Test ok.
+586B,04-Jun,15:55,N,NIB,,"Reported: endorsement blur. ActioN: adjust printhead, clean roller and sensors"
+58A7,04-Jun,17:00,N,NUD,,Reported: Cheque jammed. Cause: The bend belt is shift and the ribbon metal film is broken. Action: Rescrew bend belt and replace ribbon. Clean scanner and test ok. *offered 16:15. requested by CIT
+583D,04-Jun,17:00,N,NOZ,,Reported: CAS printer. Action: No problem found. Serviced machine. Test ok
+587E,04-Jun,20:05,N,NOZ,,"Reported: Jam cheque. Action taken: adjust thickness gap, machine normal on arrived *offered 17:00. requested by CIT"
+58AB,04-Jun,16:30,Y,HPE,,Reported: Out of service. Action: Pressure roller broken. Replace pressure roller and ribbon. Restart machine.
+584E,04-Jun,17:05,N,NIB,,Reported: endosement incomplete. Action: replace ribbon iron. Test ok.
+5815,04-Jun,18:25,N,NiC,,Reported: Black line. Action: Clean scanner and ribbon. Perform TSP. *requesetd by CIT
+58CC,04-Jun,19:30,N,NIB,,Reported: No endorsement. Action: Adjust ribbon.
+5871,04-Jun,19:05,N,NUD,,"Reported: Jam cheque. Action taken: Remove cheque at eject slot, adjust tooth belt"
+5895,04-Jun,20:45,N,NZA,,Reported: Can't cutoff. Actual cause: Jammed CAS. Action taken: Remove CAS *requested by CIT
+588E,04-Jun,21:45,N,NUD,,Reported: Jam cheque. Action: Remove jammed cheque at bend. Adjust bend belt.
+58CC,05-Jun,9:30,N,Request,,upload 30 days log.
+5830,05-Jun,9:30,N,Request,,upload 30 days log.
+588A,05-Jun,9:30,N,Request,,upload 30 days log.
+587E,05-Jun,13:40,N,Request,,Pm check with reference to document RI/PM/202001.
+589F,05-Jun,10:40,N,Request,,Pm check with reference to document RI/PM/202001.
+58C5,05-Jun,10:20,N,Request,,Need follow up replace F18 sensor
+5832,05-Jun,11:20,N,Request,,Replace bar lock
+5816,05-Jun,11:15,N,Request,,"Health Check - Touchscreen is normal, clean touchscreen"
+5815,05-Jun,11:15,N,Request,,"Health Check - Touchscreen is normal, clean touchscreen"
+5817,05-Jun,11:15,N,Request,,"Health Check - Touchscreen is normal, clean touchscreen"
+5814,05-Jun,11:15,N,Request,,"Health Check - Touchscreen is normal, clean touchscreen"
+5836,05-Jun,12:45,N,NUD,,Reported: Jam cheque. Action: No jammed found. Clean F1 sensor and MDM board. Adjust input block.
+580C,05-Jun,13:40,N,NOZ,,"Reported : jam cheque,machine arrived normal,check log jam cheque at aligner,Test ok"
+588D,05-Jun,15:00,N,NIC,,Reported: Black line. Accion: Clean scanner and ribbon. Adjust ink roller.
+585C,05-Jun,14:20,N,NIC,,"Reported: Black line. Action taken: Clean scanner & stamp, adjust stamp"
+5825,05-Jun,14:00,N,NOZ,,Reported: Black line. Action Taken: NFF. Adjust stamp plate. Test ok.
+585A,05-Jun,16:10,N,NIC,,Reported: Black line. Action: Cleaned scanner. Serviced machine. Test ok. *follow 58D6
+58D6,05-Jun,15:45,N,NIC,,Reported: Image small. Action: Cleaned scanner. Perform TSP. Serviced machine. Test ok. *offered 14:00. requested by CIT
+5853,05-Jun,15:30,N,NIB,,Reported: endosement incomplete. Action: adjust ribbon gap. Test ok.
+587D,05-Jun,15:50,N,NIB,,Reported: No endorsement. Action: Adjust printhead and ribbon. Clean scanner.
+5869,05-Jun,16:45,N,NIB,,Reported: No back endorsement. Cause: The printer head gap is shift. Action: Rescrew printer head gap and replace ribbon. Test ok. *offered 15:00. requested by CIT
+58A0,05-Jun,16:00,N,NIC,,Reported: Image zoom out. Action Taken: Calibrated the scanner. Test ok.
+58CA,05-Jun,15:00,N,NIC,,Reported: Image small. Action: Cleaned scanner. Serviced machine. Test ok.
+585E,05-Jun,15:05,N,NIB,,Reported: Endorsement blur. Actual cause: Low ink. Action taken: Replace ribbon
+58A9,05-Jun,15:45,N,NIC,,Reported: black line. Action taken: clean the scanner and roller. Tested ok.
+581C,05-Jun,16:25,N,NIC,,Reported: black line. Action taken: clean the scanner and roller. Tested ok.
+5832,05-Jun,17:00,N,NIC,,Reported: Image problem. Action: Cleaned scanner Perform TSP. Serviced machine. Test ok. *requested by CIT
+5863,05-Jun,17:00,N,NIB,,Reported: Endorsement blur. Actual cause: Low ink. Action taken: Replace ribbon
+58B8,05-Jun,16:35,N,NIC,,Reported: Black line. Action taken: Clean scanner & stamp
+58CB,05-Jun,17:15,N,NOZ,,Reported: black line. Action taken: no black line find. Clean scanner. Tested ok.
+58F0,05-Jun,18:50,N,NUD,,"Reported: Jammed cheque. Action taken: Adjust yellow belt, clean sensor and roller. Test OK."
+5861,05-Jun,20:10,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller, replace ribbon. Test OK."
+5878,05-Jun,18:50,N,NBZ,,Reported: Lower door lock problem. Action: Fixed door lock. Serviced machine. Test ok.
+5863,05-Jun,20:45,N,NIB,,Reported: Endorsement incomplete. Actual: Ribbon leakage. Action: Replaced ribbon. Serviced machine. Test ok.
+585C,06-Jun,9:00,N,NIC,,Reported: back blur. Action: clean scanner and adjust it. Perform AT to prevent double cheque insert.
+586B,06-Jun,9:05,N,NIB,,Reported: No endorsement. Action: Reinstall ribbon.
+5887,08-Jun,9:45,N,Request,,Reported : idle. Action: site not flooded.  Check all 6 Machines. service machine.
+5867,06-Jun,10:00,N,NZA,,"Reported: CAS problem. Action taken: Adjust printer gate, clean sensor and roller. Test OK."
+5871,06-Jun,10:40,N,NUD,,"Reported: jam cheque. Action: jam at aligner, remove jam cheque, clean sensors"
+5813,06-Jun,13:30,N,NZA,,Reported: no advice. Action taken: adjust the sensor of CAS printer. Tested ok.
+5871,06-Jun,13:15,N,NOZ,,"Reported: jam cheque. Action: normal machine, clean roller"
+5853,06-Jun,18:25,N,NOZ,,Reported: Image zoom out. Action Taken: Adjust wire (scanner). Test ok.
+5895,07-Jun,12:05,Y,HTP,,"Reported: Out if service. Actual Cause: Sensor (F8) enegage. Action Taken: Replace sensor (U-shape), roller (ribon) and pressure roller. Test ok. *requested by CIT. Black rain"
+5895,07-Jun,18:30,N,NUD,,"Reported: Out of service. Action Taken: Adjust roller (ribbon), tested ok"
+5815,07-Jun,11:00,N,NUD,,Reported: jam cheque at aligner. Action taken: removed the jam cheque. Adjust the double detector. Tested ok. *requested by CIT
+5888,07-Jun,12:50,N,NZA,,Reported: Jam advice. Action taken: adjust rejection roller. Tested ok.
+58A9,07-Jun,14:45,N,NZA,,Reported: no advice. Action taken: clean cutter and rejection roller. Tested ok.
+58AB,07-Jun,15:00,N,NBZ,,Reported: no screen. Action taken: replug the power cable of Mon. tested ok.
+58FD,07-Jun,19:15,N,NOA,,Reported: out of service. Action taken: bin full. Cutoff. Tested ok.
+5813,08-Jun,11:15,N,Request,,"Pm check with reference to document RI/PM/202001,replaced feeder o-ring,ESU activation"
+5888,08-Jun,10:00,N,Request,,"Pm check with reference to document RI/PM/202001,replaced thickness adjust knob o ring,ESU activation"
+58CA,08-Jun,13:45,N,NIC,,Reported: Image small. Action: Clean scanner and roller. Perform TSP. Serviced machine. Test OK.
+58C8,08-Jun,14:25,N,NIC,,Reported: Black line. Action taken: Clean scanner & stamp
+5825,08-Jun,14:00,Y,HPE,,Reported: Black line and no back endorsement. Cause: The ribbon motor is down and front scanner is dirty. Action: Clean scanner and replace motor. Test ok.
+5842,08-Jun,13:30,N,NIB,,"Reported: Black line / endorsement. Cause: Adjust stamp plate, replace ribbon. Test ok."
+582B,08-Jun,15:30,N,NIC,,Reported: black line. Action: clean scanner. Service machine. *requested by CIT
+5832,08-Jun,16:00,N,NIC,,"Reported : Black line,Actionn: cleaning scanner and adjust stamp,ink roller. *follow 5863"
+5863,08-Jun,14:30,N,NIB,,"Reported: endorsement. Action: replace roller, adjust printhead"
+5840,08-Jun,17:00,N,NIC,,Reported: black line. Action: clean scanner. DO TSP. *RI
+5883,08-Jun,15:30,N,NIC,,Reported: Black line. Cause: The front scanner is dirty. Action: Clean scanner and recalibrate scanner. Test ok.
+589E,08-Jun,15:25,N,NIC,,"Reported: Black line on rear. Action Taken: Cleaned the scanner, adjust feeder path. Test ok."
+5853,08-Jun,16:55,N,NIC,,"Reported : Black line,Actionn: cleaning scanner and adjust stamp,ink roller *follow 5863"
+58BB,08-Jun,15:50,N,NIC,,Reported: image blur. Action: clean scanner TSP. Adjust gap.
+5892,08-Jun,16:15,N,NIB,,Reported: Image & endorsement. Action: Cleaned scanner. Replaced ribbon. Adjusted print head. Serviced machine. Test OK. *follow 582B
+58AE,08-Jun,16:00,N,NIC,,"Reported: Black line. Action: Clean scanner, ink roller and pressure roller."
+5801,08-Jun,16:25,N,NIC,,Reported: Image blur. Action: Perform TSP. Adjust ink roller. *follow 58AE
+5879,08-Jun,16:25,N,NIC,,"Reported : Black line,Actionn: cleaning scanner and adjust stamp,ink roller "
+5821,08-Jun,16:10,N,NIC,,"Reported : Black line,Actionn: cleaning scanner and adjust stamp,ink roller "
+588A,08-Jun,15:15,N,NIC,,Reported: Black line. Action: Clean scanner and ribbon.
+584A,08-Jun,16:45,N,NBZ,,Reported: upper door lock. Action: adjusted it. Need follow up scanner replacement.
+5872,08-Jun,21:00,N,NIC,,Reported: front blackline. Action: cleaned it. Replaced database. *requested by CIT
+584A,08-Jun,18:45,N,Request,,Replaced scanner. TSP.
+58AC,08-Jun,20:30,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller. Test Ok. *requested by CIT"
+5808,08-Jun,22:00,N,NUD,,Reported: jam cheque at bin 1. Action: adjust wire. *follow 5872 requested by CIT
+5859,08-Jun,22:35,N,NUA,,Reported: cardreader problem. Action: cleaned it and stamp. *follow 5872 requested by CIT
+58C5,08-Jun,19:55,N,NUD,,Reported: jam cheque at ramp. Action: adjust scanner gap. Perform AT and adjust roller to prevent double cheque insert.
+58EC,08-Jun,22:40,N,NGB,,Reported: Out of service. Action taken: clean DD1 and DD2 sensor and roller. Test OK.
+5895,09-Jun,9:30,N,NIB,,"Reported: No endorsement. Action: replace ribbon, adjust print head gap."
+584A,09-Jun,10:15,N,NOZ,,"Reported: No endorsement. Action: reinstall ribbon, no problem found."
+5815,09-Jun,10:40,N,NUD,,Reported: jam cheque at aligner. Action taken: removed the jam cheque. Adjust the double detector. Tested ok. *requested by CIT
+5803,09-Jun,14:45,N,Request,,PM CHECK with reference to RI/PM/202001. ESU
+58B3,09-Jun,9:05,N,Request,,PM CHECK with reference to RI/PM/202001. ESU. Replaced red belt and roller recoation.
+5871,09-Jun,9:30,N,Request,,"Health Check - Replaced aligner belt, CAS printer & toothed belt 330."
+58A0,09-Jun,11:05,N,NIB,,"Reported: Enodorsement problem. Action taken: Clean scanner and roller, check DPM ox, tsp. Test OK. *RI"
+58C5,09-Jun,11:40,Y,HCA,,Reported: CAS & jammed cheque. Action: Replaced CAS printer. Remove jammed CAS. Adjusted ramp gate. Serviced machine. Test OK.
+5815,09-Jun,14:50,Y,HTP,,"Reported: Jam cheque. Action taken: Remove cheque at staple detector, replace staple detector *follow 58C2"
+58C2,09-Jun,14:15,N,NUD,,"Reported: Jam cheque. Action taken: Remove cheque at scanner, Clean scanner belt"
+58AC,09-Jun,14:05,N,NIC,,"Reported: Image small. Cause: The back scanner is dirty, the ribbon lacks. Action: Replace ribbon metal film and clean scanner. Recalibrate scanner and test ok."
+5842,09-Jun,14:15,N,NIB,,"Reported: Endorsement problem. Action taken: Repalce ribbon , clean scanner and roller. Test OK."
+58CA,09-Jun,14:20,N,NIC,,Reported: Image small. Action: Clean scanner and pressure roller. Perform TSP.
+5840,09-Jun,15:25,N,NIC,,"Reported : Black line,Actionn: cleaning scanner and adjust stamp,ink roller "
+5853,09-Jun,14:40,N,NIB,,Reported: Black line. Action: Cleaned scanner. Replaced ribbon. Serviced machine. Test OK.
+58C8,09-Jun,16:35,N,NIC,,Reported: Black line. Action: Clean scanner. Adjust ink roller. *offered 15:15. requested by CIT
+588D,09-Jun,15:40,N,NOZ,,Reported: CAS. No problem found on CAS. Replace stamp.
+5817,09-Jun,15:50,N,NIC,,"Reported: Black line on front. Action taken: Clean scanner & stamp, perfrom TSP"
+5812,09-Jun,15:00,N,NIA,,"Reported : Crossing incomplete,endorsement blur,Action : replaced stamp,ink roller and ribbon cartiage"
+5884,09-Jun,17:00,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Replaced the stamp. Tested ok. *requested by CIT
+587E,09-Jun,15:45,N,NIA,,Reported: Black line. Action: Cleaned scanner. Replaced ink roller & ribbon. Serviced machine. Test OK.
+5869,09-Jun,21:00,N,NIB,,"Reported : endorsement incomplete,Action : replaced ribbon cartiage and adjust printer head gap *requested by CIT"
+58B6,09-Jun,16:45,N,Request,,"Health Check. Action Taken: Adjust solenoid (ramp), adjust scanner gate, tested ok"
+586B,09-Jun,16:30,N,Request,,Reported: Can't insert card. Action: No problem found. Serviced machine. Test OK.
+5883,09-Jun,18:40,N,NUD,,"Reported : jam cheque,machine arrived normal,Action : adjust ramp plate and feeder pad. *offered 17:15"
+581E,09-Jun,18:25,N,NIA,,"Reported: Front crossing. Action Taken: Adjust stamp plate, replace ink roller, tested ok *requested by CIT"
+5887,09-Jun,18:20,N,NIB,,"Reported : endorsement incomplete,Problem : printer head plate screw loosen,Action : rescrew and replaced ribbon cartiage"
+588A,09-Jun,19:30,N,NUD,,"Reported: Jammed cheque. Action Taken: Cleaned roller (escow), tested ok"
+586E,09-Jun,21:10,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust lower slot gate, tested ok"
+58CA,10-Jun,9:15,N,NIC,,Reported: Image small. Action: Clean scanner and roller. Perform TSP. Serviced machine. Test OK.
+5880,10-Jun,10:55,N,Request,,PM CHECK with reference to RI/PM/202006. Repalce red belt. Activate ESU key.
+5811,10-Jun,9:45,N,NZA,,Reported: no advice. Action taken: adjust the rejection roller. Tested ok.
+58CB,10-Jun,15:30,N,Request,,health checked. Clean sensor and roller. Tested ok.
+58A2,10-Jun,15:30,N,Request,,"Health checked. Adjust the aligner, yellow belt and double detector. "
+588E,10-Jun,9:45,N,NZA,,"Reported: CAS problem. Action taken: Remove jammed CAS, clean scanner belt, clear white line image, Replace o-ring for thickness shaft"
+5870,10-Jun,10:00,N,NGB,,Reported: out of service. Action: cleaned F8. Action: make ramp smooth.
+58C7,10-Jun,15:00,N,NGB,,"Reported: out of service. Action: clean sensors and solenoids, check belt *requested by CIT"
+5840,10-Jun,13:45,N,NIC,,Reported: Image problem. Action: Cleaned scanner Perform TSP. Serviced machine. Test ok. 
+58CA,10-Jun,13:00,N,NIC,,Reported: image small. Action: replace smj board. Test ok.
+587E,10-Jun,16:00,N,NIA,,Reported: Crossing incomplete. Action: Adjust ink roller. Clean scanner and pressure roller. *requested by CIT
+5845,10-Jun,13:05,N,NIC,,Reported: back blackline. Action: cleaned it. Branch can't provide ink roller
+582E,10-Jun,14:05,N,NIC,,"Reported: Black line on front. Action taken: Clean scanner & stamp, adust stamp gap *follow 5869"
+58AC,10-Jun,14:00,N,NIC,,Reported: black line. Action taken: clean scanner and adjust the ink roller. Tested ok.
+58C8,10-Jun,15:45,N,NIC,,"Reported: Black line. Action Taken: Cleaned the scanner, tested ok *offered 13:15. requested by CIT"
+5869,10-Jun,13:10,N,NIB,,"Reported: Endorsement incomplete. Action taken: Adjust dot matix printer, clear white line image."
+58EE,10-Jun,14:15,N,NIA,,Reported: Crossing unclear. Action: Replaced stamp. Serviced machine. Test OK.
+581F,10-Jun,13:50,N,NIA,,Reported: stamp blur. Action: adjusted it.
+58D9,10-Jun,15:55,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller. Test Ok. *requested by CIT"
+58CC,10-Jun,14:30,N,NUD,,"Reported: Cheque jammed. Cause: The cheque can't reject from escrow, the red belt pulley is loosen. Action: Rescrew the red belt pulley and rescrew the bend belt. Clean scanner and test ok."
+5809,10-Jun,14:45,N,NUD,,Reported: Jam cheque at bin 1. action taken: adjust the solenoid of bin 1. tested ok.
+5835,10-Jun,18:05,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust stamp plate gap, tested ok *follow 5815"
+5815,10-Jun,16:45,N,NIC,,"Reported: Image zoom out on rear. Action Taken: Calibrated the scanner, tested ok *requested by CIT"
+5824,10-Jun,13:55,N,NGA,,Reported: No power. Action taken: Check machine power and cable. Need follow up with electrician
+58DF,10-Jun,15:15,N,NGC,,Reported: Idle. Action: Restarted machine. Cleaned scanner. Serviced machine. Test OK.
+58B4,10-Jun,15:30,N,NIC,,Reported: black line. Action: clean scanner. Test ok.
+58A9,10-Jun,15:30,N,NIB,,Reported: Back endorsement blur. Cause: The ribbon is no ink. Action: Replace ribbon and clean scanner. Test ok.
+58D7,10-Jun,16:10,N,NIB,,"Reported: Black line. Action taken: Clean scanner, stamp and ribbon, reinstalled ribbon. Test OK."
+589E,10-Jun,15:55,N,NIC,,"Reported: small image. Action: clean scanner, smj."
+58B3,10-Jun,17:00,N,NIC,,Reported: front blackline. Action: cleaned it. Reported: stamp blur. Action: adjusted it.
+58EA,10-Jun,16:15,N,NIC,,Reported: Black line. Action: Cleaned scanner. Serviced machine. Test OK.
+58BF,10-Jun,16:45,N,NIC,,Reported: Black line. Action: Cleaned scanner. Serviced machine. Test OK.
+581B,10-Jun,16:45,N,NIC,,"Reoprted: Black line. Action taken: Clean scanner and roller, tsp. Test OK."
+5858,10-Jun,17:15,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust scanner, tested ok *follow 5815"
+58C1,10-Jun,15:50,N,NIC,,"Reported: Black line. Action Taken: Cleaen scanner and stamp, tested ok"
+587A,10-Jun,18:25,N,NIC,,"Reported: Black line. Action Taken: Cleaned the scanner, adjust the stamp, tested ok *follow 5815"
+58CA,10-Jun,17:10,Y,HSC,,"Reported : No image,Action : replaced scanner and scanner cable"
+5842,10-Jun,19:30,N,NBA,,"Reported: Collection box wiring. Action Taken: Replace wire, tested ok"
+58C8,10-Jun,21:00,N,NOZ,,"Reported: Black line. Action Taken: NFF. Adjust stamp plate, calibrated the scanner, tested ok *offered 20:45. requested by CIT"
+58AC,10-Jun,22:00,N,NOZ,,"Reported : image small,Action : NFF. cleaning and calibration scanner *RI"
+58DC,10-Jun,22:45,N,NGB,,"Reported: Out of service. Action Taken: Cleaned sensor (F8), tested ok *RI"
+5874,10-Jun,21:50,N,NUD,,"Reported: Out of service. Action Taken: Adjust solenoid (Ramp), tested ok *offered 20:15. requested by CIT"
+58E6,10-Jun,21:00,N,NGD,,"Reported : card reader error,Problem : card reader damaged by coffee,Action : replaced"
+582A,11-Jun,10:15,N,NUD,,"Reported: jam cheque. Action: jam at micr. Clean roller and sensors, remove fold cheque"
+5869,11-Jun,9:10,N,Request,,PM CHECK with reference to RI/PM/202006.  Activate ESU key.
+58A1,11-Jun,11:10,N,Request,,PM CHECK with reference to RI/PM/202006.  Activate ESU key.Replaced scanner CIS*2
+58A0,11-Jun,10:30,N,Request,,"Pm check with reference to document RI/PM/2020/06,Replaced Hsbc stamp ,ESU activate key"
+58C6,11-Jun,10:15,N,NGB,,"Reported: Crossing problem. Action taken: Check scanner, adjust yellow belt. Test OK."
+5812,11-Jun,11:00,N,Request,,"Special PM CHECK with reference to RI/PM/202006. replace flat belt (285, L6)"
+58AB,11-Jun,14:00,N,NGB,,Reported: Out of service. Cause: Sensor F8 is dirty. Action: Clean sensor F8 and clean scanner. Test ok. *offered 11:30. requested by CIT
+5824,11-Jun,12:30,N,NGA,,"Reported: No power. Action taken: Check machine power and cable, electrician repaired wall socket. service machine. Test OK. *appointment with electrician"
+58C6,11-Jun,11:45,N,Request,,Reported: Follow replace parts. Action: Replace 200 belt.
+588E,11-Jun,13:15,N,NZA,,Reported: Out of service. Action: Jam CAS. Clean printer.
+5845,11-Jun,14:45,N,NOA,,Reported: crossing and endosement. Cause: ink roller and ribbon replace wrong. Action: reinstall ink roller and ribbon. 
+58D4,11-Jun,13:55,N,NIC,,"Reported: black line. Action: clean scanner, roller, stamp"
+5823,11-Jun,15:00,N,NIC,,Reported: blackline. Action: cleaned it.
+58C8,11-Jun,15:00,N,NIA,,"Reported: Black line. Action taken: Cleaned scanner, replaced ink roller. Serviced machine. Test OK."
+58AC,11-Jun,15:00,N,NIC,,Reported: small image. Action taken: clean scanner and roller. Perform TSP. tested ok. 
+58B4,11-Jun,15:35,N,NIC,,"Reported: Black line on rear image. Action taken: Clean scanner, perform TSP"
+58DF,11-Jun,15:15,N,NOZ,,"Reported: crossing and endorsement. ActioN: crossing no black line. One black line at top in endorsement, clean scanners"
+58EE,11-Jun,15:45,N,NIC,,Reported: black line. Action: clean scanner do tsp *requested by CIT
+58A2,11-Jun,14:15,N,NIC,,Reported: small image. Action taken: clean scanner and roller. TSP. jam cheque at ribbon. Replaced ribbon( broken). Tested ok.
+581B,11-Jun,15:20,N,NIC,,"Reported: Image small. Action taken: Clean scanner, stamp, DPM and roller, tsp. Test OK."
+584E,11-Jun,16:00,Y,HPE,,"Reported: crossing and endorsement. Action: replace text motor, stamp and ink-roller *follow 58DF"
+587A,11-Jun,16:55,N,NGC,,Reported: Idle. Action taken: Restarted PC & machine. Test OK. *offered 15:00.  Requested by CIT
+5815,11-Jun,16:30,N,NUD,,Reported: Jammed cheque & black line. Action taken: Remove jammed cheque. Adjusted thickness adjustor. Cleaned scanner. Serviced machine. Test OK. *offered 15:00. requested by CIT
+583D,11-Jun,14:55,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust solneoid (bin 1), tested ok"
+5884,11-Jun,17:00,N,NIC,,Reported: crossing blur. Action taken: adjust the ink roller. TSP. tested ok. *requetsed by CIT
+5864,11-Jun,15:30,N,NIA,,"Reported: No front crossing and endorsement. Action Taken: Replace ink roller and ribbon, tested ok"
+5874,11-Jun,16:05,N,NIC,,Reported: front blackline. Action: cleaned it and stamp.
+58DC,11-Jun,16:45,N,NIA,,"Reported: Front crossing. Action Taken: Replace stamp plate, testded ok *follow 583D"
+5812,11-Jun,16:05,N,NIB,,"Reported: No front crossing. Action Taken: Replace ribbon , testded ok"
+5825,11-Jun,17:30,N,NIC,,"Reported: Black line. Action Taken: Adjust stamp plate, tested ok *follow 583D"
+5838,11-Jun,16:45,N,NIC,,Reported: black line. Action: clean scanner. DO TSP.
+58A9,11-Jun,16:00,N,NZA,,Reported: CAS. Action: CAS can't cut. Clean printer.
+5869,11-Jun,16:00,N,NIB,,"Reported: Endorsement incomplete. Action taken: Adjust dot matix printer, replaced ribbon. Serviced machine. Test OK."
+5841,11-Jun,16:25,N,NIA,,"Reported: Crossing problem. Actual cause: Endorsement problem. Action taken: Replace ribbon, adjust test printer gap, clean sensor and roller. Test OK."
+5883,11-Jun,17:05,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust solenoid (ramp), tested ok"
+5806,11-Jun,17:15,N,NGB,,Reported: Jam cheque. Action: No jammed found. Clean F8 sensor.
+585E,11-Jun,16:35,Y,HTP,,"Reported: jam cheque. Action: jam at scanner,replaced yellow belt and ribbon"
+58B7,11-Jun,20:15,N,NBA,,Reported: bin wire. Action: adjusted it. Clean printer board.
+5896,11-Jun,19:45,N,NUD,,"Reported: Cheque jam. Cause: Cheque jammed at ribbon, ribbon is broken. Action: Remove cheque and replace ribbon. Test ok."
+584E,11-Jun,20:15,N,NIA,,Reported: No stamp. Cause: The ink roller is down. Action: Rescrew stamp and rescrew ink roller. Test ok.
+58C5,11-Jun,20:45,N,NOA,,"Reported: CAS jam. Cause: No CAS, the cas is roll out. Action: Replace CAS and clean scanner. Test ok. *follow 584E"
+5808,11-Jun,21:20,N,NUD,,Reported: Out of service. Cause: Cheque jammed at ribbon. Action: Remove cheque and replace ribbon. Test ok. *requested by CIT
+5869,11-Jun,21:55,N,HPE,,Reported: Back endorsement blur. Cause: The pressure roller is old. Action: Replace pressure roller and rescrew printer gap. Test ok. *requested by CIT
+5862,11-Jun,22:15,N,NGB,,Reported: out of service. Action: cleaned F8. 
+5862,12-Jun,11:00,N,NGB,,"Reported: jam cheque. Action: no jam cheque, ramp problem, fix paper guide at ramp *offered 09:15.  requested by CIT"
+58A6,12-Jun,12:35,N,Request,,"Pm check with reference to document RI/PM/202006,ESU Activation"
+5820,12-Jun,10:00,N,Request,,"Pm check with reference to document RI/PM/202006,Replaced pressure roller"
+5824,12-Jun,9:30,N,Request,,Pm check with reference to document RI/PM/202006
+5894,12-Jun,10:40,N,Request,,Upload Logs
+5893,12-Jun,10:30,N,Request,,Upload Logs
+58A9,12-Jun,9:45,N,Request,,Health checked. Replaced the scanner belt and CAS printer. Tested ok.
+58AB,12-Jun,9:45,N,Request,,Health checked. Replaced the yellow belt. Tested ok.
+58AA,12-Jun,11:50,N,NGB,,Reported: out of service. Action: F28 dirty. Clean sensors *follow 5862
+588E,12-Jun,12:00,N,Request,,Health Check CAS. Action: Replace printer.
+58B6,12-Jun,12:45,N,NOZ,,Reported: cas blur. Action: no problem found. Suspect image small. Calibrate scanner *requested by CIT
+5839,12-Jun,12:30,N,NUD,,"Reported: jam cheque.  Action: Adjust thickness adjuster, clean sensor and roller. Test OK."
+5848,12-Jun,12:50,N,NOZ,,"Reported: Touch screen problem. Action taken: Reinstalled touch screen cable, clean sensor and roller. Test OK."
+585E,12-Jun,13:00,N,NIC,,Reported: Image problem. Action: Cleaned scanner & rollers. Perform TSP. Serviced machine. Test OK.
+588D,12-Jun,13:00,N,NIC,,Reported: Black line. Action: Clean scanner.
+582F,12-Jun,14:35,N,NGB,,Reported: Jam cheque. Action: No jammed found. Clean F28 sensor. Replace o-ring (thickness adjustor).
+58B6,12-Jun,12:55,N,NIC,,Reported: image blur. Action: clean scanner and do TSP. Adjust gap.
+5884,12-Jun,14:00,N,NOZ,,"Reported: Black line on image. Action taken: No problem found on jpg or tiff, clean scanner & stamp"
+58A2,12-Jun,14:30,Y,HTP,,Reported: black line. Action taken: clean scanner and roller. Replaced the Aligner( jam cheque )
+5830,12-Jun,15:30,N,NIC,,Reported: No back endorsement. Cause: The ribbon is no ink. Action: Replace ribbon and clean scanner. Test ok. *requested by CIT
+58A9,12-Jun,14:15,N,Request,,Follow up card reader. Action: replace card reader
+58B3,12-Jun,16:00,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller. Test Ok."
+5897,12-Jun,14:30,N,NIA,,Reported: crossing blur. Action: replaced stamp and ink-roller
+583E,12-Jun,16:20,N,NIC,,"Reported : Black line,Action : cleaning scanner,adjust stamp and ink roller"
+584E,12-Jun,15:00,N,NOZ,,Reported: image blur. Action: No fault found. clean scanner and do TSP. 
+58CC,12-Jun,15:45,N,NUD,,"Reported: Cheque jam. Cause: Stamp failure, no cheque jam. Action: Clean stamp sensors and rescsrew stamp position. Clean scanner and test ok."
+58E5,12-Jun,15:20,N,NIC,,Reported: black line. Action: clean scanner. 
+580E,12-Jun,16:10,N,NIC,,"Reported: Image small. Action taken: Clean scanner & stamp, perfrom TSP"
+582B,12-Jun,16:30,N,NIC,,Reported: black line. Action: clean scanner. 
+582C,12-Jun,16:50,N,NGB,,Reported: out of service. Action: adjust stamp gap. Service machine. 
+5869,12-Jun,18:30,N,NIB,,Reported: Back endorsement blur. Cause: The ribbon plate roller is old. Action: Replace plate roller and rescrew printer gap. Test ok.
+5887,12-Jun,16:55,N,NIB,,Reported: endorsement blur. Action: adjusted it. Replaced pressure roller.
+5807,12-Jun,20:05,N,NZA,,Reportd: no CAS. Reported: cleaned printer.
+589D,12-Jun,20:40,N,NZA,,Reported: jam CAS. Reported: removed jam advice. *requested by CIT
+5883,12-Jun,16:30,N,NUD,,Reported: jam cheque at ramp. Action: make it smooth.
+584E,12-Jun,18:30,Y,HPE,,Reported: endorsement blur. Action: replaced pressure roller. *RI
+58A2,12-Jun,20:45,N,NUD,,Reported: Cheque jammed. Cause: Cheque jammed at ribbon. Action: Replace ribbon metal film and adjust the knob. Test ok. *RI
+5858,12-Jun,19:30,N,NBZ,,Reported: Can't open cover. Cause: The cover lock is broken down. Action: Replace cover lock and test ok.
+58B6,12-Jun,21:40,N,NOZ,,Reported: front blackline on stamp. Action: NFF. cleaned stamp and scanner. *requested by CIT
+584C,12-Jun,19:30,N,Request,,Health check - adjust bar lock screw
+58E0,13-Jun,11:30,N,Request,,ESU Activation
+58E2,13-Jun,12:30,N,Request,,ESU Activation
+58DC,13-Jun,12:00,N,Request,,Healthcheck with reference to document RI/PM/202006
+589E,13-Jun,9:15,N,NIC,,"Reported: Image small. Action taken: Clean scanner, roller and DPM, tsp. Test OK."
+5887,13-Jun,12:00,N,Request,,ESU Activation
+5883,13-Jun,12:30,N,Request,,"ESU Activation, replace o-ring of thickness shaft"
+5885,13-Jun,9:15,N,NOA,,Reported: No CAS. Actual: CAS out. Action: Replaced CAS. Serviced machine. Test ok
+583B,13-Jun,13:40,N,Request,,Health Check. Replace sorter o-ring
+5806,13-Jun,12:15,N,Request,,Health Check - Clean sensor F8 and replace feeder o-ring. Clean scanner and test ok.
+58CC,13-Jun,10:45,N,NIB,,Reported: No back endorsement. Cause: The ribbon is no ink. Action: Replace ribbon and clean scanner. Test ok.
+588E,13-Jun,10:55,N,Request,,Reported: no CAS. Action: replaced printer.
+5818,13-Jun,10:50,N,NZA,,"Reported : Out of service,No cas,Action : cleaning cutter and adjust eject roller"
+58A3,13-Jun,11:20,Y,HTP,,Reported: Jam cheque at scanner. Action taken: 351 belt broken. Replaced the 351 belt. Tested ok.
+586A,13-Jun,11:00,N,Request,,Reported: HKD cheque sent to bin 4. Action taken: Upload logs
+584E,13-Jun,11:45,Y,HLT,,"Reported : No touch screen,Action : replaced Monitor and adjust VGA cable"
+5887,13-Jun,12:00,N,NIB,,Reported: No endorsement. Actual cause: ribobn shift. Action taken: Adjust dot matrix printer gap
+5869,13-Jun,13:10,Y,HPE,,Reported: no endorsement.  Action: Replaced 024 and print head. Clean front blackline. 
+58A3,13-Jun,20:15,N,NUD,,"Reported: Jam cheque. Action taken: Remove cheque at aligner, adjust feeder pad & thickness gap, clean paper path"
+5816,14-Jun,11:00,N,NUD,,"Reported: cq jam. Action: remove cheque, adjust scanner gap, perform tsp. Test ok *requested by CIT"
+587F,14-Jun,12:00,N,NOZ,,"Reported: Bar lock problem. Actual cause: No problem found, tested ok."
+581D,14-Jun,16:00,N,NUD,,"Reported: Jam cheque. Actual cause: Metal film of ribbon was found broken. Action taken: Remove cheque at scanner, replace ribbon, clear black line on rear image *requested by CIT"
+585B,14-Jun,15:40,N,NUD,,"Reported: cq jam. Action: no jam chq found. Clean f10 sensor, scanner, perform tsp."
+585B,14-Jun,19:00,N,NGC,,Reported: oos. Action: replug f10 sensor. Normal service machine. Test ok
+5842,14-Jun,19:15,N,NUD,,"Reported: Jam cheque. Actual cause: The gap between bin 1 ejection roller & flat belt. Action taken: Remove cheque at bin 1 entrance, adjust ejection roller"
+585B,15-Jun,9:40,Y,HTP,,"Reported: Jam cheque. Action taken: No jammed found. Replaced sensor F10, F19. Serviced machine. Test Ok."
+581C,15-Jun,9:25,Y,HTP,,"Reported: Jammed cheque. Action Taken: Replace red belt and stamp, cleaned sensor (F28), tested ok"
+5897,15-Jun,9:00,N,NGB,,"Reported: Out of service. Action Taken: Cleaned sensor (F5, F1), tested ok "
+5841,15-Jun,10:30,N,Request,,"PM CHECK with reference to RI/PM/202001,ESU Activate"
+5843,15-Jun,9:45,N,Request,,"Pm check with reference to document RI/PM202001,ESU activate.  jam chequer at aligner,Action : adjust aligner solenoid,Test ok"
+58B3,15-Jun,15:00,N,NIA,,"Reported : Black line,Problem : ink roller damaged,cannot provide ink roller,Action : cleaning scanner ,follow up by ATM"
+584E,15-Jun,15:10,N,NIB,,Reported: no endorsement and front blackline. Action: cleaned blackline. Replaced ribbon and ink roller and adjusted them.  *requested by CIT
+5884,15-Jun,14:35,N,NIA,,Reported: black line. Action taken: clean scanner and roller. Replaced the ink roller. Tested ok.
+583E,15-Jun,13:55,N,NIC,,"Reported : Blac line,Action : cleaning scanner and replaced stamp"
+5869,15-Jun,14:50,N,NIB,,"Reported: No endorsement. Action Taken: Adjust text print head ,tested ok"
+5855,15-Jun,14:00,N,NIC,,"Reported: Black line and endorsement blur. Action Taken: Cleaned the scanner, replace ribbon, calibarted the scanner. Test ok."
+5891,15-Jun,18:25,N,NUD,,Reported: jam cheque at ramp. Action: make it smooth. *offeredd 14:45. requested by CIT
+580E,15-Jun,15:15,N,NIC,,"Reported: No front image. Action taken: Replug scanner cable, perform TSP *offered 14:30. requested by CIT"
+588D,15-Jun,15:50,N,NIC,,Reported: black line. Action: clean scanner and stamp
+588E,15-Jun,15:30,N,NIC,,Reported: black line. Action: clean scanner and stamp
+5887,15-Jun,15:30,N,NIC,,"Reported: blackline. Action: clean scanner, pressure roller, ribbon. Test ok"
+58CC,15-Jun,15:00,N,NIB,,Reported: endorsement blur. Action taken: replug the ribbon. Clean presssure roller. Tested ok.
+58E4,15-Jun,15:45,N,NIA,,Reported: crossing. Action: replace stamp. Test ok
+584A,15-Jun,16:25,N,NIB,,Reported: Endorsement & black line. Action taken: Cleaned scanner. Replaced ribbon. Serviced machine. Test Ok. *follow 584E
+581D,15-Jun,20:15,Y,HPE,,Reported: endorsement. Action: replace motor. *requested by CIT
+5892,15-Jun,16:45,N,NBZ,,Reported: out of service. Action: checked. Suspect missing 24V after each clearing. *requested by CIT
+5804,15-Jun,17:10,N,NIC,,Reported: small image. Action taken: clean scanner and roller. Perform TSP. tested ok. *offered 16:30. requested by CIT
+581B,15-Jun,16:00,N,NIC,,"Reported: Image small. Action taken: Clean scanner, stamp, DPM and roller, tsp. Test OK."
+5808,15-Jun,15:35,N,NIB,,"Reported: Endorsement. Actual Cause: Ribbon use end. Action Taken: Replace ribbon, tested ok"
+58D1,15-Jun,16:50,N,NIC,,Reported: black line. Action taken: Clean scanner and roller. Tested ok.
+584C,15-Jun,15:30,N,NGB,,Reported: out of service. Action: cleaned sensor.
+588C,15-Jun,19:53,N,NIC,,Reported: image blur. Action: clean scanner TSP. *follow 5896 requested by CIT
+5872,15-Jun,16:00,N,NIC,,"Reported: Black line. Action taken: Clean scanner & stamp, adjust stamp gap"
+586B,15-Jun,16:00,N,NBZ,,Reported: Bar lock problem. Action taken: Fixed the bar lock. Serviced machine. Test Ok.
+58C1,15-Jun,21:00,N,NIB,,Reported: endosement blur. Action: replace pressure roller. *offered 17:15. requested by CIT
+583F,15-Jun,17:20,N,NIB,,"Reported : No endorsement,Problem : ribbon life end,diebold cannot provide,follow up by diebold"
+5871,15-Jun,17:15,N,NIB,,"Reported: endorsement. Action: reinstall ribbon, perform tsp. Test ok."
+585B,15-Jun,17:25,N,NIC,,Reported: front blackline. Action: cleaned it and stamp. Clean F29 due to oos previously.
+5896,15-Jun,19:30,N,NIA,,Reported: front stamp. Action: adjusted it and clean scanner. *requested by CIT
+58C8,15-Jun,17:25,N,NIA,,"Reported: Black line. Action taken: Replace stamp & ink roller, clean scanner"
+5810,15-Jun,19:30,N,NOZ,,Reported: out of service. Action taken: machine normal. Clean and adjust the solenoid of bin 1. *RI. NFF.
+58E2,15-Jun,18:20,N,NBZ,,"Reported : Can't open upper door,Problem : upper door lock damaged,Action : replaced"
+5823,15-Jun,21:55,N,NGC,,Reported: auto reset. Action: reboot pc. Clean card reader. *follow 58C1
+58C7,15-Jun,20:55,N,NUD,,Reported: jam cheque at scanner. Action: adjusted gap. *follow 5896
+583F,15-Jun,20:30,N,NIA,,Reported: endosement problem. Action:  replace ink ribbon and stamp. 
+58CC,15-Jun,21:30,Y,HPE,,Reported: no endorsement (line 1 and 2). Action taken: replaced the puressure roller. Adjust the print head. Replaced ribbon. Tested ok.
+58BF,15-Jun,22:30,N,NIB,,Reported: endosement incomplete. Action: replace ribbon. Test ok.
+5871,16-Jun,9:30,N,Request,,downlogs
+5855,16-Jun,13:00,N,Request,,PM CHECK with reference to RI/PM/202001.
+584F,16-Jun,11:15,N,Request,,PM CHECK with reference to RI/PM/202001.
+5893,16-Jun,9:45,N,NIB,,Reported: Endorsement printing unclear. Action: Replaced ribbon. Serviced machine. Test OK.
+5890,16-Jun,9:00,N,NOA,,"Reported : Black screen,Problem : machine shut down ,Action : reboot machine,Test ok"
+58D7,16-Jun,10:10,N,NOA,,"Reported : Out of service,Action : Reset cuttoff time handling"
+5877,16-Jun,8:55,N,NBZ,,Reported: upper door lock. Action: fix upper door lock. Test ok.
+58EC,16-Jun,9:45,N,NUD,,Reported: jam chqeue. Action: adjust yellow flat belt. Testok
+58CC,16-Jun,14:45,N,NIC,,"Reported: Black line. Action taken: Cleaned the scanner, adjust the stamp plate and flat belt (bend). Test OK."
+5887,16-Jun,14:20,N,NOZ,,"Reported: Black line. Actual cause: No black line, white line on rear image. Action taken: Clean scanner, perform TSP"
+585B,16-Jun,15:15,N,NIC,,Reported: black line. Action: clean scanner and stamp
+584A,16-Jun,17:10,N,NIC,,Reported: blackline. Action: cleaned it and TSP due to white line. *follow 584E requested by CIT
+584E,16-Jun,14:00,N,NIB,,Reported: endorsement. Action: adjust print head gap and replace ribbon.
+5853,16-Jun,15:30,N,NIC,,"Reported: image. Action: clean scanner, perform TSP."
+5855,16-Jun,14:45,N,NGA,,Reported: Out of service. Action: Reinstall power cable (DPM). Serviced machine. Test OK.
+58B4,16-Jun,15:50,N,NIC,,Reported: black line. Action: clean scanner and stamp
+58DF,16-Jun,17:40,N,NIC,,Reported: front blackline. Action: cleaned it and stamp. *follow 584E requested by CIT
+58B2,16-Jun,15:55,N,NIC,,Reported: front blackline. Action: cleaned it and pressure roller.
+5830,16-Jun,15:15,N,NIC,,Reported: Black line on rear. Action taken: Cleaned the scanner. Test OK.
+5882,16-Jun,16:15,N,NIA,,"Reported : crossing blur,Problem : Ink roller life end,but diebold cannot provide,follow up by diebold"
+586B,16-Jun,15:40,N,Request,,Reported: idle. Action: clean micr. Idle due to auto reset.
+58EE,16-Jun,16:40,N,NIC,,Reported: blackline. Action: clean scanner. Test ok.
+58A9,16-Jun,16:20,N,NIA,,Reported: Front crossing blur. Action taken: Replace stamp plate. Test OK.
+582B,16-Jun,20:30,N,NGC,,Reported: out of service. Action: clean F8 sensor. Service machine. *requested by CIT
+584E,16-Jun,21:10,N,NIB,,Reported: endosement problem. Action:  replace ink ribbon plate. Replace 024 board. Replace text printer head.  *follow 582B
+5853,17-Jun,10:10,N,NIB,,Reported: Endorsement unclear. Actual cause: Ribbon leakage. Action taken: Replaced ribbon. Serviced machine. Test OK.
+58B3,17-Jun,9:30,N,NIA,,"Reported: No front crossing. Branch ordered ink roller via tradeshift. Action Taken: CE delivered and Replace ink roller , testded ok"
+583E,17-Jun,11:35,N,Request,,"Pm check with reference to document RI/PM/202006,ESU Activation"
+58D4,17-Jun,9:25,N,Request,,Reported: flush cheque. Action: replaced ribbon. Make ramp smooth. *direct call
+5829,17-Jun,10:35,N,NOZ,,"Reported : Out of service,machine arrived normal,Service machine"
+58E8,17-Jun,10:10,N,NBZ,,Reported: upper door. Action: replaced upper door lock.
+584E,17-Jun,12:15,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Replaced ribbon. Serviced machine. Test OK.
+58A9,17-Jun,13:55,N,NIA,,Reported: No stamp. Cause:The stamp is down. Action:Rescrew stamp and rescrew ink roller. Clean scanner and test ok. *offered 12:30. requested by CIT
+580D,17-Jun,16:55,N,NIC,,Reported: back image blur. Action: stablized cable. *offered 14:45. requested by CIT
+58D4,17-Jun,13:40,N,NIB,,Reported: back endorsement blur. Action taken: replaced the ribbon. Tested ok.
+58AD,17-Jun,14:45,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Serviced machine. Test OK.
+586C,17-Jun,15:15,N,NIB,,Reported: Back endorsement blur. Cause: The ribbon is no ink and the printer head gap is shift. Action: Replace ribbon and rescrew printer gap. Test ok. *RI
+58AE,17-Jun,14:00,N,NIC,,"Reported: Black line on rear image. Action taken: Clean scanner & stamp, fixed CAS blur"
+5848,17-Jun,15:10,N,NIC,,"Reported: Image problem. Action taken: Clean scanner and roller, adjust ink roller and test printer printhead, tsp. Test OK. *requested by CIT"
+584C,17-Jun,15:00,N,NGB,,Reported: out of service. Action taken: adjust and clean red belt. Tested ok.
+58B9,17-Jun,16:45,N,NGB,,"Reported: Out of service. Action taken: FFFFFFFD, adjust input gate, clean sensor and roller. Test OK. *follow 5848"
+5870,17-Jun,15:40,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Serviced machine. Test OK.
+58A0,17-Jun,17:00,N,NIC,,"Reported: Black line on front image. Action taken: Clean scanner & stamp, perfrom TSP *follow 4C98"
+58B8,17-Jun,15:35,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Replaced stamp. Tested ok.
+58EE,17-Jun,16:00,N,NUD,,Reported: Jammed cheque. Action taken: Remove jammed cheque at bend. Serviced machine. Test OK.
+583B,17-Jun,17:00,N,NIA,,Reported: Crossing incomplete. Action: Replaced stamp. Serviced machine. Test ok
+5882,17-Jun,16:00,N,NIC,,"Reported: Dark image. Action taken: Clean scanner, perform TSP, replace ink roller & ribbon"
+5861,17-Jun,17:15,N,NIC,,Reported: front blackline. Action: cleaned it and stamp.
+5887,17-Jun,18:30,N,NOZ,,Reported: image small. Action: clean and calibrate scanner *offered 17:20 requested by CIT
+5853,17-Jun,19:00,N,NIB,,"Reported: No endorsement. Action Taken: Adjust text print head ,tested ok"
+584E,17-Jun,19:45,N,NIB,,Reported: miss 1 point of endorsement. Action taken: need follow replace print head. *follow 5853
+58EA,17-Jun,20:45,N,NZA,,Reported: Jam advice. Action taken: remove advice from cutter *offered 19:30 requested by CIT
+5855,17-Jun,21:45,N,Request,,Reported: cheque not aligner in box. Action: NFF.  replace flat at bin 1 and cleaned roller. *consider health check
+584F,17-Jun,21:30,N,Request,,Reported: cheque not aligner in box. Action: NFF.  replace flat at bin 1 and cleaned roller. *consider health check
+58B4,17-Jun,21:55,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok. *requested by CIT
+5892,17-Jun,21:30,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok *requested by CIT
+584E,17-Jun,22:25,N,Request,,Reported: follow call (miss one pint). Action taken: replaced the print head and 024 board. Tested ok.
+58C7,18-Jun,10:15,N,Request,,Health check. Adjusted ramp gate. Cleaned sensors & rollers. Replaced MDM & flat belt (bend).
+5848,18-Jun,9:35,N,NIC,,"Reported: Image small. Action taken: Clean scanner, roller and DPM, tsp. Test OK."
+58D1,18-Jun,9:10,Y,HCA,,Reported: CAS blur. Cause: The print head is old. Action: Replace print head and clean scanner. Test ok.
+58C8,18-Jun,9:30,N,Request,,"Pm check with reference to document RI/PM/202001,Esu Activitate"
+583F,18-Jun,10:30,N,Request,,"Pm check with reference to document RI/PM/202001,Esu Activitate"
+5829,18-Jun,11:20,N,Request,,"Pm check with reference to document RI/PM/202001,Esu Activitate,replaced feeder o ring"
+58CC,18-Jun,14:00,N,Request,,Health checked. Replaced the pressure roller.
+584E,18-Jun,11:50,N,Request,,Health check. Adjusted print head gap.
+5858,18-Jun,10:05,N,NUD,,Reported: Jammed cheque. Action taken: Adjust solenoid (bin 1) . Test OK.
+58FE,18-Jun,11:15,N,NGB,,Reported: Jam cheque. Action: No jammed found. Clean F8 sensor.
+58E8,18-Jun,13:45,N,Request,,Upload Logs
+58D4,18-Jun,14:40,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Serviced machine. Test OK.
+5845,18-Jun,13:35,N,NOZ,,"Reported: Black line on rear image. Action taken: NFF. Clean scanner & stamp, perform TSP"
+5821,18-Jun,14:45,N,NIC,,"Reported: Black line on rear. Action Taken: Cleaned the scanner, tested ok"
+5887,18-Jun,14:00,N,NIC,,Reported: front blackline. Action: cleaned it.
+5826,18-Jun,14:00,N,NOZ,,Reported: Black line. Action: No problem found. Perform TSP.
+5828,18-Jun,14:20,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller. Test OK."
+5854,18-Jun,14:45,N,NIB,,Reported: endorsement. ActioN: adjust print head gap.
+5853,18-Jun,14:30,N,NIB,,Reported: endorsement. ActioN: adjust print head gap.
+58EC,18-Jun,15:20,N,NGB,,Reported: Out of service. Actual cause: Upper double detector engaged. Action taken: Clean sensor & stamp
+5829,18-Jun,15:00,N,NUB,,Reported: cardreader problem. Action: cleaned it.
+58B8,18-Jun,15:35,N,NUD,,"Reported: Jammed cheque. Action taken: Remove cheque at feeder, adjust thickness gap"
+5892,18-Jun,15:45,N,NIC,,Reported: black line. Action: clean scanner. service machine. 
+58E0,18-Jun,15:45,N,NZA,,Reported: jam CAS. Action: removed jam advice. Cleaned it.
+5823,18-Jun,15:40,Y,HTP,,"Reported: Jammed cheque. Action taken: Adjust solenoid (Aligner), replace pressure roller. Test OK."
+583E,18-Jun,16:50,N,NBZ,,"Reported: Lower door lock. Action taken: Replace lower door lock, clean scanner and roller. Test OK."
+58DF,18-Jun,17:15,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Replaced stamp. Serviced machine. Test OK.
+58AB,18-Jun,18:00,N,NIA,,Reported: black line and crossing blur. Action taken: replaced the stamp and clean scanner. Tested ok.
+58E4,18-Jun,18:30,N,NIC,,Reported: black line. Action: clean scanner and stamp
+5851,18-Jun,21:15,Y,HCA,,Reported: advice blur. Action taken: replaced the CAS printer. Tested ok. *requested by CIT
+58AE,18-Jun,20:45,N,NIC,,Reported: small image. Action taken: clean scanner and roller. Perform TSP. adjust the scanner gate. Tested ok. *follow 5851
+58CC,18-Jun,18:55,N,NOZ,,Reported: black line. Action taken: NFF. replaced the new ribbon. Clean scanner and roller. Tested ok.
+5892,18-Jun,21:30,N,NOZ,,"Reported: image small. Action: no image small find, clean black line and TSP perform"
+5887,18-Jun,20:30,N,NIC,,Reported: Image small. Action: Clean scanner and roller. Perform TSP. Serviced machine. Test OK.
+58B3,19-Jun,9:30,N,NIA,,"Reported: Black line. Action Taken: Replace stamp plate, tested ok"
+58DB,19-Jun,9:10,N,Request,,"Pm check with reference to document RI/PM/202001,Esu activiate"
+588E,19-Jun,12:35,N,NUD,,Reported: jam cheque at feeder. Action: adjust thick detect.
+5845,19-Jun,12:20,N,NIC,,Reported: Black line. Action taken: Clean scanner and roller. Test OK.
+5882,19-Jun,13:30,N,NIC,,Reported: image blur. Action: clean scanner tsp.
+58B4,19-Jun,13:30,N,NIA,,Reported: Crossing unclear. Action: Replaced ink roller. Service machine. Test OK.
+5828,19-Jun,12:40,Y,HPE,,"Reported: Endorsement image blur. Action Taken:Adjust print head and pressure roller, replace prefeed roller, tested ok"
+58DF,19-Jun,13:15,N,NIA,,"Reported: Crossing problem. Action taken: Adjust stamp and ink roller, clean scanner and sensor. Test OK."
+5892,19-Jun,15:00,N,NOZ,,Reported: Black line. Action taken: NFF. Cleaned scanner. Serviced machine. Test OK.
+5848,19-Jun,15:00,N,NIC,,"Reported: Image smaller. Action Taken: Adjust wire (scanner), calibrated the scanner, tested ok"
+580E,19-Jun,15:00,N,NGB,,Reported: out of service due to lift ko. Action: clean sensor and adjust stamp.
+58B3,19-Jun,16:05,N,NOZ,,Reported: Application slowly. Action taken: Restart PC . Test OK.
+58D6,19-Jun,15:30,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Serviced machine. Test OK.
+58B8,19-Jun,15:45,N,NIC,,Reported: black line. Action: clean scanner. Adjust stamp gap. 
+582E,19-Jun,16:40,N,NUD,,Reported: jam cheque at aligner. Action: removed jam cheque. Adjust thick detect. *follow 5811
+58B7,19-Jun,15:50,N,NIC,,Reported: black line and endorsement blur. Action taken: clean scanner and replaced ribbon. Tested ok.
+5810,19-Jun,17:05,N,NIC,,Reported: Black line. Cause: The front scanner is dirty. Action: Clean scanner and recalibrate scanner. Test ok. *requested by CIT
+582D,19-Jun,16:55,N,NIA,,"Reported: Crossing problem. Action taken: Adjust stamp, clean sensor and scanner. Test OK."
+5811,19-Jun,16:00,N,NIC,,Reported: back endorsement and blackline. Action: cleaned it and adjusted it.
+58E2,19-Jun,16:35,N,NZA,,"Reported : No cas,Action : cleaning printer and renew cas"
+58B2,19-Jun,17:15,N,NIC,,Reported: Black line. Action: Clean scanner. Perform TSP.
+5874,19-Jun,18:00,N,NGB,,Reported: Out of service. Action: Clean SMJ board. Adjust 24v switch.
+5866,19-Jun,18:15,N,NIC,,Reported: Crossing problem. Actual cause: Black line on front image. Action taken: Clean scanner & stamp
+58EE,19-Jun,19:00,N,NUD,,Reported: Jam cheque. Action: Remove jammed cheque at bend. Adjust bend belt. Perform TSP.
+58C7,19-Jun,21:20,N,NUD,,Reported: Jam cheque. Action: Bend belt loosen. Remove jammed cheque at bend. Rescrew bend belt.
+5855,19-Jun,20:50,N,NUB,,"Reported: Can't insert cheque. Action taken: Clean paper path & MICR reader, adjust thickness gap"
+5842,20-Jun,9:00,N,Request,,"Health Check. Adjust thikcness adjuster, replace yellow and flat belt, clean scanner and roller. Test OK."
+585A,20-Jun,11:40,Y,HCR,,Reported: Card reader. Action taken: Remove jammed card. Replaced card reader. Test OK. *offered 9:45. 
+586A,20-Jun,9:00,N,NIA,,Reported: No crossing. Action taken: Replace stamp & ink roller
+58B7,20-Jun,10:30,N,NIC,,Reported: endorsement fist line of frist point  missed half point. Action taken: replaced the ribbon. Tested ok.
+58BD,20-Jun,12:15,N,NZA,,"Reported : jam cas,Problem : jam paper bit into cutter,Action : cleaning cutter"
+5811,20-Jun,15:00,N,NOZ,,Reported: White line. Cause: NFF. Action: Clean scanner and recalibrate scanner. Test ok.
+5855,20-Jun,10:30,N,NUA,,"Reported: Out of service. Action Taken: Cleaned card reader, tested ok *offered 09:45."
+5897,21-Jun,9:40,N,Request,,Reported: Jam advice. Action: remove advice from cuter and ejection roller. *direct call
+58C7,21-Jun,22:05,N,NGC,,"Reported: Out of service. Action taken: Image not arrival, check the DPM and cable, clean sensor and roller. Test OK."
+5818,20-Jun,15:45,N,NGB,,Reported: Out of service. Action: Clean F6 sensor. Perform TSP. *requested by CIT
+5859,22-Jun,9:30,N,NUA,,"Reported : card reader error,Problem : found admin card into card holder,Action : collect admin card request by ATM"
+58A3,22-Jun,12:50,N,Request,,PM checked. ESU 
+5833,22-Jun,11:30,N,Request,,PM checked. ESU 
+5876,22-Jun,10:00,N,Request,,PM checked. ESU 
+5806,22-Jun,10:50,N,NUD,,"Reported: Jammed cheque. Action Taken: Adjust the bin 1 (collection), tested ok *follow 586E"
+586E,22-Jun,10:00,N,NUD,,Reported: Jammed cheque. Action taken: Cleaned roller (escow). Test OK. *offered 586E
+5895,22-Jun,13:10,N,NZA,,Reported: CAS jammed. Action taken: Remove jammed CAS. Serviced machine. Test Ok.
+58BD,22-Jun,12:50,N,NIC,,"Reported : image small,Action : cleaning and calibration scanner"
+5855,22-Jun,13:00,Y,HCR,,"Reported: Card reader. Action Taken: Need to follow up later, tested ok"
+5892,22-Jun,13:20,N,NIA,,Reported: Black line. Action taken: Cleaned scanner & replaced ink roller. Serviced machine. Test OK.
+58AC,22-Jun,15:00,N,NIC,,Reported: black line. Action taken: clean scanner and roller. Tested ok. *follow PM
+587B,22-Jun,13:55,N,NGB,,"Reported: Out of service. Action Taken: Cleaned sensor (F8), tested ok "
+5864,22-Jun,15:30,N,NOZ,,"Reported : Jam cheque,machine arrived normal,cleaning and adjust bin 2 flat belt *follow 5837"
+5855,22-Jun,14:25,N,Request,,"Follow up to replace card reader, tested ok"
+5896,22-Jun,14:15,N,NUD,,"Reported: jam cheque. Action: remove fold cheque from scanner, clean roller"
+5837,22-Jun,14:25,N,NGB,,"Reported : Out of service,Problem : F2 sensor dirty,Action : cleaning ,Test ok"
+58B9,22-Jun,14:55,N,NUA,,"Reported: Card reader problem. Action taken: Remove card, restart machine, clean scanner and roller. Test OK."
+58EC,22-Jun,15:15,N,NGB,,Reported: Out of service. Action taken: Cleaned DD sensor (upper). Serviced machine. Test OK.
+58B3,22-Jun,16:00,N,NIC,,"Reported: Black line. Action taken: Clean scanner and roller, adjust stamp. Test OK."
+5808,22-Jun,15:25,N,NIA,,Reported: Crossing Blur. Action: Replace stamp. Clean scanner and drum.
+58A0,22-Jun,16:00,N,NIC,,Reported: Black line. Cause: The front scanner is dirty. Action: Clean scanner and recalibrates scanner. Test ok.
+58D6,22-Jun,15:30,N,NIA,,Reported: crossing. Action: adjust ink roller. Test ok.
+586E,22-Jun,16:45,N,NIA,,Reported: Front crossing blur. Action taken: Replace ink roller. Test OK.
+5812,22-Jun,16:30,N,NIB,,"Reported : endorsement blur,Action : replaced ribbon cartiage and adjust rear scanner cable"
+583B,22-Jun,17:00,N,NIC,,Reported: Black line. Cause: The front scanner is dirty. Action: Clean scanner and recalibrates scanner. Test ok.
+583E,22-Jun,18:55,N,NIC,,"Reported: Black line. Action: Clean scanner, stamp and drum. *offered 17:00. requested by CIT"
+586C,22-Jun,17:15,N,NIA,,Reported: crossing blur. Action taken: replaced the stamp. Tested ok.
+5871,22-Jun,18:40,N,NIA,,Reported: Front crossing blur. Action taken: Adjust stamp gap *offered 16:45
+5848,22-Jun,19:55,N,NIC,,Reported: Image small. Action: Perform TSP. Adjust scanner gap. Replug scanner cable. *requested by CIT
+5878,22-Jun,19:30,N,NOA,,"Reported: CAS problem. Actual cause: Paper end, inform DIEBOLD to replace CAS roll"
+5879,22-Jun,19:40,N,NBA,,"Reported: Collection box problem. Action taken: Adjust collection box, clear black line"
+58CC,23-Jun,9:30,N,Request,,Upload Logs
+5830,23-Jun,9:30,N,Request,,Upload Logs
+588A,23-Jun,9:30,N,Request,,Upload Logs
+5832,23-Jun,12:00,N,NUD,,Reported: Jammed cheque. Action taken: Remove jammed cheque at aligner. Serviced machine. Test OK. *offered 9:15
+58A9,23-Jun,16:25,N,Request,,Health Check- Fix printer's arm sensor and fix the bin 1 solenoid. Test ok.
+58AB,23-Jun,16:50,N,Request,,Health Check - Fix the bin wire and clean scanner. Test ok.
+5851,23-Jun,11:55,N,Request,,PM CHECK with reference to RI/PM/202006. Activate ESU key.
+58AC,23-Jun,13:30,N,Request,,Health checked. Replaced the ink roller stand.
+58B4,23-Jun,21:25,N,Request,,health check - No USD printout. Action:adjust usd setting.
+58C7,23-Jun,11:05,N,NUD,,Reported: Jammed cheque. Action taken: Remove jammed cheque at aligner. Replaced SMJ & DPM cable. Serviced machine. Test OK. *offered 10:00. requested by CIT
+5867,23-Jun,9:45,N,Request,,Health Check - Fix bin 1 solenoid and test ok.
+588F,23-Jun,12:15,N,NUD,,"Reported : jam cheque,Problem : ribbon metal film broken,Replaced"
+580E,23-Jun,12:20,N,NUD,,"Reported: Cheque jam. Cause: The cheque jammed at bin 1, the bin 1 solenoid is shift. Actin: Remove cheque and fix bin 1 solenoid. Test ok."
+582E,23-Jun,17:10,N,NZA,,Reported: No CAS. Action taken: Adjust CAS roll detector. *offered 15:45
+5811,23-Jun,16:20,N,NIB,,Reported: Endorsement blur. Actual cause: Low ink. Action taken: Replace ribbon
+588E,23-Jun,13:00,N,NIC,,Reported: Image small. Cause: The scanner is dirty. Action: Clean scanner and recalibrate scanner. Rescrew stamp and test ok.
+58CB,23-Jun,15:30,N,Request,,Health checked. Adjust the scanner and scanner belt. Replaced the stamp.
+5829,23-Jun,14:35,N,Request,,"Reported: Find cheque. Action taken: No cheque found, upload log, clean scanner. Test OK."
+586A,23-Jun,13:15,N,NGC,,"Reported : No crossing and endorsement,Action : reset update system parametery"
+5824,23-Jun,13:25,N,NIC,,Reported: White line and black line. Action taken: Calibrated and cleaned the scanner. Test OK.
+58CC,23-Jun,15:15,N,NIC,,Reported: Image small. Cause: The back scanner is dirty. Action: Clean scanner and recalibrate scanner. Rescrew printer head gap and test ok. *requested by CIT
+58AC,23-Jun,13:30,N,NIC,,Reproted: black line. Action taken: clean scanenr and roller. Tested ok.
+58BD,23-Jun,14:45,N,NOZ,,"Reported : jam cas,machine arrived normal,Action : adjust eject roller"
+58B8,23-Jun,14:30,N,NUD,,Reported: Jammed cheque. Action taken: Remove jammed cheque. Adjusted thickness adjustor. Serviced machine. Test OK.
+5853,23-Jun,16:00,N,NIA,,Reported: Crossing. Action taken: Replaced stamp. Serviced machine. Test OK.
+5854,23-Jun,15:45,N,NIB,,Reported: Endorsement. Action taken: Replaced ribbon. Serviced machine. Test OK.
+5857,23-Jun,15:20,N,NIC,,Reported: Black line. Action taken: Cleaned scanner. Serviced machine. Test OK.
+58A0,23-Jun,16:25,N,NIC,,"Reported: Image small. Action taken: Clean scanner and roller, tsp. Test OK."
+585E,23-Jun,16:20,N,NIC,,"Reported: image problem. Action: replace stamp, clean roller"
+580E,23-Jun,19:15,N,NOZ,,"Reported: Out of service. Action taken: Check the PC, window update is running. Test OK. *requested by CIT"
+5872,23-Jun,17:25,N,NGB,,"Reproted: Out of service. Action taken: Clean the F8 sensor, scanner and roller. Test OK. *follow 58A0"
+583C,23-Jun,16:20,N,NIB,,"Reported : endorsement blur,Action : replaced ribbon cartiage "
+5844,23-Jun,15:40,N,NIC,,"Reported : Black line,image bright,Action : cleaning and calibration scanner"
+5888,23-Jun,17:05,N,NIA,,Reported: Front crossing. Action taken: Replace stamp plate. Test OK.
+5827,23-Jun,19:10,N,NUA,,"Reported: Card reader problem. Action taken: Check card reader, clean sensor and roller. Test OK. *follow 58A0"
+589D,23-Jun,16:45,N,NUD,,Reported:cq jam. Action: remove cheque from feeder slot. Clean prefeed roller. Test ok.
+5877,23-Jun,18:45,N,NGC,,Reported: out of service. Action: replaced2 mdm board due to lift ko and image not arrive. Make ramp smooth due to jam. Perform AT to avoid double cheque insert. *requested by CIT
+5819,23-Jun,18:45,N,NBA,,"Reported: Collection box problem. Action taken: Replace wiring, clean scanner and roller. Test OK."
+5817,23-Jun,20:45,N,NIC,,"Reported: Out of service. Action taken: Clean the F6 sensor, scanner and roller. Test OK. *offered 19:45"
+580E,23-Jun,22:30,N,NGZ,,"Reported: Out of service. Actual cause: ATM message timeout. Action taken: Open polling, restart application, service machine. Test OK."
+58AC,24-Jun,10:15,Y,HTP,,Reported: Cheque jam. Cause: The bend belt is old. Action: Remove cheque and replace bend belt. Recalibrate scanner and test ok. *offered 9:15
+587A,24-Jun,9:15,N,NIA,,Reported: Crossing blur. Action: Replace stamp.
+5897,24-Jun,9:30,Y,HCA,,Reported: cas jam. Action: Replace CAS printer.
+584C,24-Jun,10:00,N,NOZ,,"Reported: jam cheque. Action: normal machine, fixed printhead cable"
+5877,24-Jun,10:45,N,NOZ,,Reported: idle. Action: replug Lan cable *offered 09:30. requested by CIT
+58C1,24-Jun,10:00,N,Request,,PM CHECK with reference to RI/PM/202006. Activate ESU key.
+58C2,24-Jun,10:30,N,Request,,"PM CHECK with reference to RI/PM/202006. Activate ESU key.replaced feed roller,adjust thickness adjust knob and feeder pad"
+5864,24-Jun,12:45,N,NOZ,,Reported: Out of service. Action: Machine normal. Cleaned sensors & rollers. Serviced machine. Test OK.
+5808,24-Jun,12:55,N,NOZ,,Reported: Jam cheque. Action: No jammed found. Adjust bin roller and box wire.
+5819,24-Jun,13:15,N,NUD,,Reported: Jam cheque. Action: Remove jammed cheque at bin 1. Adjust bin roller and thickness adjustor.
+58A2,24-Jun,12:30,N,Request,,Reported: No CAS. Cause:The print head screw is shift. The print head is down. Action: Rescrew the print head and clean scanner. Test ok. *direct
+5871,24-Jun,12:55,Y,HCA,,"Reported: No advise. Action Taken: Replace CAS printer, tested ok"
+5824,24-Jun,12:45,N,NIC,,Reported: Black line on rear image. Action taken: Clean scanner & stamp.
+58B8,24-Jun,14:00,N,NUD,,"Reported: jam cheque at input slot. Action: adjust input slot gap. Clean scanner, TSP. *offered 13:30"
+5844,24-Jun,13:45,N,NIB,,Reported: Endorsement. Action: Adjusted rear offset. Serviced machine. Test OK.
+58B6,24-Jun,13:30,N,NIC,,Reported: image problem. Action: Cleaned sensors & rollers. Serviced machine. Test OK.
+5892,24-Jun,14:20,N,NIC,,"Reported: Black line / image zoom out. Action Taken: Adjust stamp plate, calibrated the scanner, tested ok"
+582C,24-Jun,15:15,N,NGZ,,Reported: jam cheque. Action: HQS time out. Reboot CQM. Service machine. Test ok. *follow 5871
+587B,24-Jun,14:55,N,NOZ,,"Reported: image zoom out. Action: no problem found. Clean scanner, perform tsp."
+584D,24-Jun,18:45,N,NIC,,"Reported: Image small. Action taken: Clean stamp, scanner and DPM box, tdp. Test OK. *requested by CIT"
+5803,24-Jun,16:15,N,NGC,,"Reported: Jam cheque. Actual cause: No Jammed cheque, feeder gate cannot close. Action taken: Adjust feeder gate"
+582D,24-Jun,16:35,N,NIC,,"Reported: Black line on front image. Action taken: Clean scanner & stamp, perfrom TSP."
+5856,24-Jun,16:45,N,NIC,,Reported: black line. Action: clean scanner. 
+58C8,24-Jun,18:10,N,NIC,,Reported: front blackline. Action: replaced ink roller. Cleaned it and stamp. *requested by CIT
+5872,24-Jun,16:50,N,NGB,,"Reported : jam cheque,No jam cheque found,Problem : F1 and F29 sensor engagged,Action : cleaning and adjust"
+5858,24-Jun,20:35,N,NIA,,Reported: Crossing problem. Action taken: Replace stamp and adjust it. Test oK. *offered 16:30
+58D6,24-Jun,18:45,N,NIB,,Reported: crossing + endorsement. Action: clean scanner. Replace stamp. *offered 17:15
+58DF,24-Jun,18:00,N,NIB,,Reported: endosement blur. Action: Do tsp. test ok.
+580E,24-Jun,21:40,N,Request,,"Health Check. Change to USB com, check card reader. Test OK."
+58FE,24-Jun,20:05,N,NGC,,Reported: out of service. Action: cleaned cardreader. Check lan and smj due to image not arrive. Adjust stamp. Clean printer. *offered 19:00
+58FD,24-Jun,20:35,N,NOZ,,Reported: no CAS. Action: check normal. Clean printer.
+580E,24-Jun,21:40,N,NUA,,"Reported: Card reader problem. Action taken: Change to USB com, check card reader, service machine. Test OK."
+587A,24-Jun,21:05,N,NIA,,Reported: Crossing problem. Action taken: Replace ink roller and adjust it. Test OK. *requested by CIT follow 5858
+5871,25-Jun,16:00,N,Request,,Health check. Replaced card reader & scanner. 
+5845,25-Jun,10:30,N,NOZ,,Reported: Out of service. Action: Machine normal. Cleaned sensors & rollers. Serviced machine. Test OK. *offered 9:45. 
+58E8,25-Jun,11:15,N,NGB,,Reported: Jammed cheque. Action: No jammed found. Cleaned sensors. Serviced machine. Test OK. *RI
+5880,25-Jun,10:30,Y,HTP,,Reported: Jam cheque at yellow belt. Action taken: replaced the yellow belt. Tested ok.
+58C2,25-Jun,12:10,N,NGB,,Reported: Jammed cheque. Action: No jammed found. Cleaned sensor F29. Serviced machine. Test OK.
+5894,25-Jun,14:30,N,NGB,,Reported: Jammed cheque. Action: No jammed found. Cleaned sensors & rollers. Serviced machine. Test OK.
+5872,25-Jun,16:30,N,NGB,,Reported: out of service. Action taken: replug and clean F28 sensor. Tested ok.
+58A1,25-Jun,20:15,N,NUB,,Reported: out of service( can't insert cheque). Action taken: clean F29 sensor. Tested ok. *requested by CIT
+5839,26-Jun,10:30,N,NUD,,"Reported: Jam cheque. Action taken: Remove cheque at scanner, adjust scanner gap. *offered 9:00.  "
+582E,26-Jun,11:25,N,Request,,Replace cover lock and replace bar lock. Clean scanner and test ok.
+58E9,26-Jun,11:30,N,NZA,,Reported: CAS. Action taken: Remove jammed CAS. Serviced machine. Test Ok.
+58E0,26-Jun,12:30,N,Request,,"Reported: Search cheque. Actual cause: the cheque was found in box, upload logs"
+587B,26-Jun,16:30,N,NIC,,Reported: Image small. Cause: The back scanner is dirty. Action: Clean scanner and recalibrate scanner. Test ok. *offered 14:00
+58B6,26-Jun,15:00,N,NIC,,"Reported : Black line,image small,Action : cleaning and calibration scanner *offered 13:30"
+582A,26-Jun,13:00,N,NIA,,Reported: No crossing. Action: Replace stamp.
+58C8,26-Jun,14:00,N,NIC,,"Reported: blackline. Action: Clean scanner, stamp and adjust stamp. Test ok."
+58DF,26-Jun,14:05,N,NIC,,Reported: black line. Action: clean scanner and stamp
+58D6,26-Jun,15:30,N,NIC,,"Reported : Black line,Action : cleaning scanner,adjust stamp and ink roller *offered 13:30"
+5803,26-Jun,13:50,N,NIC,,"Reported: Image problem. Action taken: Replace ink roller and adjust it, clean scanner and roller, tsp. Test OK."
+58A0,26-Jun,14:30,N,NIC,,"Reported: blackline. Action: clean scanner, stamp, drum belt. Test ok."
+585B,26-Jun,16:00,N,NIC,,"Reported : Black line,Action : cleaning scanner,adjust stamp and ink roller *offered 14:00"
+5817,26-Jun,14:00,N,NIC,,Reported: Black line. Cause: The back scanner is dirty. Action: Clean back scanner and rescrew printer head gap. Test ok.
+5854,26-Jun,15:00,N,NIB,,Reported: Endorsement. Action taken: Adjusted print head. Serviced machine. Test Ok.
+5869,26-Jun,14:35,N,NIC,,Reported: Image small. Cause: The front scanner is dirty. Action: Clean and recalibrate scanner. Test ok.
+5827,26-Jun,15:40,N,NOZ,,Reported: card reader. Action: no problem found. Normal service machine. Test ok.
+5892,26-Jun,16:40,N,NIB,,"Reported : No endorsement,Action : replaced ribbon cartiage"
+587A,26-Jun,17:00,Y,HCA,,Reported: Stamp unclear and printer unclear. Cause: The ink roller is down and the print head is blur. Action: Rescrew ink roller and replace printer(repaired) and test ok.
+5887,26-Jun,18:10,Y,NOZ,,"Reported: Out of service - front door opened. Action Taken: No problem found, tested ok"
+58B6,26-Jun,20:40,Y,HSC,,"Reported : image small,Action : replaced scanner assy and scanner cable *requested by CIT"
+58C8,26-Jun,22:00,N,NOZ,,"Reported: Black line. Action Taken: NFF. Adjust stamp plate, tested ok"
+58B3,27-Jun,9:55,N,Request,,"Reported: Health Check - card reader. Action Taken: Replace card reader, tested ok"
+5851,27-Jun,10:30,N,NUD,,Reported: Out of service. Action: Remove jammed cheque at feeder. Adjust thickness adjustor. *offered 09:15
+58EC,27-Jun,14:00,N,Request,,Health check. Replaced sensor F8 & F14. 
+58B8,27-Jun,14:30,N,Request,,Health check. Cleaned sensors & rollers.
+58C9,27-Jun,14:45,N,Request,,Health check. Cleaned sensors & rollers.
+5838,27-Jun,13:00,N,NUD,,Reported: Jammed cheque. Action taken: Remove jammed cheque at aligner. Serviced machine. Test OK. *requested by CIT
+5892,27-Jun,15:45,N,NIB,,Reported: Endorsement. Actual: Ribbon no good. Action taken: Replaced ribbon. Serviced machine. Test OK. *follow 5838
+58A9,27-Jun,14:00,N,NUD,,Reported: jam cheque at bend. Action: removed culved cheque.
+58A7,27-Jun,18:00,N,NGC,,Reported: out of service. Action: lift ko. Clean sensor. Replaced ink roller.
+5853,27-Jun,17:30,N,NIC,,Reported: Black line. Actual: Image small. Action taken: Cleaned scanner. Perform TSP. Serviced machine. Test Ok.
+586C,28-Jun,16:15,Y,HTP,,Reported: jam cheque at escrow. Action: removed culved cheque. Replaced red belt.
+589D,29-Jun,11:15,N,Request,,PM CHECK with reference to RI/PM/202006. Activate ESU key
+581C,29-Jun,10:00,N,NUD,,Reported: Jam cheque. Action: Remove jammed cheque at bin 1. Adjust bin roller.
+5855,29-Jun,14:15,N,NIC,,Reported: Black line. Action: Clean scanner. Replace ribbon.
+585D,29-Jun,13:30,N,Request,,Health check. Adjusted aligner guide.
+58B6,29-Jun,16:00,N,NOZ,,Reported: black line. Action: no black line. Service machine.  *offered 14:00
+5832,29-Jun,14:00,N,NIC,,"Reported: image problem. Action: clean scanner and stamp, replace ink-roller and ribbon"
+58B8,29-Jun,15:00,N,NIC,,Reported: Image small. Action: Cleaned scanner. Perform TSP. Serviced machine. Test ok. *follow 581E
+580F,29-Jun,14:30,N,NIC,,Replaced: back blackline. Action: cleaned it and pressure roller.
+5885,29-Jun,14:20,N,Request,,Reported: cant insert cq box. Action: replace collection box wiring. Test ok *direct
+5839,27-Jun,16:00,N,NGB,,Reported: jam cheque. Action: clean F0 sensor and red belt. Tested ok. *requested by CIT
+58C8,27-Jun,13:30,N,NIC,,Reported: Black line. Action: replaced ink roller. clean scanner and roller. Tested ok.
+589F,27-Jun,17:00,N,NUB,,can't insert cheque. Clean F1 sensor. Tested ok.
+5869,27-Jun,20:30,N,NGB,,Adjust cheque of bin 1. tested ok. *requested by CIT
+58A0,28-Jun,10:45,N,NOZ,,Reported: Out of service.  Machine normal. Clean red belt. Adjust the ink roller and stamp roller. Tested ok. *requested by CIT
+58CB,28-Jun,12:30,N,NGC,,Reported: Out of service.  Action: Hold on bios. Restart the PC. Tested ok.
+587D,29-Jun,14:10,N,NIC,,Reported: Black line on rear image. Action taken: Clean scanner & stamp
+58A3,29-Jun,13:35,N,NIB,,adjust the ribbon. Clean puressure roller. Perform TSP. tested ok.
+5803,29-Jun,14:40,N,NIC,,"Reported: Black line. Action taken: Clean scanner, stamp and roller, adjust ink roller. Test OK."
+583A,29-Jun,15:45,N,NIC,,"Reported: Black line. Action Taken: Cleaned the scanner, tested ok  "
+581A,29-Jun,16:00,N,NUD,,"Reported : jam cheque,Problem : staple detector spring loosen,Action : replaced ,adjust feeder pad and replaced stamp"
+581E,29-Jun,15:45,N,NIB,,Reported: Endorsement. Actual: Ribbon blur. Action: Replaced ribbon. Serviced machine. Test ok.
+5834,29-Jun,16:30,N,NZA,,"Replaced: idle and CAS. Action: stablized display cable. Removed jam advice. Clean scanner, stamp, pressure roller."
+585E,29-Jun,15:40,N,NIC,,Reported: blackline. Action: clean scanner and replace ribbon. Adjust ink roller. Test ok.
+582D,29-Jun,16:20,N,NIC,,Reported: Black line. Action taken: Clean scanner and roller. Test OK.
+588B,29-Jun,17:15,N,NGB,,Reported: Out of service. Action: Cleaned sensors. Serviced machine. Test ok.
+5848,29-Jun,17:30,N,NIC,,"Reported: Image problem. Action taken: Clean scanner and roller, check DPM box, tsp. Test OK. *requested by CIT"
+589C,29-Jun,18:15,N,NUB,,"Reported: Reject cheque. Action Taken: Cleaned the MICR reader belt, cleaned prefeed roller, tested ok"
+5878,29-Jun,18:45,N,NZA,,Reported: CAS. Action: replace new CAS roll. 
+5806,29-Jun,20:30,Y,HTP,,"Reported : jam cheque at collection,Problem : Bin 2 flat belt damaged,Replaced"
+58E9,29-Jun,19:25,N,NUD,,"Reported: Jammed cheque. Action Taken: Cleaned double detector, tested ok"
+5823,29-Jun,20:00,Y,HPE,,"Reported: No endorsement. Action Taken: Replace roller (black, ribbon) and text printy head, tested ok"
+58E2,29-Jun,20:55,N,NZA,,"Reported: No advise. Actual Cause: Paper use end. Action Taken: Cleaned sensor, replace pressure, tested ok"
+5869,29-Jun,22:00,N,NUD,,"Reported : jam cheque,""FFFD"",Action : adjust feeder gate"
+58C9,30-Jun,9:45,N,NOZ,,Reported: Out of service. Action taken: Machine normal. Serviced machine. Test ok.
+5848,30-Jun,9:45,N,Request,,Health Check.  image problem. Action: replace scanner and cables
+5842,30-Jun,12:15,N,NGC,,Reported: MI 440. Action: black line in endorsement. Clean scanner and request polling *requested by CIT
+585E,30-Jun,10:00,N,NOZ,,Reported: Out of service. Actual: Windows update. Action taken: Machine normal. Serviced machine. Test ok.
+5828,30-Jun,12:15,N,NUD,,Reported: jam cheque. Action: remove fold from scanner *requested by CIT
+5880,29-Jun,15:00,N,NIC,,Reported: Black line. Action: Clean scanner. Replace ribbon.
+58E8,30-Jun,12:00,N,Request,,Reported: search cheque. Action: found at gate of collection box.
+5885,30-Jun,11:15,Y,HTP,,"Reported : Out of service,machine arrived normal,Action : Replaced yellow belt"
+5848,30-Jun,18:45,Y,HPC,,"Reported: Image problem. Action taken: Replace SMJ board, check scanner cable ,tsp. Test OK. *requested by CIT"
+5826,30-Jun,15:20,N,NIB,,Reported: No endorsement. Action: Adjust printhead and ribbon. *requested by CIT
+587D,30-Jun,15:00,N,NIC,,Reported: front blackline. Action: cleaned it and stamp.
+5838,30-Jun,15:15,N,NIC,,Reported: Black line. Actual: Scanner is dirty. Action taken: Cleaned scanner. Serviced machine. Test ok.
+58D6,30-Jun,17:00,N,NIC,,Reported: Endorsement. Actual: Scanner is dirty. Action taken: Cleaned scanner. Serviced machine. Test ok. *follow 5838
+58EE,30-Jun,14:00,N,NIC,,Reported: Black line on front image. Action taken: Clean scanner & stamp
+58B6,30-Jun,16:35,N,NIC,,Reported: Image unclear & endorsement. Action taken: Cleaend scanner. Perform TSP. Serviced machine. Test ok. *follow 5838
+585B,30-Jun,16:00,N,NIC,,Reported: Black line. Actual: Scanner is dirty. Action taken: Cleaned scanner. Serviced machine. Test ok. *follow 5838
+58A7,30-Jun,14:40,N,NGB,,Clean MDM board. Tested ok.
+5855,30-Jun,14:30,N,NIC,,Reported: Black line. Action: Clean scanner and drum. Replace ribbon.
+5866,30-Jun,15:00,N,NIB,,"Reported : endorsement blur,Action : replaced ribbon cartiage"
+5843,30-Jun,17:20,N,NOZ,,"Reported: Auto reset. Action: Normal machine in arrival, reboot machine test ok *requested by CIT"
+58C6,30-Jun,17:10,N,NOA,,Reported: No CAS. Actual cause: Paper end. Action taken: Replace CAS roll
+5854,30-Jun,19:00,N,NIC,,Reported: blackline. Action: clean scanner and stamp. *offered 17:00
+582E,30-Jun,17:10,N,NIC,,"Reported: Black line. Action: Clean sanner, pressure roller and stamp."
+580E,30-Jun,17:35,N,NGB,,Reported: cq jam. Action: no jam chq found. Clean board.
+584A,30-Jun,20:45,N,NIA,,Reported: endorsement. Action: clean scanner and stamp. Replace ink roller. Perform TSP *follow 5854
+587A,30-Jun,21:15,N,NGB,,"Reported: Out of service. Action taken: Clean the F10 sensor, scanner and roller. Test OK. *RI"
+588B,30-Jun,20:15,N,NUD,,Reported: cq jam. Action: replace ribbon. Test ok. *follow 5854
+5879,30-Jun,19:45,N,NZA,,Reported: cas. Action: follow replace cas printer.
+5855,30-Jun,22:00,N,NBA,,"Reported: Collection box problem. Action taken: Check the collection box, clean sensor and roller. Test OK. *requested by CIT"
+5878,30-Jun,19:30,N,NOZ,,Reported: lower door lock. Action: door unlocked. No problem found.  
+58AF,30-Jun,11:00,N,Request,,Reload Program
+586C,30-Jun,16:05,N,NIC,,Reported: Black line. Cause: The back scanner is dirty. Action: Clean back scanner and rescrew printer head gap. Test ok.
+58CB,30-Jun,18:30,N,NZA,,Reported: CAS jam. Cause: CAS jammed at roller. Action: Clean CAS printer and remove cheque. Test ok.
 5806,01-Jul,11:15,Y,Request,Health checked,ESU. Adjust the Feeder pad. Clean scanner and Flat belt. Tested ok.
 586C,01-Jul,9:40,N,NUD,Jam cheque on red belt.,the 420 belt lose. Reinstall the 420 belt. Tested ok.
 5822,01-Jul,15:15,Y,Request,ESU Activation,ESU Activation
@@ -285,7 +1068,7 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 58E5,11-Jul,16:15,N,NGZ,check hqs,call atm open controller. Service machine. *requested by CIT
 58A2,11-Jul,20:55,N,NUD,Jam cheque on bin 1,adjust the cheque of bin 1. tested ok.
 58E2,12-Jul,10:15,Y,Request,Upgrade application,wrong password. Need follow other disk.
-58B5,12-Jul,12:15,N,NUD,Jam cheque on bin 1,removed jam cheque. Adjust the cheque of bin 1. clean the roller of bin 1. tested ok. *follow '58E2
+58B5,12-Jul,12:15,N,NUD,Jam cheque on bin 1,removed jam cheque. Adjust the cheque of bin 1. clean the roller of bin 1. tested ok. *follow 58E2
 5831,12-Jul,18:15,N,NUD,Jam cheque,Remove jammed cheque at escrow. Clean F8 sensor and roller.
 580E,12-Jul,18:45,N,NGB,Out of service.,clean and adjust the stamp and ink roller. Tested ok.
 58E2,13-Jul,16:00,Y,Request,Upgarde,Upgrade application
@@ -576,24 +1359,28 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 5867,25-Jul,9:30,N,NGB,out of service due to lift ko,clean sensor and adjust roller. Update kslimage.ocx.
 58AB,25-Jul,11:50,Y,Request,Health Check ,"Replace belt 351, bend belt, o-ring(bin), o-ring(knob) and Replace printer(repaired). Test ok."
 58DB,25-Jul,14:45,N,NUD,jam cheque,take away fold cheque at aligner. Service machine
-5844,27-Jul,15:35,Y,NIC,Black line on front image,Clean scanner & stamp
 5851,26-Jul,16:25,N,NZA,CAS jam,"Remove CAS, check printer and setting, clena sensor and roller. Test OK."
 58DB,26-Jul,19:30,Y,NIB,Endorsement blur,"Replace ribbon, adjust test printer gap, clean roller. Test OK."
 58A2,27-Jul,11:20,N,NZA,jam advice,clean roller. Cutter and print head. Staff power off the machine. Power on the CQM. Clean scanner and roller of bin 1. tested ok.
 585C,27-Jul,12:00,N,NGZ,Idle,check lan. Full reset polling.
 587F,27-Jul,13:15,Y,NIC,black line,clean scanner
+5837,27-Jul,13:00,N,NIC,Image zoom out,"wire loose, Adjust wire (scanner), tested ok"
 5807,27-Jul,13:15,Y,NIC,Back blackline,cleaned it and ribbon and pressure roller.
 5824,27-Jul,14:00,N,NIC,Black line,Replace ribbon and clean scanner.
 58A3,27-Jul,14:00,Y,NUD,Out of service.,machine normal. Checked log. Jam cheque at bin 1. removed by staff. Clean the roller of bin 1. tested ok.
 58EC,27-Jul,14:40,N,NUD,jam cheque,"jam at stamp and ramp, clean scanner and ramp and sensors"
+5844,27-Jul,15:35,Y,NIC,Black line on front image,Clean scanner & stamp
 5869,27-Jul,16:20,N,NIC,Black line,Clean scanner and recalibrate scanner. Rescrew red belt and test ok. *offered 15:15
 5883,27-Jul,15:15,Y,NOZ,Black line,"No problem found on image, clean scanner & stamp"
+58DB,27-Jul,15:20,Y,NZA,No advise,"Cleaned CAS printer, tested ok"
 58AD,27-Jul,18:45,Y,NIC,Image small,Cleaned scanner. Perform TSP. Serviced machine. Test Ok.
 5837,27-Jul,19:25,N,NGB,Out of service. sensor dirty,"Clean sensor F'10', fix collection box no fully open, tested ok."
-58DB,27-Jul,15:20,Y,NZA,No advise,"Cleaned CAS printer, tested ok"
-5837,27-Jul,13:00,N,NIC,Image zoom out,"wire loose, Adjust wire (scanner), tested ok"
 5856,28-Jul,9:45,N,NIB,No endorsement,adjust printhead
 58C2,28-Jul,15:50,Y,Request,Health check,checking ramp gate and scanner 
+583D,28-Jul,10:50,Y,Request,Health Check & PM Check,Pm check with reference to document RI/PM/202007. replaced ink-roller Actual Cause: Cutoff failuare. Action Taken: Machine normal on arrival
+5837,28-Jul,9:10,Y,Request,PM Check ,"Pm check with reference to document RI/PM/202007. replaced O-ring (thickness adjustor) ,flat belt (bin 1, beach)"
+5866,28-Jul,14:30,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. 
+5867,28-Jul,13:45,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. 
 58FD,28-Jul,9:20,Y,NOA,Out of service.,Machine normal. Can't insert card. Reboot the PC. Clean the card reader. Tested ok.
 58A3,28-Jul,10:40,N,NGB,Out of service.,Clean the F10 sensor. Tested ok.
 5838,28-Jul,10:50,Y,NZA,CAS problem,clean printer
@@ -603,40 +1390,36 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 5807,28-Jul,13:15,Y,NIB,Black line,Actual: Ribbon leakage. Action taken: Cleaned scanner. Replaced ribbon. Serviced machine. Test Ok.
 584E,28-Jul,14:00,Y,NIC,Black line,Actual: Scanner dirty. Action taken: Cleaned scanner. Serviced machine. Test Ok.
 587D,28-Jul,14:00,Y,NIC,balck line,"clean scanner, replace stamp"
-583D,28-Jul,10:50,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. replaced ink-roller
-583D,28-Jul,10:50,Y,Request,Health Check,Reported: Health Check. Actual Cause: Cutoff failuare. Action Taken: Machine normal on arrival
 5891,28-Jul,16:15,Y,Request,Health check,Action taken: Replaced CAS printer. Adjusted ramp gate solenoid. Cleaned sensors. Test Ok.
 582A,28-Jul,18:20,N,NBA,Bin problem,Replace bin wire and clean scanner. Test ok.
-5837,28-Jul,9:10,Y,Request,PM Check ,"Pm check with reference to document RI/PM/202007. replaced O-ring (thickness adjustor) ,flat belt (bin 1, beach)"
-5866,28-Jul,14:30,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. 
-5867,28-Jul,13:45,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. 
 58AA,29-Jul,10:20,Y,Request,Health check,"Action taken: Cleaned sensors, adjusted ramp gate solenoid. Tighten red belt. Test Ok."
 58B4,29-Jul,9:45,Y,Request,Health check,Action taken: Cleaned sensors and rollers. Swap solenoid bin 1 & bin 3. Serviced machine. Test OK.
 58AF,29-Jul,11:00,Y,NIB,CAS blur,"CAS printing is clear, the ribbon is no ink. Replace ribbon and clean scanner. Test ok. *requested by CIT"
+58CF,29-Jul,14:30,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. 
 58B9,29-Jul,9:45,N,NGB,Jam cheque,"""FFFD"",adjust feeder gate ,Test ok"
 58C7,29-Jul,14:20,Y,NUB,Unable to scan cheque,Actual: Feeder sensor is dirty. Action taken: Cleaend sensors. Serviced machine. Test OK. *requested by CIT
+5884,29-Jul,10:50,Y,NUB,Reject cheque,clean the double detector. Tested ok.
 585B,29-Jul,13:15,N,NUD,Can't insert cheque & OOS,Actual: Roller is dirty & Jammed cheque. Action taken: Cleaned rollers. Remove jammed cheque  at scanner. Replaced ribbon. Serviced machine. Test OK.
 581C,29-Jul,14:15,N,NIC,Black line,The front scanner is dirty. Clean scanner and rescrew ink roller. Test ok.
 58CA,29-Jul,15:40,N,NUD,out of servie,"F6 sensors dirty, clean sensors and scanner, replace stamp"
 5884,29-Jul,15:15,N,NGB,Out of service,Sensor F6 is dirty. Clean sensor F6 and clean scanner. Test ok.
+58C6,29-Jul,15:15,N,HCR,Jammed cheque,"Replace card reader, tested ok"
 5854,29-Jul,16:30,Y,NIC,Image small,DO TSP. service machine
 58A6,29-Jul,15:45,Y,NIA,Crossing incomplete,Replaced stamp plate
 587E,29-Jul,16:15,Y,NIA,crossing,Replace stamp. Test ok
 580C,29-Jul,16:45,Y,NIC,Black line,"cleaning scanner,stamp and adjust ink roller"
+5826,29-Jul,17:45,Y,NIA,Crossing blur,replaced ink roller. *follow 5858
+5858,29-Jul,16:45,N,HPE,Endorsement blut,replaced pressure roller. Clean scanner TSP. Replaced ink roller. *requested by CIT
+58FE,29-Jul,15:20,Y,NIA,Crossing blur.,replaced and adjust the ink roller. Tested ok.
 58C7,29-Jul,17:15,N,NUD,Jammed cheque,Action taken: Remove jammed cheque at escrow. Adjusted roller (escrow). Serviced machine. Test OK.
 58E2,29-Jul,19:40,Y,NIC,Image brighten,"Clean scanner, perform TSP"
+58B9,29-Jul,19:55,N,NGB,Out of service,adjusted input block elasticity.
 58DC,29-Jul,20:00,Y,NIA,Crossing blur,Replace stamp
 5870,30-Jul,9:40,Y,HCA,CAS blur,Replace printer. Test ok.
 58FE,30-Jul,9:10,N,NGB,Out of service,Feeder Sensor F29 is loosen. Fix the sensor F29 and clean scanner. Test ok.
 58E9,30-Jul,10:50,Y,Request,Search cheque,"No missing cheque was found, upload logs"
 58EA,30-Jul,10:50,Y,Request,Search cheque,"No missing cheque was found, upload logs"
 58E9,30-Jul,13:30,Y,NOZ,Out of service,No problem found
-5884,29-Jul,10:50,Y,NUB,Reject cheque,clean the double detector. Tested ok.
-5826,29-Jul,17:45,Y,NIA,Crossing blur,replaced ink roller. *follow 5858
-5858,29-Jul,16:45,N,HPE,Endorsement blut,replaced pressure roller. Clean scanner TSP. Replaced ink roller. *requested by CIT
-58FE,29-Jul,15:20,Y,NIA,Crossing blur.,replaced and adjust the ink roller. Tested ok.
-58B9,29-Jul,19:55,N,NGB,Out of service,adjusted input block elasticity.
-58CF,29-Jul,14:30,Y,Request,PM Check ,Pm check with reference to document RI/PM/202007. 
 583D,30-Jul,16:30,Y,NIA,No crossing,replaced the stamp. Tested ok. *follow 5864
 5821,30-Jul,14:00,N,NIB,No endorsement,"Replace ribbon, replug onboard lan cable"
 5856,30-Jul,14:30,N,HSC,Black line,Actual: Scanner roller melted. Action taken: Replaced scanner. Serviced machine. Test OK.*RI
@@ -653,21 +1436,25 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 580E,30-Jul,18:40,Y,NIA,Crossing blur,replaced stamp. Tested ok.
 58E2,30-Jul,21:10,Y,NIC,black line,clean front scanner
 587F,30-Jul,22:00,Y,NZA,NO advice,"clean printer, found printer switch broken"
-585D,31-Jul,10:30,N,NGB,stamp motor failure out of service,clean sensor.
-5877,31-Jul,15:30,Y,NZA,CAS problem,"no insert advice in printer, insert advice and clean Printer"
-585A,31-Jul,15:30,Y,NIC,Image blackline,Clean scanner and perform TSP.
-5897,31-Jul,15:10,Y,Request,search log,search and upload logs.
-585B,31-Jul,10:15,Y,Request,Health check,Replaced scanner roller.
-58C5,31-Jul,15:50,N,NZA,CAS jammed,Cleaned paper bits. Remove jammed CAS. Serviced machine. Test OK.
-58C6,29-Jul,15:15,N,NUA,Jammed cheque,"Replace card reader, tested ok"
 581D,30-Jul,15:10,Y,NIC,Black line,"Scanner dirty, cleaned the scanner, tested ok"
 5894,30-Jul,16:55,Y,NIC,Black line,"Scanner dirty, cleaned the scanner, tested ok"
-5837,31-Jul,14:10,Y,NIC,Can't insert cheque,"No problem found, replace aligner belt, tested ok"
+585B,31-Jul,10:15,Y,Request,Health check,Replaced scanner roller.
+588E,31-Jul,9:45,Y,Request,Health check,"jam cheque at scanner,checking bank using plastic film for ribbon cartiage,replaced metal film and replaced aligner solenoid cwing"
+585D,31-Jul,10:30,N,NGB,stamp motor failure out of service,clean sensor.
+5821,31-Jul,11:40,N,NUD,jam cheque,"adjust ramp gate postion ,Test ok"
 58E2,31-Jul,13:45,Y,NZA,No advise,"No problem found, tested ok"
-58E2,31-Jul,15:15,Y,NIC,Wirte line and endorsement un cleaner,"Calibrated the scanner, tested ok"
+5837,31-Jul,14:10,Y,NIC,Can't insert cheque,"No problem found, replace aligner belt, tested ok"
+5816,31-Jul,15:10,Y,NUA,Card reader,"machine arrived normal,reinstall cas and cleaning card reader"
 5844,31-Jul,15:55,Y,NIC,Black line,"Replace stamp plate, tested ok"
-588E,,,,,,
-5816,,,,,,
-5821,,,,,,
-5826,,,,,,
-5827,,,,,,
+5877,31-Jul,15:30,Y,NZA,CAS problem,"no insert advice in printer, insert advice and clean Printer"
+58C5,31-Jul,15:50,N,NZA,CAS jammed,Cleaned paper bits. Remove jammed CAS. Serviced machine. Test OK.
+58E2,31-Jul,15:15,Y,NIC,Wirte line and endorsement un cleaner,"Calibrated the scanner, tested ok"
+5826,31-Jul,15:25,N,NIB,No endorsement,reinstall ribbon cartiage
+585A,31-Jul,15:30,Y,NIC,Image blackline,Clean scanner and perform TSP.
+5897,31-Jul,15:10,Y,Request,search log,search and upload logs.
+5827,31-Jul,16:15,N,NIC,Image black,cleaning and calibration scanner
+589F,31-Jul,15:30,N,NIC,white line,"Clean scanner and roller, tsp. Test OK."
+5849,29-Jul,15:30,N,NOZ,image not arrival,"Clean DPM box and cable, clean sensor and roller. Test OK."
+58BC,29-Jul,16:35,N,NIC,front scanner blur,"Clean scanner, DPM box, tsp. Test OK."
+588D,25-Jul,11:15,N,NUB,Reject cheque,Adjust thickness adjustor. Clean feeder roller.
+5846,31-Jul,16:25,Y,Request,Health check,Cheque jammed at bend and scanner. Replace bend and 351 belt. Replace ribbon.

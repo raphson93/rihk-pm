@@ -1,4 +1,262 @@
 CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
+67203,1-Jun,10:15,,NNW,Out of service,ATMP timeout. Replug LAN cable. Serviced machine. Test OK.
+67082,1-Jun,11:00,,NBA,box problem and search cheque,"fixed screw at box, no cheque find"
+67130,1-Jun,11:55,,NBZ,Touch screen problem,"Check touch screen, and cable, clean sensor and roller. Test OK."
+67146,1-Jun,12:35,,NJA,Jam cheque,Adjust solenoid for aligner
+67064,1-Jun,13:50,,HPE,Jammed cheque,"Repalce pressure roller, clean sensor and roller. Test OK."
+67241,1-Jun,14:05,,NAR,Jam card,no problem found. 
+67038,1-Jun,16:10,,NUA,Out of service,Clean card reader.
+67023,1-Jun,16:30,,NJS,CQ Jam,Remove jam cheque. Adjust scanner gap. Clean scanner. TSP
+67230,1-Jun,15:50,,NZA,No CAS,"Clean printer sensor, cutter. Test ok"
+67273,1-Jun,9:05,,NOC,Out of service,Clean sensor and card reader.
+67242,1-Jun,9:00,,HTR,Jammed cheque,"Replace red belt, adjust solenoid (bin 1), tested ok"
+67249,2-Jun,14:50,,NZA,No CAS,Clean printer.
+67017,2-Jun,10:15,,NBA,Collection box problem,Reinstall collection box wiring. Serviced machine. Test OK.
+67237,2-Jun,13:30,,NAC,idle,machine is ok when on arrival. Adjust input slot gate.
+67173,2-Jun,13:45,,HTR,Jammed cheque,Replaced toothed belt 380. Cleaned sensors. Serviced machine. Test OK.
+67247,2-Jun,12:50,,NOC,Out of service,Clean MDM PCB & sensor
+67071,2-Jun,15:30,,NZA,Jammed advise,"Adjust ejection roller, tested ok"
+67038,2-Jun,17:05,,NUA,Can't insert card,Clean card reader and clean scanner. Test ok.
+67161,2-Jun,9:05,,HPE,Endorsement blur,replaced pressure roller.
+67224,2-Jun,14:20,,NBZ,idle,restart monitor.
+67113,2-Jun,9:30,,NOC,Out of service,Cleaned sensors. Serviced machine. Test OK.
+67071,2-Jun,9:00,,HCA,No advise,"Replace CAS printer, tested ok"
+67201,2-Jun,11:50,,NAC,Bar lock problem,adjusted it.
+67120,2-Jun,9:10,,NZA,Jam advice.,clean the cutter. Tested ok.
+67173,2-Jun,10:05,,NNW,Out of service,"Reset Poling, tested ok"
+67198,3-Jun,9:15,,NIC,Black line,"Clean scanner, stamp and roller. Test OK."
+67219,3-Jun,14:15,,NGC,Out of service,Clean sensor F0 and clean scnaner. Test ok.
+67040,3-Jun,11:25,,NAC,Out of service,Adjust input block.
+67043,3-Jun,14:10,,NGC,Out of service,"F29 dirty, clean sensors"
+67247,3-Jun,15:15,,NAC,Out of service,"adjust 24V, clean sensors, replug cable, replace database"
+67192,3-Jun,15:40,,NOS,Reject cheque,"jam a clip into feeder gate,remove it,Test ok"
+67052,3-Jun,16:00,,NJF,Jam cheque,removed the jam cheque  at feeder pad. Tested ok.
+67242,3-Jun,15:15,,HTB,Can't insert card.,adjust 24V. Replaced bend belt.
+67157,3-Jun,17:00,,NGC,Out of service,Clean sensor F6 and clean scanner. Test ok.
+67033,3-Jun,9:00,,BIC,endorsement blur,"ribbon cartiage problem ,follow up by BOC"
+67160,4-Jun,11:00,,BIC,Jam cheque,"ribbon cartiage metal film broken,replaced ribbon cartiage"
+67830,4-Jun,10:30,,NGC,Out of service,"Cleaned sensor (F2), tested ok"
+67164,4-Jun,14:35,,NGB,Out of service,"Restart the program, tested ok"
+67178,4-Jun,12:20,,NGC,Out of service,"Clean the F10 sensor, scanner and roller. Test OK."
+67218,4-Jun,15:20,,NGC,Out of service,"Adjsut thikcness adjuster, clean F10, F11 sesnor and roller. Test OK."
+67038,4-Jun,13:00,,NJS,Jam cheque,adjust scanner belt. Tested ok.
+67038,4-Jun,14:40,,HSC,Jam cheque,replaced the scanner belt. Tested ok.
+67817,4-Jun,9:05,,NGB,Black screen,Restart PC
+67177,4-Jun,9:00,,NOP,Can't cut off,"No problem found, tested ok"
+67220,4-Jun,9:10,,NAC,Jam cheque,No jammed found. Adjust ribbon. Replug dpm cable. Delete unsend file.
+67017,5-Jun,12:20,,NBA,Collection box problem,"Adjust the collection box, tested ok"
+67037,5-Jun,11:30,,NGC,Out of service,Fix sensor F10 and clean sensor. Test ok.
+67124,5-Jun,11:45,,NNW,Out of service,ATP timeout. Adjust speed&duplex. Replug lan cable.
+67033,5-Jun,11:00,,NIB,No endorsement,Adjust printhead and ribbon.
+67144,5-Jun,13:10,,HTR,Jammed cheque,"Replace red belt, tested ok"
+67038,5-Jun,15:20,,NAC,cheque jam,Double feed. Reset the thickness adjustor and fix the feeder gate. Test ok.
+67225,5-Jun,15:20,,NOC,No touch screen,cleaning and calibration touch screen
+67174,6-Jun,10:40,,NUA,Card reader,"Check card reader, clean sensor and roller. Test OK."
+67261,6-Jun,12:00,,NAC,Card reader,Clean card reader. Adjust 24V switch.
+67225,6-Jun,11:40,,NBZ,Touch screen problem,"Reinstalled touch screen cable, clean sensor and roller. Test OK."
+67808,6-Jun,12:50,,NJB,Jam cheque,"Adjust bin 3 solenoid, tested ok"
+67113,8-Jun,10:00,,HTB,Out of service,"Cleaned sensor F9. Replaced flat belt (bend). Serviced machine, Test OK."
+67233,8-Jun,13:00,,BIC,Jam cheque,Replace ribbon.
+67165,8-Jun,11:45,,NNW,Out of service,Reset lan speed
+67236,8-Jun,12:10,,NGB,Out of service,Machine idle. Restart machine.
+67037,8-Jun,12:45,,HCA,no advice,replaced the CAS printer. Tested ok.
+67038,8-Jun,11:00,,NNW,Out of service.,No network. Replug the Lan cable. Tested ok.
+67127,8-Jun,11:00,,HSD,No crossing,replaced the stamp. Tested ok.
+67224,8-Jun,17:00,,HSD,No crossing,Replace stamp
+67806,8-Jun,16:40,,HTB,Jammed cheque,"Replace yellow belt, ribbon and adjust it. Test OK."
+67069,8-Jun,9:05,,NBZ,Touch screen problem,replug VGA cable
+67224,8-Jun,12:20,,NNW,Out of service,Reset polling
+67235,8-Jun,9:30,,NZA,CAS ,Remove jammed advice. Clean printer and scanner.
+67251,8-Jun,11:55,,NIA,Crossing blur,Adjust stamp. Replace ink roller.
+67120,9-Jun,9:15,,NJS,Jammed cheque,"Check ribbon, clean pressure roller and scanner. Test OK."
+67053,9-Jun,11:00,,NAR,Idle,"Normal, service machine. Test ok."
+67821,9-Jun,11:30,,NGC,Out of service.,clean F0 sensor. Reset the screen resolution to 800x600
+67212,9-Jun,12:20,,NGC,Jammed cheque,No jammed found. Cleaned sensor F0. Serviced machine. Test OK.
+67255,9-Jun,17:00,,NJS,jam chceque,"remove jam cheque. Clean scanner, roller and sensors"
+67081,9-Jun,16:00,,NGC,Out of service,set Elo for display touch. Clean F31
+67044,9-Jun,16:10,,NUA,Can't insert card.,clean the card reader. Adjust the feeder pad. Tested ok..
+67834,9-Jun,9:45,,NIB,No back endorsement,Ribbon is shift. Fix ribbon and clean scanner. Test ok.
+67068,9-Jun,9:05,,NAC,no Endorsement ,adjusted it.
+67110,9-Jun,10:20,,NOC,Jammed cheque,No jammed found. Cleaned sensors & rollers. Serviced machine. Test OK.
+67835,9-Jun,9:05,,HOR,Upper cover lock broken,Repalce upper cover lock
+67067,9-Jun,9:00,,NNW,Out of service,ATMP timeout. Replug LAN cable. Serviced machine. Test OK.
+67199,10-Jun,9:40,,NUA,Card reader,"Check card reader, clean sensor and roller. Test OK."
+67113,10-Jun,11:40,,NJS,Jammed cheque,Remove jammed cheque. Serviced machine. Test OK.
+67048,10-Jun,11:10,,NUB,Reject cheque,"clean rollers and all sensors, reject at feeder and micr"
+67161,10-Jun,13:05,,HTB,Out of service,"Replace flat belt (bend), tested ok"
+67081,10-Jun,17:25,,NOC,Out of service,cleaned sensor.
+67831,10-Jun,10:20,,HCR,Card reader,Replace card reader.
+67249,10-Jun,10:30,,BIC,No endorsement,replaced the ribbon. Tested ok.
+67222,11-Jun,9:05,,HTS,Jammed cheque,"Replace 145, 200 belt, clean sensor and roller. Test OK."
+67145,11-Jun,11:30,,HTB,CAS ejection,Clear database. Replaced flat belt (bend). Serviced machine. Test Ok.
+67108,11-Jun,12:00,,NAC,out of service,change setting
+67807,11-Jun,13:00,,NGB,Idle,"Restart prgram, tested ok"
+67076,11-Jun,12:35,,NUA,Card reader,Remove jammed card. Change ip address. Replug lan cable.
+67160,11-Jun,12:50,,HTS,Jammed cheque,Replaced O-ring (collection box). Serviced machine. Test OK.
+67270,11-Jun,14:30,,HCR,jam card,"remove jam card, replace card reader."
+67197,11-Jun,15:05,,NGC,Out of service,Clean sensor F9 and clean scanner. Test ok.
+67037,11-Jun,13:10,,HCA,Jam advice,replaced the CAS printer. Tested ok.
+67255,11-Jun,16:15,,HOR,Upper cover lock broken,Replace upper cover lock. Test ok
+67270,11-Jun,9:30,,HCR,Jam card,Replace card reader.
+67017,11-Jun,9:00,,NGC,Out of service,"Cleaned sensor (F1), tested ok"
+67235,11-Jun,12:05,,NZA,Jam advice,clean cutter. Tested ok.
+67807,12-Jun,9:40,,NGC,Out of service,"Cleaned sensor (F8), tested ok"
+67237,12-Jun,11:15,,NUB,Reject cheque,Adjusted feeder gate. Serviced machine. Test OK.
+67050,12-Jun,14:40,,HTB,Cheque jam,Replace belt 351 and test ok.
+67197,12-Jun,14:00,,HTB,Reject cheque,Replace bend belt and test ok.
+67276,12-Jun,17:15,,BCA,CAS,Reinsert CAS paper. Test ok
+67177,12-Jun,14:30,,NUA,Card reader,"Check card reader, clean sensor and roller. Test OK."
+67052,12-Jun,16:45,,HTB,Can't insert card. ,restart the pc. Jam cheque at ribbon. 351 belt broken. Replaced it. Tested ok.
+67209,12-Jun,16:55,,NGB,out of service,reboot machine.
+67044,12-Jun,17:15,,BIC,jam cheque,"ribbon broken, replace it."
+67203,12-Jun,9:00,,NOC,Out of service,"Cleaned socket, tested ok"
+67817,12-Jun,11:20,,NZA,CAS jam ,clean CAS
+67233,13-Jun,9:20,,BIC,No back endorsement,Reinsert ribbon and clean scanner. Test ok.
+67233,13-Jun,9:20,,NIB,No back endorsement,Reinsert ribbon and clean scanner. Test ok.
+67242,13-Jun,10:30,,NJS,jam cheque,"jam at ramp, install printhead wire"
+67016,13-Jun,12:35,,NJB,Out of service,Remove jammed cheque at sorter. Serviced machine. Test OK.
+67064,13-Jun,12:45,,NJS,Jammed cheque,"Remove cheque near in scanner, clean sensor and roller. Test OK."
+67270,15-Jun,11:15,,NOC,Out of service,"delete msgqueue, clean sensor and roller. Test OK."
+67064,15-Jun,14:05,,NJF,Jammed cheque,"Adjust thikcness adjuster, clean sensor and roller. Test OK."
+67268,15-Jun,13:35,,NOC,Card reader,"Check card reader, clean sensor and roller. Test OK."
+67160,15-Jun,14:30,,NOZ,out of service,show start bar on top of screen
+67110,15-Jun,12:15,,NOC,Out of service,Clean sensor
+67137,15-Jun,12:15,,NAR,Jan card,machine normal. 
+67067,15-Jun,14:15,,NNW,Out of service,Replug lan cable
+67134,15-Jun,14:00,,NJS,Jam scanner,adjust scanner gap.
+67023,15-Jun,15:00,,HTB,Jammed cheque,Remove jammed cheque. Replaced belt 351. Serviced machine. Test OK.
+67113,15-Jun,14:30,,NIC,image problem,Perform TSP. Test ok
+67049,15-Jun,15:47,,NGB,out of service,Restart the pc. Tested ok.
+67044,15-Jun,17:10,,NGB,Out of service,"Restart program, tested ok"
+67159,15-Jun,16:30,,NIA,No front crossing,"Adjust stamp plate, tested ok"
+67250,15-Jun,16:15,,NUA,jam card,take away jam card. Test ok.
+67126,15-Jun,9:00,,NIC,Black line,"Clean scanner, stamp and roller. Test OK."
+67111,15-Jun,16:45,,NIC,image problem,TSP perform
+67224,15-Jun,18:30,,HTF,jam cheque,replace fat o-ring 
+67135,15-Jun,11:00,,HCR,Jam card,"remove jam card, replaced card reader,Rebuild database"
+67105,16-Jun,12:00,,HCA,No Advise,"Replace CAS printer, replace gas spring, tested ok"
+67166,16-Jun,10:10,,NGB,out of service,"replug cables, reboot machine, adjust printhead"
+67842,16-Jun,15:00,,NGB,out of service,restact the pc. Copy log. Tested ok.
+67816,16-Jun,17:00,,HPC,OUt of service,Change to onboard com. Tested ok.
+67228,16-Jun,11:30,,NGC,Out of service,Clean F6 sensor. Test ok
+67219,16-Jun,15:30,,NJB,Cheque jam,Fix the bin 1 solenoid and clean scanner. Test ok.
+67219,16-Jun,15:30,,NJB,Cheque jam,Fix the bin 1 solenoid and clean scanner. Test ok.
+67090,16-Jun,13:45,,NNW,Out of service,Reset IP
+67155,16-Jun,14:00,,NGC,out of service,clean F29 sensor. Reinstall solenoid. Tested ok.
+67211,16-Jun,16:00,,NZA,no advice,adjust and clean CAS printer. Tested ok.
+67026,16-Jun,13:15,,NUA,Cannot insert card,"Remove jam card, reboot pc. Test ok"
+67135,16-Jun,14:20,,HCR,card reader,"Card jam, replace card reader, clean sensor and roller. Test OK."
+67834,16-Jun,14:30,,HPC,Card jam,The moxa card is loosen. Replug the moxa card and clean card reader. Test ok.
+67834,16-Jun,14:30,,HPC,Card jam,The moxa card is loosen. Replug the moxa card and clean card reader. Test ok.
+67185,16-Jun,10:30,,NIC,Image smaller,"Adjust the scanner wire, tested ok"
+67817,16-Jun,9:00,,HCA,No CAS,Replace CAS printer
+67269,17-Jun,10:50,,NIA,No stamp,Clean stamp and rescrew ink roller. Test ok.
+67835,17-Jun,10:15,,NIC,Image small,"Clean scanner, perform TSP"
+67024,17-Jun,11:45,,HCA,No CAS,Replace CAS printer
+67017,17-Jun,12:00,,HTS,jam cheque,Replaced collection O -Ring*6
+67843,17-Jun,10:45,,NIB,no endorsement,replaced ribbon and adjusted it.
+67251,17-Jun,16:50,,HSD,No crossing and endorsement,replaced BOC stamp and ribbon cartiage
+67137,17-Jun,16:30,,NIC,Image small,Clean scanner and recalibrate scanner. Test ok.
+67187,17-Jun,17:20,,NIC,Image small,Clean scanner and recalibrate scanner. Test ok.
+67124,17-Jun,9:00,,NJS,Jam cheque,rescrew drum.
+67155,17-Jun,10:30,,HTF,Reject cheque,Replace prefeed roller and clean feeder sensors. Test ok.
+67210,17-Jun,18:45,,NOZ,Upper cover problem,install the upper door bar. Tested ok.
+67817,17-Jun,9:00,,HOR,Bar lock broken,Replace bar lock
+67242,18-Jun,11:15,,NUA,IDLE,Clean card reader.
+67103,18-Jun,12:25,,BIC,No endorsement,Reinstall ribbon
+67120,18-Jun,11:45,,NNW,Out of service,"Reset poling, cleaned LAN card, tested ok"
+67806,18-Jun,13:10,,NGC,out of service,Adjust F9 sensor
+67816,18-Jun,14:00,,NUA,Card jam,Replug the card reader cable and clean scanner. Test ok
+67126,18-Jun,15:30,,NGC,Out of service,Clean sensor F10 and clean scanner. Test ok.
+67021,18-Jun,15:15,,NGC,Out of service,F29 sensor. Problem. Replug the sensor. Tested ok.
+67082,18-Jun,15:50,,NIC,Image problem,Cleaned scanner. Serviced machine. Test OK.
+67248,18-Jun,17:10,,NUB,Can't insert cheque,The feeder stick is loosen. Fix feeder stick and test ok.
+67003,18-Jun,9:05,,NUA,Card reader problem,cleaned it.
+67105,18-Jun,10:10,,NZA,Jam CAS,Removed jammed advice.
+67189,19-Jun,11:40,,NGC,Out of service,Clean sensor F4 and replace ribbon. Clean scanner and test ok.
+67037,19-Jun,14:30,,NGC,Out of service,F6 sensor problem. Replug and adjust the sensor. Tested ok.
+67268,19-Jun,13:50,,NUA,Can't insert card,"Cleaned card reader, tested ok"
+67002,19-Jun,15:15,,NOS,Can't read card,The admin card is old. Can't read by reader. Clean card reader and test ok.
+67147,19-Jun,9:50,,BIR,No crossing,Replace ink roller
+67235,19-Jun,11:00,,HSD,Out of service,Stamp failure. Replace 200 belt. Adjust metal. Replace printer.
+67127,19-Jun,9:00,,NIC,Black line,clean scanner and roller. Tested ok.
+67134,20-Jun,12:25,,NJA,Out of service,"Adjust solenoid (Aligner), tested ok"
+67826,20-Jun,11:45,,HTA,Jam Cheque,Replace aligner belt. Test ok.
+67037,20-Jun,12:30,,NGC,Out of service,F6 sensor problem. Replug and adjust the sensor. Tested ok.
+67820,22-Jun,11:15,,NOC,No touch screen,cleaning and calibration touch screen
+67105,22-Jun,11:40,,HCA,Jam CAS,Replaced printer.
+67196,22-Jun,12:15,,NGC,Out of service,"Cleaned sensor (DD1), tested ok"
+67097,22-Jun,14:30,,NGC,Out of service,Clean sensor F8 and test ok.
+67073,22-Jun,12:10,,NAC,card reader and screen no respond,replug USB cables
+67820,22-Jun,12:30,,HLT,Touch screen no response,Replace touch screen.
+67026,22-Jun,14:45,,NZA,jam advice,remove advice
+67835,22-Jun,15:10,,NIC,Image small,"clean scanner, smj,"
+67836,22-Jun,16:35,,NGB,Out of service,Restart machine. Clean scanner.
+67135,22-Jun,9:20,,NJB,Jammed cheque,"Adjust solenoid (bin 1), tested ok"
+67825,23-Jun,10:20,,HCR,"jam card,","remove card, replace card reader and fat o-ring"
+67103,23-Jun,11:50,,NIB,no endorsement,adjust printhead.
+67046,23-Jun,15:00,,HPE,No endorsement,Replace dc motor.
+67844,23-Jun,14:15,,NGC,out of service,Adjust F10 sensor.
+67163,23-Jun,14:15,,NUB,High reject,"clean MICR, stamp. Replaced ink roller."
+67050,23-Jun,15:25,,NOZ,Upper cover problem,"Adjust upper cover lock, clear black line"
+67137,23-Jun,9:05,,NIC,Image small,Recalibrate scanner and replace ribbon. Test ok.
+67040,23-Jun,9:00,,NGC,Beep sound,F8 sensor dirty
+67188,24-Jun,9:35,,HTB,Jammed cheque,"Replaced flat belt (bend). Serviced machine. Test OK.,"
+67017,24-Jun,10:00,,NOC,Jammed cheque,"Cleaned sensors, check card reader & DPM. Serviced machine. Test Ok."
+67126,24-Jun,14:15,,NBA,Collection box problem,"Adjust the collection box, tested ok"
+67225,24-Jun,13:20,,NAR,Idle,No problem found. Clean micr belt.
+67066,24-Jun,11:15,,HTB,jam cheque,replace 351 tooth belt.
+67270,24-Jun,11:30,,NGB,Black screen,Restart PC
+67134,24-Jun,10:05,,HCR,Can't insert cheque,Adjust feeder plate. Replace card reader.
+67113,24-Jun,11:50,,HOR,Upper door problem,"Replace lock and key (upper door), tested ok"
+67074,24-Jun,16:15,,BIC,Jammed cheque,Replaced ribbon. Serviced machine. Test OK.
+67154,24-Jun,11:35,,NUA,Card jam,Clean card reader and remove card. Test ok.
+67149,24-Jun,15:35,,NIC,Image problem,Cleaned scanner. Perform TSP. Serviced machine. Test OK.
+67160,24-Jun,14:40,,NGC,Out of service,F8 sensor dirty
+67805,24-Jun,16:50,,NBZ,Touch screen problem,Reinstall touch screen driver
+67235,24-Jun,15:00,,NAC,Out of service,Adjust L metal. Clean scanner.
+67030,24-Jun,16:50,,NGC,Out of service,"Cleaned sensor (F11), tested ok"
+67100,24-Jun,10:20,,HCR,Jammed card,Replaced card reader. Serviced machine. Test OK.
+67804,24-Jun,9:00,,NJS,Cheque jam,reinstall the yellow belt. Tested ok.
+67272,26-Jun,9:10,,NGB,Out of service,"Check DPM and poewr cable, clean scanner and roller. Test OK."
+67829,26-Jun,10:15,,NIC,Small image,"clean scanner, smj,"
+67130,26-Jun,10:45,,NZA,CAS problem,"Check printer, clean sensor and roller. Test OK."
+67040,26-Jun,11:45,,NJS,Jam cheque,Remove cheque at scanner
+67074,26-Jun,12:05,,NOC,Out of service,Clean board and scanner. Test ok.
+67269,26-Jun,12:00,,NJS,Cheque jam,reinstall the yellow belt. Tested ok.
+67818,26-Jun,12:15,,NBZ,small display,set resolution and elo.
+67060,26-Jun,13:55,,HTB,Jammed cheque,"Replace ribbon and ink roller, replace flat belt (bend), tested ok"
+67016,26-Jun,14:40,,NJS,jam cheque,clean solenoid at bin 1
+67901,26-Jun,14:20,,NAC,Flush cheque ,Adjust stamp gap & bend belt
+67839,26-Jun,15:50,,NOP,Out of service,Bin full. Perform TTC. Serviced machine. Test OK.
+67839,27-Jun,11:40,,NAC,Out of service,"Check 24V, clean sensor and roller. Test OK."
+67233,27-Jun,10:15,,BIC,No back endorsement,Ribbon is broken. Replace ribbon and clean scanner. Test ok.
+67105,27-Jun,11:45,,NZA,CAS,Clean printer. Reinstall printer driver.
+67111,29-Jun,9:55,,NGC,Out of service,Clean F6 sensor. Test ok
+67023,29-Jun,12:00,,HCA,CAS jammed ,Replaced CAS printer. Serviced machine. Test OK.
+67024,29-Jun,12:00,,NNW,Out of service,Replug lan cable. Adjust thickness adjustor.
+67821,29-Jun,12:35,,NGC,Out of service,Clean F0 sensor
+67017,29-Jun,12:30,,HTB,Jam cheque,replaced c-ring and bend belt.
+67125,29-Jun,14:00,,NNW,Out of service,"Atmp timeout, ip address duplicate, reset to 28"
+67090,29-Jun,12:50,,NJS,Jammed cheque,"Fixed the ribbon, clean sensor and roller. Test OK."
+67249,29-Jun,14:20,,HTB,Jam cheque,replaced the yellow belt.  Tested ok.
+67013,29-Jun,16:30,,NIC,Black line,Clean scanner & stamp
+67198,29-Jun,15:45,,NGC,Out of service,"Clean the F29 sensor, scanner and roller.Test OK."
+67230,29-Jun,16:30,,NGA,No power,Turn on switch. Perform reconcilation.
+67005,29-Jun,14:50,,NAC,Out of service,"""FFFD"",adjust feeder gate and feeder pad"
+67227,29-Jun,17:05,,NNW,Out of service,"Reset Poling, tested ok"
+67137,29-Jun,9:20,,NOC,Out of service,Clean feeder sensors and clean scanner. Test ok.
+67024,29-Jun,9:00,,NNW,Out of service.,change Lan setting to full 100
+67018,30-Jun,11:20,,NOZ,Bar lock broken,"Reinstalled the escow (bar lock), TSP, cleaned the LAN card, tested ok"
+67259,30-Jun,11:10,,HSD,No crossing,replaced the stamp and ink roller. Tested ok.
+67139,30-Jun,12:00,,HTF,Can't insert cheque,"Replaced prefeed roller assy. Cleaend card reader, replaced ribbon. Serviced machine. Test OK."
+67254,30-Jun,14:50,,NGC,Out of service,"Remove cheque at double detector, cleaned sensor (F9), tested ok"
+67076,30-Jun,14:10,,NOC,Out of service,clean sensor and adjust stamp.
+67220,30-Jun,16:10,,HTS,Jam cheque,"Remove cheque at sorter, replace bin 2 solenoid"
+67053,30-Jun,17:15,,NJF,Jam cheque,removed jam cheque  at feeder.
+67824,30-Jun,9:05,,HCR,Card jam,Replace Card reader and test ok.
+67105,30-Jun,9:05,,HCA,CAS jam,replaced printer.
+67149,30-Jun,9:50,,NIC,Image unclear,cleaning scanner and calibration scanner
 67068,02-Jul,14:30,,NOP,Out of service,Bin full. Perform TTC. Serviced machine. Test Ok.
 67160,02-Jul,11:00,,NIC,Image,"Clean scanner, stamp, pressure roller. Perform tsp."
 67148,02-Jul,12:15,,NNW,Out of service,Reconfigure IP. Test ok
