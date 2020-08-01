@@ -94,7 +94,9 @@
           return "";
     }
 
-
+    var loginName = localStorage.getItem("username");
+    document.getElementById("header").innerHTML=" Hi " + loginName;
+    
     CsvToHtmlTable.init({
         csv_path: 'data/boc.csv',
         element: 'table-container', 
@@ -103,8 +105,6 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    var loginName = localstorage.getitem("userName");
-    document.getElementById("test").innerHTML="Hi " + loginName;
     </script>
   </body>
 </html>

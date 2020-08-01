@@ -79,10 +79,10 @@
 	
 
   function signOut() {
-      /*gapi.auth2.getAuthInstance().signOut().then(function() {
-        console.log("User sign out");
-        alert("User sign out.");
-      })*/
+      gapi.auth2.getAuthInstance().signOut().then(function() {
+        //console.log("User sign out");
+        //alert("User sign out.");
+      })
       location.href="index.html";
 
     }
@@ -94,7 +94,8 @@
           return "";
     }
 
-
+    var loginName = localStorage.getItem("username");
+    document.getElementById("header").innerHTML=" Hi " + loginName;
     CsvToHtmlTable.init({
         csv_path: 'data/hase.csv',
         element: 'table-container', 
@@ -103,8 +104,6 @@
         datatables_options: {"paging": false},
         custom_formatting: [[4, format_link]]
       });
-    var loginName = localstorage.getitem("userName");
-    document.getElementById("test").innerHTML="Hi " + loginName;
     </script>
   </body>
 </html>
