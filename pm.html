@@ -57,6 +57,7 @@
 
 
   <script type="text/javascript">
+  "use strict";
   
 	var isAuthorized = localStorage.getItem("authorize");
   //console.log("isauthorized?" + isAuthorized);
@@ -95,17 +96,17 @@
           return "";
   }
       
-      function initCSV(){
-        "use strict";
-        CsvToHtmlTable.init({
-        csv_path: 'data/pmlist.csv',
-        element: 'table-container',
-        allow_download: false,
-        csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false},
-        custom_formatting: [[4, format_link]]
-      });
-      }
+  function initCSV(){
+    
+    CsvToHtmlTable.init({
+    csv_path: 'data/pmlist.csv',
+    element: 'table-container',
+    allow_download: false,
+    csv_options: {separator: ',', delimiter: '"'},
+    datatables_options: {"paging": false},
+    custom_formatting: [[4, format_link]]
+    });
+  }
 
       if (isAuthorized === false)
       {
