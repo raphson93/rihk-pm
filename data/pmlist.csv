@@ -285,7 +285,7 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 58E5,11-Jul,16:15,N,NGZ,check hqs,call atm open controller. Service machine. *requested by CIT
 58A2,11-Jul,20:55,N,NUD,Jam cheque on bin 1,adjust the cheque of bin 1. tested ok.
 58E2,12-Jul,10:15,Y,Request,Upgrade application,wrong password. Need follow other disk.
-58B5,12-Jul,12:15,N,NUD,Jam cheque on bin 1,removed jam cheque. Adjust the cheque of bin 1. clean the roller of bin 1. tested ok. *follow 58E2
+58B5,12-Jul,12:15,N,NUD,Jam cheque on bin 1,removed jam cheque. Adjust the cheque of bin 1. clean the roller of bin 1. tested ok. *follow '58E2
 5831,12-Jul,18:15,N,NUD,Jam cheque,Remove jammed cheque at escrow. Clean F8 sensor and roller.
 580E,12-Jul,18:45,N,NGB,Out of service.,clean and adjust the stamp and ink roller. Tested ok.
 58E2,13-Jul,16:00,Y,Request,Upgarde,Upgrade application
@@ -666,3 +666,8 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 58E2,31-Jul,13:45,Y,NZA,No advise,"No problem found, tested ok"
 58E2,31-Jul,15:15,Y,NIC,Wirte line and endorsement un cleaner,"Calibrated the scanner, tested ok"
 5844,31-Jul,15:55,Y,NIC,Black line,"Replace stamp plate, tested ok"
+588E,,,,,,
+5816,,,,,,
+5821,,,,,,
+5826,,,,,,
+5827,,,,,,
