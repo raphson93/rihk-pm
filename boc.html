@@ -16,7 +16,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.css" rel="stylesheet">
 	 <link href="css/google.css" rel="stylesheet">
-    <h2 id="test"></h2>
+    <h2 id="header"></h2>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -96,7 +96,7 @@
 
     var loginName = localStorage.getItem("username");
     document.getElementById("header").innerHTML=" Hi " + loginName;
-    
+
     CsvToHtmlTable.init({
         csv_path: 'data/boc.csv',
         element: 'table-container', 
