@@ -689,3 +689,32 @@ CQM,Date,Arrival Time,Machine Down?,Problem Code,Fault Found  by vendor,Remarks
 4DA3,31-Jul,11:40,Y,Request,Health Check,"Replace F2, F1 and F29 sensor board, clean scanner and roller. Test OK."
 4C54,30-Jul,9:45,N,NIA,No crossing,Replace ink roller. Rescrew upper cover lock. Perform TSP.
 4C61,31-Jul,10:00,N,NIA,No crossing,Replaec stamp. Adjust printhead.
+4C21,01-Aug,10:20,N,NIA,jam cheque due to Crossing problem,"Replace stamp, ink roller and adjust it, clean scanner and roller. Test OK."
+4C28,01-Aug,11:05,Y,Request,Health Check,"Replace printer, clean sensor and roller. Test OK."
+4C7E,01-Aug,11:00,Y,Request,Health Check - CAS feed,Clean the CAS printer. Tested ok.
+4C8E,01-Aug,11:00,N,NGB,F6 sensor engaged,"No jammed cheque, clean sensor. *offered 10:00"
+4C02,01-Aug,11:15,N,NUD,Jammed cheque,Remove jammed cheque at ramp gate. Adjusted roller. Serviced machine. Test OK.
+4C42,01-Aug,15:20,Y,NZA,CAS jam,"Replace printer, reinstalled driver, clean sensor and roller. Test OK."
+4C91,01-Aug,15:50,N,NUD,Jam cheque at rejection slot.,removed the jam cheque. Clean red belt. Tested ok.
+4C0C,01-Aug,13:30,N,NUD,Jam cheqeu at bin 1,can't inserted to bin 1. aarrange cheque in bin 1. tested ok.
+4C2C,02-Aug,10:00,Y,Request,Health check,Jam advice problem. Clean printer and card reader.
+4C04,03-Aug,10:00,N,NGC,Manually closed,Raid error. Recover raid. Serviced machine. Test OK.
+4C6A,03-Aug,10:00,Y,Request,PM Check,Pm check with reference to document RI/PM/202008. *replace ink roller
+4C1F,03-Aug,12:00,Y,Request,Health Check,"jam cheque-cleaning and adjust feed roller,feeder pad,Out of service-cleaning cas printer"
+4C02,03-Aug,10:00,N,NGB,Out of service,"stamp motor failture,adjust 351 belt gear postion"
+4C4B,03-Aug,15:20,N,HLT,No screen ,"Replace touch monitor, tested ok"
+4C17,03-Aug,14:00,N,NGZ,no display,polling closed. reset controller.
+4C38,03-Aug,14:45,N,NIC,Image small,clean scanner smj.
+4C07,03-Aug,17:15,Y,NZA,No CAS,Remove jammed CAS. Serviced machine & CAS printer. Serviced machine. Test OK.
+4C5F,04-Aug,10:20,N,NIA,No crossing,replaced stamp plate
+4C58,04-Aug,14:15,Y,Request,Health Check - No CAS,reinsert cas paper. Service machine
+4C22,04-Aug,10:00,N,Request,Health Check - CAS feed,"Reinsrt advise, tested ok"
+4C17,04-Aug,9:45,N,NZA,No advise,"Reinsrt advise, tested ok"
+4C63,04-Aug,11:00,Y,HCA,Advise blur,"Replace CAS print head, tested ok"
+4C43,04-Aug,14:30,Y,Request,PM Check,Pm check with reference to document RI/PM/202008. 
+4C3C,04-Aug,15:10,Y,Request,PM Check,Pm check with reference to document RI/PM/202008. 
+4C51,04-Aug,10:30,N,NUD,Jam cheque,No jammed found. Clean F6 sensor. Replace ink roller.
+4C61,04-Aug,11:30,N,HPE,No endorsement,Replace pressure roller.
+4C70,04-Aug,11:45,N,NUD,Jammed cheque,"Flat belt (330) dirty, cleaned the flat belt, tested ok"
+4C39,04-Aug,11:45,Y,NIC,Small image.,clean scanner and roller. TSP. tested ok.
+4C98,04-Aug,12:30,N,NOA,Out of service,"Cutoff time failure, cutoff time handling, tested ok"
