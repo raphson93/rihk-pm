@@ -72,6 +72,7 @@
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
     <script type="text/javascript" src="js/moment.js"></script>
     <script type="text/javascript" src="js/datetime-moment.js"></script>
+    <script type="text/javascript" src="js/date-uk.js"></script>
     <!--<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>-->
 
   <script type="text/javascript">
@@ -120,7 +121,9 @@
     element: 'table-container',
     allow_download: false,
     csv_options: {separator: ',', delimiter: '"'},
-    datatables_options: {"paging": false, "type": ['date', 'targets: 0'], "order": [[0, "desc"]]},
+    datatables_options:{"paging": false, columnDefs: [
+       { type: 'date-uk', targets: 0 }
+     ], "order": [[0, "desc"]]},
     //datatables_options: {"order": [[0, 'desc']]},
     custom_formatting: [[4, format_link]]
     });
