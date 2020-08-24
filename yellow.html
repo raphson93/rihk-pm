@@ -121,10 +121,11 @@
     element: 'table-container',
     allow_download: false,
     csv_options: {separator: ',', delimiter: '"'},
-    datatables_options:{"paging": false, columnDefs: [
-       { type: 'date-uk', targets: 0 }
-     ], "order": [[0, "desc"]]},
+    datatables_options:{"paging": false, "order": [[0, "desc"]]},
     //datatables_options: {"order": [[0, 'desc']]},
+    columnDefs: [
+       { type: 'date-uk', targets: 0 }
+     ], 
     custom_formatting: [[4, format_link]]
     });
   }
